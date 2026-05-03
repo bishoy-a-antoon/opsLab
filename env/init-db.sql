@@ -1,3 +1,0 @@
-CREATE DATABASE metabase_db;
-CREATE DATABASE n8n_db;
-CREATE DATABASE analytics_db;

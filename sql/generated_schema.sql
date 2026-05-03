@@ -1,0 +1,193 @@
+CREATE TABLE IF NOT EXISTS "churn_cases" (
+    "churn_id" TEXT,
+    "account_id" TEXT,
+    "company" TEXT,
+    "plan" TEXT,
+    "arr_lost" REAL,
+    "mrr_lost" REAL,
+    "churn_date" DATE,
+    "churn_reason_primary" TEXT,
+    "churn_reason_secondary" TEXT,
+    "health_score_at_churn" REAL,
+    "health_status_at_churn" TEXT,
+    "days_since_last_login" INTEGER,
+    "csm_owner" TEXT,
+    "save_attempted" TEXT,
+    "save_offer_type" TEXT,
+    "save_succeeded" TEXT,
+    "win_back_eligible" TEXT,
+    "competitor_moved_to" TEXT,
+    "contract_remaining_months" INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS "support_tickets" (
+    "ticket_id" TEXT,
+    "account_id" TEXT,
+    "company" TEXT,
+    "plan" TEXT,
+    "category" TEXT,
+    "priority" TEXT,
+    "status" TEXT,
+    "subject" TEXT,
+    "agent_assigned" TEXT,
+    "created_date" DATE,
+    "created_time" TEXT,
+    "resolved_date" DATE,
+    "resolution_hours" REAL,
+    "sla_target_hours" INTEGER,
+    "sla_breached" TEXT,
+    "first_response_hours" REAL,
+    "escalated_to_tier2" TEXT,
+    "csat_score" INTEGER,
+    "reopened" TEXT,
+    "channel" TEXT
+);
+
+CREATE TABLE IF NOT EXISTS "escalations" (
+    "escalation_id" TEXT,
+    "ticket_id" TEXT,
+    "account_id" TEXT,
+    "company" TEXT,
+    "plan" TEXT,
+    "original_priority" TEXT,
+    "escalated_to" TEXT,
+    "escalation_reason" TEXT,
+    "escalation_date" DATE,
+    "resolution_hours" REAL,
+    "resolved" TEXT,
+    "root_cause" TEXT,
+    "customer_satisfaction_after" INTEGER,
+    "required_engineering" TEXT
+);
+
+CREATE TABLE IF NOT EXISTS "onboarding_cases" (
+    "onboarding_id" TEXT,
+    "account_id" TEXT,
+    "company" TEXT,
+    "plan" TEXT,
+    "csm_owner" TEXT,
+    "kickoff_date" DATE,
+    "go_live_date" DATE,
+    "target_days_to_value" INTEGER,
+    "actual_days_to_value" INTEGER,
+    "on_time" TEXT,
+    "delay_days" INTEGER,
+    "primary_delay_reason" TEXT,
+    "current_phase" TEXT,
+    "completed" TEXT,
+    "kickoff_call_held" TEXT,
+    "data_migration_complete" TEXT,
+    "quickbooks_connected" TEXT,
+    "tech_app_adopted" TEXT,
+    "first_invoice_sent" TEXT,
+    "health_score_at_day30" REAL,
+    "nps_at_day30" INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS "customers" (
+    "account_id" TEXT,
+    "company" TEXT,
+    "industry" TEXT,
+    "state" TEXT,
+    "plan" TEXT,
+    "tech_count" INTEGER,
+    "mrr" REAL,
+    "arr" REAL,
+    "contract_months" INTEGER,
+    "start_date" DATE,
+    "renewal_date" DATE,
+    "csm_owner" TEXT,
+    "health_score" REAL,
+    "health_status" TEXT,
+    "logins_last_30d" INTEGER,
+    "jobs_dispatched_30d" INTEGER,
+    "mobile_adoption_pct" INTEGER,
+    "nps_score" INTEGER,
+    "open_p1p2_tickets" INTEGER,
+    "last_login_date" DATE,
+    "last_qbr_date" DATE,
+    "analytics_addon" TEXT,
+    "inventory_addon" TEXT,
+    "portal_pro_addon" TEXT,
+    "churn_risk_flag" TEXT,
+    "expansion_potential" TEXT
+);
+
+CREATE TABLE IF NOT EXISTS "account_notes" (
+    "note_id" TEXT,
+    "account_id" TEXT,
+    "company" TEXT,
+    "note_type" TEXT,
+    "author" TEXT,
+    "created_date" DATE,
+    "note_content" TEXT,
+    "follow_up_required" TEXT,
+    "follow_up_date" DATE
+);
+
+CREATE TABLE IF NOT EXISTS "leads" (
+    "lead_id" TEXT,
+    "first_name" TEXT,
+    "last_name" TEXT,
+    "company" TEXT,
+    "industry" TEXT,
+    "state" TEXT,
+    "lead_source" TEXT,
+    "tech_count" INTEGER,
+    "likely_plan" TEXT,
+    "current_system" TEXT,
+    "stage" TEXT,
+    "assigned_rep" TEXT,
+    "lead_score" INTEGER,
+    "created_date" DATE,
+    "mql_date" DATE,
+    "email_opened" TEXT,
+    "demo_requested" TEXT
+);
+
+CREATE TABLE IF NOT EXISTS "renewal_cases" (
+    "renewal_id" TEXT,
+    "account_id" TEXT,
+    "company" TEXT,
+    "plan" TEXT,
+    "csm_owner" TEXT,
+    "renewal_date" DATE,
+    "original_acv" REAL,
+    "new_acv" REAL,
+    "acv_change" REAL,
+    "outcome" TEXT,
+    "upsell_product_added" TEXT,
+    "upsell_arr_added" REAL,
+    "renewal_cycle_days" INTEGER,
+    "multi_year" TEXT,
+    "discount_offered" TEXT,
+    "health_score_at_renewal" REAL,
+    "qbr_held_before_renewal" TEXT,
+    "days_to_renewal_when_engaged" INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS "opportunities" (
+    "opp_id" TEXT,
+    "lead_id" TEXT,
+    "company" TEXT,
+    "industry" TEXT,
+    "state" TEXT,
+    "plan_type" TEXT,
+    "tech_count" INTEGER,
+    "acv" INTEGER,
+    "mrr" INTEGER,
+    "stage" TEXT,
+    "ae_owner" TEXT,
+    "created_date" DATE,
+    "close_date" DATE,
+    "sales_cycle_days" INTEGER,
+    "demo_completed" TEXT,
+    "trial_started" TEXT,
+    "competitors_evaluated" TEXT,
+    "win_reason" TEXT,
+    "lost_reason" TEXT,
+    "won_date" DATE,
+    "probability_pct" INTEGER
+);
+
+

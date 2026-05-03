@@ -1,0 +1,9 @@
+COPY account_notes FROM '/data/raw/account_notes.csv' WITH (FORMAT csv, HEADER true);
+COPY churn_cases FROM '/data/raw/churn_cases.csv' WITH (FORMAT csv, HEADER true);
+COPY customers FROM '/data/raw/customers.csv' WITH (FORMAT csv, HEADER true);
+COPY escalations FROM '/data/raw/escalations.csv' WITH (FORMAT csv, HEADER true);
+COPY leads FROM '/data/raw/leads.csv' WITH (FORMAT csv, HEADER true);
+COPY onboarding_cases FROM '/data/raw/onboarding_cases.csv' WITH (FORMAT csv, HEADER true);
+COPY opportunities FROM '/data/raw/opportunities.csv' WITH (FORMAT csv, HEADER true);
+COPY renewal_cases FROM '/data/raw/renewal_cases.csv' WITH (FORMAT csv, HEADER true);
+COPY support_tickets FROM '/data/raw/support_tickets.csv' WITH (FORMAT csv, HEADER true);
