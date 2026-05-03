@@ -1,0 +1,89 @@
+escalation_id,ticket_id,account_id,company,plan,original_priority,escalated_to,escalation_reason,escalation_date,resolution_hours,resolved,root_cause,customer_satisfaction_after,required_engineering
+ESC-0001,TKT-00001,ACC-0155,Dynamic Plumbing Professionals,Growth,P2,Tier 2 – Senior SE,P1 outage confirmed,2025-04-30,49.2,Yes,Network/infrastructure issue,4,No
+ESC-0002,TKT-00018,ACC-0551,Premier Electrical Professionals,Growth,P2,Tier 2 – Senior SE,Complex integration failure,2024-12-30,36.9,No,Known platform bug – patch released,2,No
+ESC-0003,TKT-00061,ACC-0022,Summit Electrical Services,Growth,P2,Tier 2 – Senior SE,Repeated escalation by same account,2024-11-06,59.5,Yes,Data migration error,5,No
+ESC-0004,TKT-00072,ACC-0209,Heritage Pest Control Partners,Growth,P1,Tier 2 – Senior SE,P1 outage confirmed,2024-03-19,33.3,Yes,Permissions misconfiguration,4,No
+ESC-0005,TKT-00084,ACC-0003,SwiftLine Plumbing Group,Pro,P2,Tier 2 – Senior SE,Complex integration failure,2025-05-25,59.0,Yes,Permissions misconfiguration,5,No
+ESC-0006,TKT-00094,ACC-0376,SwiftLine Plumbing Professionals,Enterprise,P2,Tier 2 – Senior SE,P1 outage confirmed,2025-01-14,12.3,Yes,Third-party API change (QuickBooks),4,No
+ESC-0007,TKT-00102,ACC-0271,Premier Facilities Management Works,Pro,P2,Tier 2 – Senior SE,Data corruption concern,2024-01-20,70.5,No,Customer misconfiguration,3,No
+ESC-0008,TKT-00173,ACC-0528,Summit Facilities Management Professionals,Growth,P2,Tier 3 – Engineering,P1 outage confirmed,2025-01-20,23.5,Yes,Customer misconfiguration,2,Yes
+ESC-0009,TKT-00187,ACC-0588,Apex Pest Control Services,Pro,P2,Tier 2 – Senior SE,P1 outage confirmed,2025-02-15,50.0,Yes,Customer misconfiguration,5,No
+ESC-0010,TKT-00218,ACC-0120,National Plumbing Group,Starter,P2,Tier 2 – Senior SE,SLA breach imminent,2025-01-08,64.2,Yes,Customer misconfiguration,2,No
+ESC-0011,TKT-00223,ACC-0294,ProServ Facilities Management Works,Pro,P1,Tier 2 – Senior SE,Complex integration failure,2025-04-24,13.0,Yes,Data migration error,5,No
+ESC-0012,TKT-00271,ACC-0148,SwiftLine HVAC Partners,Pro,P2,Tier 2 – Senior SE,P1 outage confirmed,2024-01-29,60.7,Yes,Data migration error,4,No
+ESC-0013,TKT-00304,ACC-0050,OneCall Facilities Management Group,Growth,P2,Tier 2 – Senior SE,Repeated escalation by same account,2025-02-19,27.1,Yes,Data migration error,4,No
+ESC-0014,TKT-00309,ACC-0085,Summit Plumbing Works,Pro,P2,Tier 2 – Senior SE,Customer threatening churn,2024-08-25,67.2,Yes,Customer misconfiguration,4,No
+ESC-0015,TKT-00322,ACC-0419,Heritage Pest Control Professionals,Enterprise,P2,Tier 3 – Engineering,Repeated escalation by same account,2024-01-24,63.7,Yes,Data migration error,4,Yes
+ESC-0016,TKT-00328,ACC-0020,TrustWorks HVAC Technologies,Enterprise,P2,Tier 2 – Senior SE,Data corruption concern,2024-01-29,5.5,Yes,Network/infrastructure issue,5,No
+ESC-0017,TKT-00352,ACC-0611,TrustWorks Plumbing Associates,Growth,P2,Tier 2 – Senior SE,P1 outage confirmed,2024-09-03,18.2,Yes,Known platform bug – patch released,4,No
+ESC-0018,TKT-00393,ACC-0274,National Landscaping Experts,Growth,P2,Tier 2 – Senior SE,Customer threatening churn,2024-06-04,69.2,Yes,Customer misconfiguration,3,No
+ESC-0019,TKT-00426,ACC-0520,National HVAC Partners,Pro,P2,Tier 2 – Senior SE,Data corruption concern,2024-02-23,18.0,Yes,Known platform bug – patch released,4,No
+ESC-0020,TKT-00427,ACC-0545,ProServ Facilities Management Partners,Growth,P2,Tier 2 – Senior SE,Repeated escalation by same account,2024-08-24,49.5,Yes,Network/infrastructure issue,4,No
+ESC-0021,TKT-00438,ACC-0236,TrustWorks HVAC Solutions,Enterprise,P1,Tier 3 – Engineering,Repeated escalation by same account,2024-03-15,63.5,Yes,Network/infrastructure issue,5,Yes
+ESC-0022,TKT-00444,ACC-0246,Apex HVAC Professionals,Starter,P1,Tier 2 – Senior SE,Repeated escalation by same account,2024-07-19,46.5,Yes,Permissions misconfiguration,3,No
+ESC-0023,TKT-00482,ACC-0276,Premier Plumbing Technologies,Enterprise,P2,Tier 3 – Engineering,SLA breach imminent,2024-05-12,12.5,Yes,Permissions misconfiguration,5,Yes
+ESC-0024,TKT-00486,ACC-0150,National HVAC Professionals,Starter,P2,Tier 2 – Senior SE,P1 outage confirmed,2025-01-25,56.1,Yes,Third-party API change (QuickBooks),4,No
+ESC-0025,TKT-00543,ACC-0284,RapidFix HVAC Systems,Starter,P2,Tier 3 – Engineering,P1 outage confirmed,2025-04-27,62.9,Yes,Data migration error,4,Yes
+ESC-0026,TKT-00544,ACC-0362,Reliable HVAC Group,Enterprise,P2,Tier 3 – Engineering,Repeated escalation by same account,2025-01-16,22.4,Yes,Data migration error,3,Yes
+ESC-0027,TKT-00556,ACC-0303,Heritage HVAC Experts,Starter,P2,Tier 3 – Engineering,Data corruption concern,2025-01-10,6.6,Yes,Known platform bug – patch released,2,Yes
+ESC-0028,TKT-00560,ACC-0346,SwiftLine Pest Control Partners,Starter,P2,Tier 3 – Engineering,Data corruption concern,2024-07-19,31.7,Yes,Data migration error,4,Yes
+ESC-0029,TKT-00580,ACC-0293,National Plumbing Experts,Starter,P2,Tier 2 – Senior SE,Data corruption concern,2024-08-26,21.9,Yes,Third-party API change (QuickBooks),3,No
+ESC-0030,TKT-00592,ACC-0418,Pinnacle HVAC Group,Starter,P2,Tier 2 – Senior SE,SLA breach imminent,2024-02-04,41.5,Yes,Customer misconfiguration,5,No
+ESC-0031,TKT-00598,ACC-0167,Apex Plumbing Associates,Pro,P1,Tier 3 – Engineering,P1 outage confirmed,2024-01-23,20.3,Yes,Customer misconfiguration,5,Yes
+ESC-0032,TKT-00615,ACC-0451,SwiftLine Plumbing Systems,Growth,P2,Tier 2 – Senior SE,Complex integration failure,2025-04-10,47.5,No,Known platform bug – patch released,3,No
+ESC-0033,TKT-00616,ACC-0481,Dynamic Facilities Management Services,Pro,P2,Tier 2 – Senior SE,Repeated escalation by same account,2024-02-18,5.9,Yes,Permissions misconfiguration,1,No
+ESC-0034,TKT-00694,ACC-0605,Pinnacle Pest Control Experts,Starter,P2,Tier 2 – Senior SE,SLA breach imminent,2024-06-09,61.7,Yes,Permissions misconfiguration,3,No
+ESC-0035,TKT-00710,ACC-0129,Apex HVAC Associates,Growth,P1,Tier 2 – Senior SE,Customer threatening churn,2024-05-17,47.4,Yes,Network/infrastructure issue,4,No
+ESC-0036,TKT-00743,ACC-0132,Allied Plumbing Experts,Pro,P2,Tier 3 – Engineering,Repeated escalation by same account,2025-05-04,62.0,Yes,Permissions misconfiguration,4,Yes
+ESC-0037,TKT-00750,ACC-0384,RapidFix Pest Control Group,Pro,P2,Tier 3 – Engineering,P1 outage confirmed,2024-06-26,60.3,Yes,Known platform bug – patch released,2,Yes
+ESC-0038,TKT-00777,ACC-0007,Summit HVAC Systems,Starter,P1,Tier 2 – Senior SE,Complex integration failure,2024-10-12,14.8,Yes,Known platform bug – patch released,2,No
+ESC-0039,TKT-00779,ACC-0530,National HVAC Professionals,Starter,P1,Tier 3 – Engineering,Customer threatening churn,2024-10-29,7.5,Yes,Network/infrastructure issue,5,Yes
+ESC-0040,TKT-00784,ACC-0107,RapidFix Landscaping Partners,Pro,P2,Tier 3 – Engineering,Customer threatening churn,2024-10-09,17.2,Yes,Network/infrastructure issue,1,Yes
+ESC-0041,TKT-00791,ACC-0373,Premier Electrical Solutions,Pro,P1,Tier 2 – Senior SE,Repeated escalation by same account,2024-10-14,61.9,Yes,Data migration error,4,No
+ESC-0042,TKT-00797,ACC-0530,National HVAC Professionals,Starter,P2,Tier 3 – Engineering,P1 outage confirmed,2024-02-01,3.4,Yes,Known platform bug – patch released,4,Yes
+ESC-0043,TKT-00841,ACC-0379,Pinnacle Pest Control Associates,Growth,P2,Tier 2 – Senior SE,Data corruption concern,2025-02-25,33.1,Yes,Customer misconfiguration,4,No
+ESC-0044,TKT-00926,ACC-0151,Regional HVAC Professionals,Starter,P2,Tier 2 – Senior SE,Data corruption concern,2024-02-01,31.9,Yes,Third-party API change (QuickBooks),5,No
+ESC-0045,TKT-00927,ACC-0426,National HVAC Solutions,Pro,P1,Tier 2 – Senior SE,Customer threatening churn,2025-03-16,38.8,Yes,Network/infrastructure issue,1,No
+ESC-0046,TKT-00942,ACC-0405,Apex Electrical Systems,Pro,P2,Tier 3 – Engineering,Customer threatening churn,2025-05-13,71.9,Yes,Permissions misconfiguration,3,Yes
+ESC-0047,TKT-00968,ACC-0407,RapidFix Pest Control Systems,Growth,P2,Tier 3 – Engineering,Customer threatening churn,2024-05-05,36.9,Yes,Known platform bug – patch released,4,Yes
+ESC-0048,TKT-00978,ACC-0431,OneCall Facilities Management Experts,Enterprise,P2,Tier 3 – Engineering,Data corruption concern,2024-02-19,45.4,Yes,Known platform bug – patch released,4,Yes
+ESC-0049,TKT-01009,ACC-0538,Regional HVAC Technologies,Enterprise,P2,Tier 2 – Senior SE,Customer threatening churn,2024-07-29,23.0,Yes,Third-party API change (QuickBooks),5,No
+ESC-0050,TKT-01025,ACC-0117,Pinnacle Facilities Management Group,Pro,P1,Tier 3 – Engineering,Customer threatening churn,2025-02-19,49.2,No,Customer misconfiguration,4,Yes
+ESC-0051,TKT-01049,ACC-0565,National HVAC Partners,Growth,P2,Tier 3 – Engineering,Customer threatening churn,2024-04-22,12.8,Yes,Known platform bug – patch released,4,Yes
+ESC-0052,TKT-01057,ACC-0272,Dynamic Landscaping Associates,Starter,P2,Tier 2 – Senior SE,Complex integration failure,2024-06-11,31.4,Yes,Third-party API change (QuickBooks),3,No
+ESC-0053,TKT-01103,ACC-0080,TrustWorks Electrical Services,Growth,P2,Tier 3 – Engineering,Customer threatening churn,2024-06-05,24.0,Yes,Customer misconfiguration,4,Yes
+ESC-0054,TKT-01124,ACC-0043,Regional HVAC Systems,Starter,P2,Tier 3 – Engineering,P1 outage confirmed,2024-05-19,71.6,No,Customer misconfiguration,4,Yes
+ESC-0055,TKT-01134,ACC-0108,Reliable Landscaping Works,Pro,P2,Tier 3 – Engineering,Data corruption concern,2024-10-10,15.5,Yes,Permissions misconfiguration,4,Yes
+ESC-0056,TKT-01149,ACC-0332,Heritage Plumbing Partners,Enterprise,P2,Tier 2 – Senior SE,Complex integration failure,2025-01-01,57.5,Yes,Customer misconfiguration,5,No
+ESC-0057,TKT-01154,ACC-0552,Apex Landscaping Group,Starter,P2,Tier 2 – Senior SE,SLA breach imminent,2024-06-12,63.6,Yes,Network/infrastructure issue,4,No
+ESC-0058,TKT-01159,ACC-0117,Pinnacle Facilities Management Group,Pro,P2,Tier 2 – Senior SE,SLA breach imminent,2024-01-27,27.3,Yes,Third-party API change (QuickBooks),5,No
+ESC-0059,TKT-01169,ACC-0367,ProServ Plumbing Experts,Pro,P2,Tier 2 – Senior SE,Complex integration failure,2024-07-10,14.0,Yes,Customer misconfiguration,4,No
+ESC-0060,TKT-01185,ACC-0042,National HVAC Associates,Starter,P1,Tier 3 – Engineering,Repeated escalation by same account,2024-01-02,64.1,Yes,Permissions misconfiguration,5,Yes
+ESC-0061,TKT-01200,ACC-0297,Premier Electrical Professionals,Starter,P1,Tier 2 – Senior SE,Complex integration failure,2025-05-29,55.8,Yes,Permissions misconfiguration,2,No
+ESC-0062,TKT-01207,ACC-0129,Apex HVAC Associates,Growth,P2,Tier 2 – Senior SE,Data corruption concern,2024-06-07,37.9,Yes,Permissions misconfiguration,5,No
+ESC-0063,TKT-01208,ACC-0408,Heritage Pest Control Experts,Pro,P1,Tier 2 – Senior SE,Complex integration failure,2024-09-10,45.0,Yes,Known platform bug – patch released,5,No
+ESC-0064,TKT-01218,ACC-0012,National Plumbing Technologies,Starter,P2,Tier 2 – Senior SE,Customer threatening churn,2024-01-25,16.6,Yes,Network/infrastructure issue,4,No
+ESC-0065,TKT-01239,ACC-0567,Allied Plumbing Group,Growth,P2,Tier 3 – Engineering,Data corruption concern,2024-01-13,51.6,No,Network/infrastructure issue,3,Yes
+ESC-0066,TKT-01242,ACC-0316,Pinnacle HVAC Group,Pro,P2,Tier 2 – Senior SE,Data corruption concern,2024-10-21,14.5,Yes,Permissions misconfiguration,4,No
+ESC-0067,TKT-01251,ACC-0095,OneCall Facilities Management Technologies,Starter,P1,Tier 2 – Senior SE,Data corruption concern,2025-04-13,8.2,Yes,Customer misconfiguration,3,No
+ESC-0068,TKT-01294,ACC-0203,National HVAC Systems,Starter,P2,Tier 2 – Senior SE,Data corruption concern,2024-07-11,39.7,Yes,Permissions misconfiguration,1,No
+ESC-0069,TKT-01316,ACC-0099,Metro Electrical Experts,Pro,P2,Tier 2 – Senior SE,SLA breach imminent,2024-04-08,44.2,Yes,Customer misconfiguration,5,No
+ESC-0070,TKT-01347,ACC-0153,SwiftLine Plumbing Associates,Starter,P2,Tier 2 – Senior SE,Repeated escalation by same account,2024-04-04,47.8,Yes,Third-party API change (QuickBooks),4,No
+ESC-0071,TKT-01362,ACC-0318,OneCall Plumbing Systems,Pro,P2,Tier 3 – Engineering,SLA breach imminent,2024-03-10,48.2,Yes,Permissions misconfiguration,4,Yes
+ESC-0072,TKT-01375,ACC-0425,Regional Plumbing Associates,Pro,P2,Tier 3 – Engineering,SLA breach imminent,2024-03-01,14.3,Yes,Known platform bug – patch released,4,Yes
+ESC-0073,TKT-01378,ACC-0165,Allied Facilities Management Experts,Starter,P2,Tier 2 – Senior SE,Customer threatening churn,2025-05-25,68.3,Yes,Known platform bug – patch released,5,No
+ESC-0074,TKT-01393,ACC-0313,TrustWorks Electrical Experts,Starter,P2,Tier 2 – Senior SE,P1 outage confirmed,2025-04-26,7.2,Yes,Known platform bug – patch released,4,No
+ESC-0075,TKT-01460,ACC-0608,Heritage Plumbing Technologies,Starter,P2,Tier 2 – Senior SE,Customer threatening churn,2025-03-23,25.2,Yes,Third-party API change (QuickBooks),3,No
+ESC-0076,TKT-01474,ACC-0228,SwiftLine Plumbing Associates,Pro,P2,Tier 2 – Senior SE,Customer threatening churn,2024-06-18,12.9,Yes,Third-party API change (QuickBooks),5,No
+ESC-0077,TKT-01502,ACC-0346,SwiftLine Pest Control Partners,Starter,P2,Tier 2 – Senior SE,Complex integration failure,2024-01-03,47.7,Yes,Known platform bug – patch released,5,No
+ESC-0078,TKT-01517,ACC-0097,SwiftLine Facilities Management Associates,Starter,P2,Tier 2 – Senior SE,Repeated escalation by same account,2024-10-11,42.5,Yes,Permissions misconfiguration,4,No
+ESC-0079,TKT-01530,ACC-0134,ProServ Other Professionals,Starter,P1,Tier 2 – Senior SE,Complex integration failure,2024-04-25,45.3,Yes,Permissions misconfiguration,4,No
+ESC-0080,TKT-01531,ACC-0519,National Other Group,Starter,P2,Tier 2 – Senior SE,Complex integration failure,2024-04-18,69.8,Yes,Third-party API change (QuickBooks),4,No
+ESC-0081,TKT-01546,ACC-0446,Heritage Plumbing Group,Growth,P2,Tier 2 – Senior SE,Repeated escalation by same account,2024-07-09,71.6,Yes,Third-party API change (QuickBooks),5,No
+ESC-0082,TKT-01566,ACC-0279,Premier Plumbing Solutions,Growth,P1,Tier 2 – Senior SE,P1 outage confirmed,2024-03-17,28.0,Yes,Permissions misconfiguration,3,No
+ESC-0083,TKT-01590,ACC-0587,Premier Plumbing Solutions,Pro,P2,Tier 2 – Senior SE,SLA breach imminent,2024-12-19,61.1,Yes,Network/infrastructure issue,4,No
+ESC-0084,TKT-01642,ACC-0130,SwiftLine Pest Control Systems,Pro,P2,Tier 2 – Senior SE,Data corruption concern,2024-06-04,52.8,Yes,Network/infrastructure issue,4,No
+ESC-0085,TKT-01647,ACC-0010,Apex Pest Control Technologies,Starter,P2,Tier 2 – Senior SE,Complex integration failure,2024-08-14,55.5,Yes,Network/infrastructure issue,4,No
+ESC-0086,TKT-01665,ACC-0030,Premier HVAC Group,Starter,P2,Tier 3 – Engineering,Complex integration failure,2024-07-23,57.5,Yes,Known platform bug – patch released,3,Yes
+ESC-0087,TKT-01753,ACC-0428,RapidFix Pest Control Associates,Growth,P2,Tier 2 – Senior SE,Customer threatening churn,2024-11-11,56.8,Yes,Network/infrastructure issue,5,No
+ESC-0088,TKT-01814,ACC-0331,TrustWorks HVAC Professionals,Growth,P2,Tier 2 – Senior SE,Complex integration failure,2025-01-30,23.7,Yes,Third-party API change (QuickBooks),5,No

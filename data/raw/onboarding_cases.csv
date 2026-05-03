@@ -1,0 +1,421 @@
+onboarding_id,account_id,company,plan,csm_owner,kickoff_date,go_live_date,target_days_to_value,actual_days_to_value,on_time,delay_days,primary_delay_reason,current_phase,completed,kickoff_call_held,data_migration_complete,quickbooks_connected,tech_app_adopted,first_invoice_sent,health_score_at_day30,nps_at_day30
+ONB-0001,ACC-0221,Summit Facilities Management Associates,Starter,Omar Castillo,2023-02-03,2023-02-24,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,Yes,Yes,95.0,6
+ONB-0002,ACC-0529,Premier Electrical Systems,Growth,Sadia Islam,2024-07-23,2024-08-30,21,38,No,17,QuickBooks sync failure,Data Migration,No,Yes,Yes,Yes,No,No,29.9,0
+ONB-0003,ACC-0624,ProServ HVAC Associates,Growth,Felix Brennan,2022-11-24,2022-12-15,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,84.8,5
+ONB-0004,ACC-0100,Heritage Electrical Services,Growth,Jordan Blake,2023-11-11,2023-11-29,21,18,Yes,0,None,Go-Live,No,Yes,Yes,No,No,Yes,36.5,8
+ONB-0005,ACC-0446,Heritage Plumbing Group,Growth,Jordan Blake,2023-04-23,2023-05-31,21,38,No,17,Customer unresponsive,Kickoff,No,Yes,Yes,Yes,No,No,51.8,4
+ONB-0006,ACC-0084,ProServ Plumbing Associates,Starter,Jordan Blake,2022-12-01,2023-01-08,21,38,No,17,Technician app resistance,Data Migration,No,Yes,Yes,No,No,No,64.4,9
+ONB-0007,ACC-0615,Elite HVAC Systems,Starter,Lena Fischer,2022-09-14,2022-11-01,21,48,No,27,QuickBooks sync failure,Training,No,Yes,Yes,No,No,No,78.0,10
+ONB-0008,ACC-0028,OneCall Electrical Experts,Growth,Omar Castillo,2022-12-23,2023-01-10,21,18,Yes,0,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,84.6,8
+ONB-0009,ACC-0359,Summit HVAC Services,Starter,Emma Solis,2022-09-11,2022-10-06,21,25,No,4,None,Kickoff,No,Yes,Yes,Yes,No,Yes,66.6,10
+ONB-0010,ACC-0329,Heritage Plumbing Systems,Pro,Emma Solis,2022-07-16,2022-09-14,21,60,No,39,Customer unresponsive,Completed,Yes,Yes,Yes,Yes,No,No,68.1,5
+ONB-0011,ACC-0569,Allied Landscaping Professionals,Growth,Ravi Mehta,2023-10-10,2023-11-04,21,25,No,4,QuickBooks sync failure,Data Migration,No,Yes,Yes,Yes,No,Yes,81.8,10
+ONB-0012,ACC-0500,National Electrical Technologies,Starter,Felix Brennan,2023-03-14,2023-04-13,21,30,No,9,Customer unresponsive,Configuration,No,Yes,Yes,No,No,No,60.8,8
+ONB-0013,ACC-0375,ProServ HVAC Solutions,Starter,Tanya Oluoch,2022-12-31,2023-01-21,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,Yes,Yes,44.8,1
+ONB-0014,ACC-0213,Metro Other Experts,Starter,Ravi Mehta,2024-05-28,2024-06-22,21,25,No,4,Data migration issues,Training,No,Yes,Yes,No,Yes,Yes,76.6,6
+ONB-0015,ACC-0019,Regional Pest Control Technologies,Starter,Felix Brennan,2022-07-09,2022-08-16,21,38,No,17,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,Yes,No,60.4,0
+ONB-0016,ACC-0154,TrustWorks Other Partners,Starter,Emma Solis,2023-03-03,2023-04-02,21,30,No,9,None,Configuration,No,Yes,Yes,Yes,No,No,79.2,4
+ONB-0017,ACC-0602,RapidFix HVAC Professionals,Growth,Jordan Blake,2023-09-30,2023-10-18,21,18,Yes,0,None,Configuration,No,Yes,Yes,No,No,Yes,53.3,2
+ONB-0018,ACC-0420,SwiftLine Facilities Management Systems,Pro,Sadia Islam,2022-07-15,2022-08-05,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,57.9,3
+ONB-0019,ACC-0089,Dynamic HVAC Systems,Growth,Felix Brennan,2023-04-16,2023-05-11,21,25,No,4,Data migration issues,Integrations,No,Yes,Yes,Yes,Yes,Yes,84.0,1
+ONB-0020,ACC-0279,Premier Plumbing Solutions,Growth,Felix Brennan,2024-07-09,2024-07-27,21,18,Yes,0,None,Go-Live,No,Yes,Yes,No,Yes,Yes,78.4,0
+ONB-0021,ACC-0600,Pinnacle Pest Control Group,Starter,Jordan Blake,2023-03-22,2023-04-21,21,30,No,9,Data migration issues,Configuration,No,Yes,Yes,No,Yes,No,74.8,3
+ONB-0022,ACC-0616,SwiftLine HVAC Group,Starter,Tanya Oluoch,2024-06-11,2024-07-29,21,48,No,27,Data migration issues,Kickoff,No,Yes,Yes,Yes,Yes,No,84.8,8
+ONB-0023,ACC-0059,Summit Facilities Management Associates,Growth,Felix Brennan,2022-09-27,2022-11-26,21,60,No,39,Champion left – restart required,Kickoff,No,No,Yes,Yes,Yes,No,65.8,4
+ONB-0024,ACC-0305,Allied Pest Control Partners,Starter,Emma Solis,2023-06-10,2023-07-10,21,30,No,9,Champion left – restart required,Configuration,No,Yes,Yes,Yes,No,No,79.8,9
+ONB-0025,ACC-0067,Pinnacle HVAC Solutions,Pro,Sadia Islam,2022-12-19,2023-01-09,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,75.6,4
+ONB-0026,ACC-0439,Reliable HVAC Professionals,Growth,Sadia Islam,2024-07-10,2024-08-04,21,25,No,4,Champion left – restart required,Completed,Yes,Yes,Yes,Yes,No,Yes,74.2,8
+ONB-0027,ACC-0480,National Electrical Services,Growth,Felix Brennan,2024-04-11,2024-05-02,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,No,Yes,62.9,9
+ONB-0028,ACC-0580,Summit Plumbing Technologies,Pro,Jordan Blake,2023-06-02,2023-06-27,21,25,No,4,Champion left – restart required,Data Migration,No,Yes,Yes,Yes,No,Yes,43.5,1
+ONB-0029,ACC-0336,ProServ Landscaping Solutions,Pro,Omar Castillo,2022-08-04,2022-08-29,21,25,No,4,Data migration issues,Training,No,Yes,Yes,Yes,No,Yes,84.4,4
+ONB-0030,ACC-0161,Elite Facilities Management Systems,Starter,Tanya Oluoch,2023-01-01,2023-01-31,21,30,No,9,Technician app resistance,Data Migration,No,Yes,Yes,No,No,No,59.8,0
+ONB-0031,ACC-0044,BlueStar Electrical Partners,Starter,Emma Solis,2024-01-15,2024-02-14,21,30,No,9,Customer unresponsive,Completed,Yes,Yes,Yes,No,Yes,No,80.1,6
+ONB-0032,ACC-0192,Heritage HVAC Systems,Starter,Sadia Islam,2023-10-14,2023-11-13,21,30,No,9,Data migration issues,Completed,Yes,Yes,Yes,Yes,No,No,77.8,6
+ONB-0033,ACC-0476,Dynamic Other Services,Growth,Omar Castillo,2023-11-20,2023-12-04,21,14,Yes,0,None,Training,No,Yes,No,Yes,No,Yes,48.1,7
+ONB-0034,ACC-0521,Pinnacle Plumbing Professionals,Growth,Emma Solis,2023-07-21,2023-08-20,21,30,No,9,Customer unresponsive,Training,No,Yes,Yes,Yes,No,No,50.8,10
+ONB-0035,ACC-0099,Metro Electrical Experts,Pro,Sadia Islam,2022-06-11,2022-07-02,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,61.6,9
+ONB-0036,ACC-0282,Dynamic Landscaping Experts,Enterprise,Omar Castillo,2023-06-15,2023-06-29,21,14,Yes,0,None,Integrations,No,Yes,No,Yes,No,Yes,62.6,7
+ONB-0037,ACC-0337,BlueStar HVAC Systems,Pro,Emma Solis,2023-05-08,2023-06-02,21,25,No,4,Technician app resistance,Data Migration,No,Yes,Yes,Yes,Yes,Yes,76.2,7
+ONB-0038,ACC-0270,Reliable Facilities Management Works,Growth,Tanya Oluoch,2023-11-11,2023-12-11,21,30,No,9,Champion left – restart required,Go-Live,No,Yes,Yes,Yes,Yes,No,50.3,7
+ONB-0039,ACC-0555,Allied Landscaping Works,Starter,Sadia Islam,2022-07-10,2022-08-09,21,30,No,9,QuickBooks sync failure,Training,No,Yes,Yes,No,Yes,No,77.5,8
+ONB-0040,ACC-0083,Apex HVAC Experts,Growth,Lena Fischer,2024-08-17,2024-09-24,21,38,No,17,None,Configuration,No,Yes,Yes,Yes,No,No,76.4,6
+ONB-0041,ACC-0073,Heritage HVAC Systems,Enterprise,Tanya Oluoch,2022-11-21,2022-12-12,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,No,Yes,56.4,4
+ONB-0042,ACC-0576,Elite HVAC Associates,Starter,Tanya Oluoch,2022-06-19,2022-07-07,21,18,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,68.2,1
+ONB-0043,ACC-0124,Heritage Facilities Management Technologies,Enterprise,Jordan Blake,2022-07-09,2022-08-16,21,38,No,17,Champion left – restart required,Integrations,No,Yes,Yes,Yes,No,No,73.2,3
+ONB-0044,ACC-0485,Regional HVAC Technologies,Pro,Emma Solis,2022-09-12,2022-10-20,21,38,No,17,Data migration issues,Integrations,No,Yes,Yes,Yes,No,No,81.4,9
+ONB-0045,ACC-0166,Metro HVAC Experts,Growth,Jordan Blake,2023-05-15,2023-06-14,21,30,No,9,None,Completed,Yes,Yes,Yes,Yes,Yes,No,83.0,3
+ONB-0046,ACC-0526,TrustWorks Electrical Professionals,Enterprise,Omar Castillo,2023-04-05,2023-06-04,21,60,No,39,Data migration issues,Completed,Yes,No,Yes,Yes,No,No,58.2,8
+ONB-0047,ACC-0287,Pinnacle Facilities Management Group,Growth,Felix Brennan,2022-11-05,2022-11-30,21,25,No,4,Customer unresponsive,Configuration,No,Yes,Yes,Yes,Yes,Yes,49.4,6
+ONB-0048,ACC-0346,SwiftLine Pest Control Partners,Starter,Tanya Oluoch,2023-01-08,2023-01-29,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,No,Yes,70.0,7
+ONB-0049,ACC-0639,Apex Electrical Experts,Pro,Lena Fischer,2023-03-04,2023-03-18,21,14,Yes,0,None,Completed,Yes,Yes,No,No,No,Yes,74.2,5
+ONB-0050,ACC-0309,SwiftLine Electrical Associates,Starter,Lena Fischer,2023-05-04,2023-05-25,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,88.6,9
+ONB-0051,ACC-0549,Metro HVAC Works,Pro,Jordan Blake,2022-11-22,2022-12-13,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,80.6,4
+ONB-0052,ACC-0496,Dynamic HVAC Associates,Growth,Felix Brennan,2024-05-08,2024-05-26,21,18,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,82.8,9
+ONB-0053,ACC-0277,Heritage HVAC Experts,Starter,Omar Castillo,2022-09-07,2022-09-28,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,59.5,2
+ONB-0054,ACC-0264,ProServ HVAC Technologies,Pro,Emma Solis,2023-12-10,2024-01-09,21,30,No,9,Data migration issues,Data Migration,No,Yes,Yes,Yes,No,No,41.0,0
+ONB-0055,ACC-0610,OneCall Electrical Works,Starter,Ravi Mehta,2023-05-07,2023-05-25,21,18,Yes,0,None,Training,No,Yes,Yes,Yes,Yes,Yes,80.2,1
+ONB-0056,ACC-0046,Dynamic Facilities Management Partners,Growth,Ravi Mehta,2024-06-01,2024-07-19,21,48,No,27,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,No,No,71.0,1
+ONB-0057,ACC-0179,Heritage Electrical Experts,Growth,Jordan Blake,2024-02-09,2024-03-01,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,75.5,0
+ONB-0058,ACC-0431,OneCall Facilities Management Experts,Enterprise,Omar Castillo,2023-10-10,2023-12-09,21,60,No,39,Data migration issues,Training,No,Yes,Yes,Yes,No,No,76.0,9
+ONB-0059,ACC-0189,TrustWorks Plumbing Group,Growth,Sadia Islam,2024-06-24,2024-07-24,21,30,No,9,QuickBooks sync failure,Integrations,No,Yes,Yes,Yes,Yes,No,86.5,8
+ONB-0060,ACC-0566,Metro Other Associates,Starter,Sadia Islam,2024-08-28,2024-09-22,21,25,No,4,Customer unresponsive,Completed,Yes,Yes,Yes,No,No,Yes,70.8,0
+ONB-0061,ACC-0530,National HVAC Professionals,Starter,Tanya Oluoch,2023-09-13,2023-10-13,21,30,No,9,QuickBooks sync failure,Configuration,No,Yes,Yes,No,No,No,51.0,4
+ONB-0062,ACC-0408,Heritage Pest Control Experts,Pro,Tanya Oluoch,2022-06-04,2022-07-04,21,30,No,9,Customer unresponsive,Go-Live,No,Yes,Yes,Yes,No,No,69.4,0
+ONB-0063,ACC-0355,Premier Electrical Group,Growth,Sadia Islam,2024-02-02,2024-02-20,21,18,Yes,0,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,76.6,6
+ONB-0064,ACC-0554,Dynamic Plumbing Systems,Growth,Tanya Oluoch,2023-06-21,2023-07-09,21,18,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,77.4,2
+ONB-0065,ACC-0023,TrustWorks Electrical Solutions,Enterprise,Sadia Islam,2024-06-08,2024-08-07,21,60,No,39,Technician app resistance,Integrations,No,Yes,Yes,Yes,No,No,43.2,7
+ONB-0066,ACC-0506,SwiftLine Electrical Solutions,Starter,Omar Castillo,2022-11-15,2022-12-10,21,25,No,4,Technician app resistance,Go-Live,No,Yes,Yes,Yes,Yes,Yes,88.0,8
+ONB-0067,ACC-0190,Summit HVAC Technologies,Starter,Sadia Islam,2023-08-14,2023-09-04,21,21,Yes,0,None,Configuration,No,Yes,Yes,No,Yes,Yes,85.6,2
+ONB-0068,ACC-0022,Summit Electrical Services,Growth,Jordan Blake,2024-05-25,2024-06-19,21,25,No,4,Technician app resistance,Configuration,No,Yes,Yes,Yes,No,Yes,72.4,6
+ONB-0069,ACC-0058,Apex Pest Control Partners,Growth,Jordan Blake,2024-06-29,2024-07-20,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,No,Yes,55.0,1
+ONB-0070,ACC-0571,TrustWorks HVAC Partners,Starter,Jordan Blake,2023-10-28,2023-11-18,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,No,Yes,81.6,4
+ONB-0071,ACC-0024,Dynamic HVAC Systems,Growth,Omar Castillo,2022-11-17,2022-12-08,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,41.9,0
+ONB-0072,ACC-0365,Elite HVAC Technologies,Pro,Lena Fischer,2023-01-15,2023-02-05,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,73.2,7
+ONB-0073,ACC-0468,Reliable Landscaping Partners,Pro,Felix Brennan,2022-12-19,2023-01-13,21,25,No,4,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,No,Yes,56.6,8
+ONB-0074,ACC-0573,Heritage HVAC Partners,Starter,Tanya Oluoch,2023-01-09,2023-01-30,21,21,Yes,0,None,Kickoff,No,Yes,Yes,No,No,Yes,61.4,9
+ONB-0075,ACC-0601,Elite HVAC Services,Starter,Omar Castillo,2024-04-28,2024-05-12,21,14,Yes,0,None,Training,No,Yes,No,No,Yes,Yes,86.6,7
+ONB-0076,ACC-0510,BlueStar HVAC Solutions,Enterprise,Omar Castillo,2024-09-15,2024-11-02,21,48,No,27,None,Go-Live,No,Yes,Yes,Yes,No,No,74.5,7
+ONB-0077,ACC-0293,National Plumbing Experts,Starter,Ravi Mehta,2023-03-12,2023-04-02,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,67.1,10
+ONB-0078,ACC-0216,OneCall Pest Control Solutions,Starter,Emma Solis,2022-12-07,2023-01-06,21,30,No,9,Data migration issues,Data Migration,No,Yes,Yes,No,Yes,No,61.1,2
+ONB-0079,ACC-0330,SwiftLine Facilities Management Partners,Enterprise,Felix Brennan,2023-08-28,2023-09-27,21,30,No,9,Champion left – restart required,Go-Live,No,Yes,Yes,Yes,No,No,59.2,1
+ONB-0080,ACC-0458,Allied HVAC Experts,Growth,Lena Fischer,2024-01-02,2024-01-23,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,64.7,0
+ONB-0081,ACC-0562,Apex Other Works,Enterprise,Jordan Blake,2024-05-15,2024-06-14,21,30,No,9,Customer unresponsive,Data Migration,No,Yes,Yes,Yes,Yes,No,72.2,4
+ONB-0082,ACC-0151,Regional HVAC Professionals,Starter,Jordan Blake,2022-11-08,2022-12-08,21,30,No,9,Champion left – restart required,Go-Live,No,Yes,Yes,No,No,No,52.7,3
+ONB-0083,ACC-0132,Allied Plumbing Experts,Pro,Emma Solis,2023-03-13,2023-03-31,21,18,Yes,0,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,54.0,6
+ONB-0084,ACC-0339,Metro Facilities Management Services,Starter,Ravi Mehta,2022-12-30,2023-01-29,21,30,No,9,Technician app resistance,Training,No,Yes,Yes,No,No,No,61.9,0
+ONB-0085,ACC-0353,Metro Plumbing Technologies,Starter,Tanya Oluoch,2024-08-15,2024-09-14,21,30,No,9,None,Completed,Yes,Yes,Yes,Yes,Yes,No,68.9,10
+ONB-0086,ACC-0383,ProServ Facilities Management Systems,Starter,Jordan Blake,2023-05-15,2023-06-05,21,21,Yes,0,None,Kickoff,No,Yes,Yes,No,No,Yes,77.2,6
+ONB-0087,ACC-0432,Dynamic Facilities Management Systems,Starter,Omar Castillo,2023-05-15,2023-06-14,21,30,No,9,QuickBooks sync failure,Training,No,Yes,Yes,Yes,No,No,59.9,5
+ONB-0088,ACC-0513,TrustWorks Facilities Management Group,Starter,Jordan Blake,2023-05-20,2023-06-27,21,38,No,17,Technician app resistance,Configuration,No,Yes,Yes,Yes,No,No,63.4,0
+ONB-0089,ACC-0026,Reliable HVAC Group,Growth,Emma Solis,2022-06-15,2022-06-29,21,14,Yes,0,None,Kickoff,No,Yes,No,Yes,Yes,Yes,86.8,10
+ONB-0090,ACC-0275,ProServ Plumbing Services,Growth,Felix Brennan,2023-12-23,2024-01-17,21,25,No,4,QuickBooks sync failure,Training,No,Yes,Yes,Yes,No,Yes,63.1,7
+ONB-0091,ACC-0435,Premier Facilities Management Experts,Growth,Emma Solis,2023-07-09,2023-08-08,21,30,No,9,QuickBooks sync failure,Integrations,No,Yes,Yes,Yes,No,No,50.5,5
+ONB-0092,ACC-0014,TrustWorks HVAC Group,Growth,Emma Solis,2024-07-11,2024-08-05,21,25,No,4,None,Training,No,Yes,Yes,Yes,Yes,Yes,67.1,3
+ONB-0093,ACC-0002,Premier HVAC Associates,Starter,Sadia Islam,2023-12-13,2024-01-03,21,21,Yes,0,None,Data Migration,No,Yes,Yes,No,Yes,Yes,80.5,8
+ONB-0094,ACC-0107,RapidFix Landscaping Partners,Pro,Felix Brennan,2023-06-07,2023-06-21,21,14,Yes,0,None,Go-Live,No,Yes,No,Yes,Yes,Yes,81.8,9
+ONB-0095,ACC-0348,Reliable Electrical Experts,Starter,Tanya Oluoch,2024-04-11,2024-05-19,21,38,No,17,Technician app resistance,Completed,Yes,Yes,Yes,Yes,Yes,No,63.0,0
+ONB-0096,ACC-0114,Premier Electrical Associates,Pro,Omar Castillo,2024-07-04,2024-07-25,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,No,Yes,73.0,8
+ONB-0097,ACC-0131,Elite HVAC Partners,Growth,Emma Solis,2024-04-30,2024-05-25,21,25,No,4,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,82.4,0
+ONB-0098,ACC-0217,BlueStar HVAC Professionals,Growth,Ravi Mehta,2024-03-02,2024-03-20,21,18,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,80.4,10
+ONB-0099,ACC-0390,TrustWorks Facilities Management Group,Growth,Emma Solis,2024-07-08,2024-08-25,21,48,No,27,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,Yes,No,52.2,7
+ONB-0100,ACC-0157,Elite Landscaping Associates,Pro,Omar Castillo,2024-03-31,2024-04-21,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,No,Yes,62.8,8
+ONB-0101,ACC-0280,Heritage Landscaping Experts,Growth,Sadia Islam,2024-04-06,2024-05-01,21,25,No,4,Technician app resistance,Go-Live,No,Yes,Yes,Yes,No,Yes,56.9,1
+ONB-0102,ACC-0609,Metro Facilities Management Technologies,Growth,Tanya Oluoch,2024-08-13,2024-09-12,21,30,No,9,Champion left – restart required,Completed,Yes,Yes,Yes,Yes,No,No,80.8,1
+ONB-0103,ACC-0301,OneCall HVAC Professionals,Pro,Omar Castillo,2022-07-21,2022-08-28,21,38,No,17,Champion left – restart required,Integrations,No,Yes,Yes,Yes,No,No,58.5,1
+ONB-0104,ACC-0564,Allied Facilities Management Group,Starter,Felix Brennan,2022-07-07,2022-07-28,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,73.0,5
+ONB-0105,ACC-0589,Reliable HVAC Experts,Growth,Jordan Blake,2023-03-23,2023-04-30,21,38,No,17,QuickBooks sync failure,Completed,Yes,Yes,Yes,Yes,Yes,No,61.6,6
+ONB-0106,ACC-0039,Pinnacle Plumbing Professionals,Growth,Felix Brennan,2024-06-02,2024-06-23,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,No,Yes,80.4,1
+ONB-0107,ACC-0005,Dynamic Pest Control Group,Starter,Lena Fischer,2024-06-13,2024-07-21,21,38,No,17,Data migration issues,Integrations,No,Yes,Yes,No,Yes,No,65.4,8
+ONB-0108,ACC-0139,Apex Pest Control Solutions,Starter,Felix Brennan,2023-01-12,2023-02-02,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,No,Yes,72.2,5
+ONB-0109,ACC-0354,Allied HVAC Works,Starter,Jordan Blake,2023-10-03,2023-10-21,21,18,Yes,0,None,Configuration,No,Yes,Yes,No,No,Yes,76.6,6
+ONB-0110,ACC-0119,Reliable HVAC Group,Starter,Omar Castillo,2022-12-12,2023-01-19,21,38,No,17,Customer unresponsive,Training,No,Yes,Yes,No,No,No,74.4,8
+ONB-0111,ACC-0041,Metro HVAC Technologies,Pro,Felix Brennan,2023-11-29,2023-12-20,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,70.4,6
+ONB-0112,ACC-0403,Apex Plumbing Systems,Pro,Omar Castillo,2024-06-24,2024-07-19,21,25,No,4,None,Kickoff,No,Yes,Yes,Yes,No,Yes,74.4,8
+ONB-0113,ACC-0460,BlueStar HVAC Services,Starter,Lena Fischer,2022-12-08,2022-12-29,21,21,Yes,0,None,Data Migration,No,Yes,Yes,No,Yes,Yes,72.5,2
+ONB-0114,ACC-0143,OneCall Plumbing Works,Starter,Ravi Mehta,2023-03-10,2023-04-09,21,30,No,9,QuickBooks sync failure,Integrations,No,Yes,Yes,Yes,Yes,No,79.2,6
+ONB-0115,ACC-0316,Pinnacle HVAC Group,Pro,Ravi Mehta,2023-08-20,2023-09-14,21,25,No,4,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,85.2,9
+ONB-0116,ACC-0276,Premier Plumbing Technologies,Enterprise,Tanya Oluoch,2023-03-16,2023-04-06,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,No,Yes,69.0,4
+ONB-0117,ACC-0436,TrustWorks HVAC Professionals,Starter,Lena Fischer,2023-01-25,2023-02-08,21,14,Yes,0,None,Go-Live,No,Yes,No,No,Yes,Yes,72.8,3
+ONB-0118,ACC-0052,Dynamic Electrical Solutions,Starter,Tanya Oluoch,2023-11-19,2023-12-07,21,18,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,72.0,0
+ONB-0119,ACC-0369,OneCall Plumbing Technologies,Starter,Sadia Islam,2022-09-20,2022-10-08,21,18,Yes,0,None,Completed,Yes,Yes,Yes,Yes,No,Yes,82.0,8
+ONB-0120,ACC-0597,Metro HVAC Systems,Starter,Ravi Mehta,2023-06-16,2023-07-11,21,25,No,4,None,Data Migration,No,Yes,Yes,Yes,No,Yes,69.8,0
+ONB-0121,ACC-0497,Metro HVAC Associates,Enterprise,Lena Fischer,2022-09-24,2022-11-01,21,38,No,17,Technician app resistance,Data Migration,No,Yes,Yes,Yes,No,No,62.4,3
+ONB-0122,ACC-0164,BlueStar HVAC Experts,Starter,Emma Solis,2024-03-30,2024-04-13,21,14,Yes,0,None,Data Migration,No,Yes,No,Yes,No,Yes,51.9,9
+ONB-0123,ACC-0295,Allied Plumbing Experts,Starter,Lena Fischer,2024-09-24,2024-10-12,21,18,Yes,0,None,Completed,Yes,Yes,Yes,No,Yes,Yes,68.8,3
+ONB-0124,ACC-0491,TrustWorks HVAC Partners,Growth,Emma Solis,2022-11-21,2022-12-21,21,30,No,9,None,Kickoff,No,Yes,Yes,Yes,No,No,53.8,2
+ONB-0125,ACC-0520,National HVAC Partners,Pro,Omar Castillo,2024-09-02,2024-09-23,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,Yes,Yes,69.9,0
+ONB-0126,ACC-0296,Pinnacle HVAC Group,Pro,Jordan Blake,2022-07-02,2022-07-23,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,35.5,1
+ONB-0127,ACC-0470,Reliable Plumbing Solutions,Pro,Emma Solis,2024-05-31,2024-07-30,21,60,No,39,QuickBooks sync failure,Kickoff,No,Yes,Yes,Yes,Yes,No,72.1,10
+ONB-0128,ACC-0396,Summit Pest Control Group,Growth,Omar Castillo,2022-08-27,2022-09-14,21,18,Yes,0,None,Kickoff,No,Yes,Yes,No,No,Yes,71.0,8
+ONB-0129,ACC-0249,ProServ HVAC Services,Starter,Jordan Blake,2024-05-02,2024-07-01,21,60,No,39,Customer unresponsive,Kickoff,No,Yes,Yes,No,No,No,73.2,9
+ONB-0130,ACC-0488,Dynamic HVAC Partners,Starter,Lena Fischer,2024-08-13,2024-08-27,21,14,Yes,0,None,Kickoff,No,Yes,No,No,No,Yes,58.8,7
+ONB-0131,ACC-0528,Summit Facilities Management Professionals,Growth,Felix Brennan,2023-12-15,2024-01-05,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,65.0,2
+ONB-0132,ACC-0517,SwiftLine HVAC Technologies,Pro,Omar Castillo,2024-07-29,2024-08-23,21,25,No,4,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,Yes,Yes,65.3,7
+ONB-0133,ACC-0633,Heritage Plumbing Systems,Growth,Omar Castillo,2022-09-27,2022-10-18,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,77.4,9
+ONB-0134,ACC-0484,Dynamic Plumbing Solutions,Growth,Sadia Islam,2022-08-13,2022-09-03,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,75.9,9
+ONB-0135,ACC-0352,Pinnacle HVAC Solutions,Starter,Felix Brennan,2022-10-02,2022-10-23,21,21,Yes,0,None,Configuration,No,Yes,Yes,No,Yes,Yes,65.0,1
+ONB-0136,ACC-0273,BlueStar Facilities Management Works,Growth,Emma Solis,2022-07-23,2022-08-22,21,30,No,9,Customer unresponsive,Data Migration,No,Yes,Yes,Yes,No,No,61.6,6
+ONB-0137,ACC-0109,SwiftLine Facilities Management Technologies,Pro,Lena Fischer,2023-12-05,2023-12-30,21,25,No,4,Customer unresponsive,Data Migration,No,Yes,Yes,Yes,Yes,Yes,59.3,10
+ONB-0138,ACC-0171,TrustWorks HVAC Professionals,Growth,Sadia Islam,2022-08-21,2022-10-08,21,48,No,27,Technician app resistance,Configuration,No,Yes,Yes,Yes,No,No,81.8,7
+ONB-0139,ACC-0226,Metro Landscaping Associates,Growth,Omar Castillo,2023-09-26,2023-11-03,21,38,No,17,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,No,No,76.8,3
+ONB-0140,ACC-0068,Reliable Pest Control Partners,Growth,Felix Brennan,2024-02-22,2024-03-14,21,21,Yes,0,None,Kickoff,No,No,Yes,Yes,Yes,Yes,87.2,3
+ONB-0141,ACC-0343,Metro HVAC Services,Growth,Jordan Blake,2022-09-16,2022-10-16,21,30,No,9,Technician app resistance,Data Migration,No,No,Yes,Yes,Yes,No,69.0,3
+ONB-0142,ACC-0551,Premier Electrical Professionals,Growth,Emma Solis,2023-02-16,2023-04-17,21,60,No,39,Technician app resistance,Configuration,No,Yes,Yes,Yes,No,No,80.8,4
+ONB-0143,ACC-0591,Apex Electrical Technologies,Starter,Omar Castillo,2023-05-23,2023-06-13,21,21,Yes,0,None,Completed,Yes,Yes,Yes,No,No,Yes,70.8,8
+ONB-0144,ACC-0016,SwiftLine Pest Control Experts,Growth,Jordan Blake,2022-12-22,2023-01-16,21,25,No,4,Customer unresponsive,Configuration,No,Yes,Yes,Yes,Yes,Yes,69.0,7
+ONB-0145,ACC-0507,Metro Landscaping Solutions,Enterprise,Emma Solis,2023-08-24,2023-09-11,21,18,Yes,0,None,Go-Live,No,No,Yes,No,Yes,Yes,77.6,4
+ONB-0146,ACC-0317,Elite HVAC Systems,Pro,Tanya Oluoch,2023-04-25,2023-06-02,21,38,No,17,None,Configuration,No,Yes,Yes,Yes,No,No,46.0,3
+ONB-0147,ACC-0049,Allied Electrical Associates,Starter,Emma Solis,2022-06-21,2022-07-16,21,25,No,4,Technician app resistance,Go-Live,No,Yes,Yes,No,No,Yes,46.9,1
+ONB-0148,ACC-0440,Pinnacle HVAC Professionals,Starter,Tanya Oluoch,2024-04-21,2024-05-21,21,30,No,9,QuickBooks sync failure,Completed,Yes,Yes,Yes,Yes,No,No,53.7,8
+ONB-0149,ACC-0402,BlueStar Electrical Solutions,Growth,Jordan Blake,2023-07-23,2023-08-06,21,14,Yes,0,None,Go-Live,No,No,No,Yes,No,Yes,80.8,9
+ONB-0150,ACC-0593,Apex Plumbing Professionals,Growth,Sadia Islam,2024-08-09,2024-08-27,21,18,Yes,0,None,Completed,Yes,Yes,Yes,Yes,No,Yes,58.4,2
+ONB-0151,ACC-0030,Premier HVAC Group,Starter,Ravi Mehta,2024-07-31,2024-08-30,21,30,No,9,QuickBooks sync failure,Completed,Yes,Yes,Yes,Yes,No,No,74.6,6
+ONB-0152,ACC-0626,SwiftLine Pest Control Technologies,Starter,Ravi Mehta,2022-11-16,2022-12-24,21,38,No,17,Champion left – restart required,Integrations,No,Yes,Yes,Yes,No,No,76.8,8
+ONB-0153,ACC-0367,ProServ Plumbing Experts,Pro,Emma Solis,2024-08-19,2024-09-18,21,30,No,9,None,Go-Live,No,Yes,Yes,Yes,No,No,67.0,4
+ONB-0154,ACC-0532,SwiftLine Other Services,Starter,Lena Fischer,2024-03-20,2024-04-10,21,21,Yes,0,None,Training,No,Yes,Yes,No,No,Yes,48.5,2
+ONB-0155,ACC-0425,Regional Plumbing Associates,Pro,Omar Castillo,2024-06-20,2024-07-08,21,18,Yes,0,None,Go-Live,No,Yes,Yes,No,Yes,Yes,83.0,3
+ONB-0156,ACC-0214,RapidFix Pest Control Solutions,Starter,Jordan Blake,2024-02-28,2024-03-20,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,Yes,Yes,77.2,3
+ONB-0157,ACC-0128,Heritage Plumbing Partners,Starter,Felix Brennan,2023-04-02,2023-05-02,21,30,No,9,Customer unresponsive,Configuration,No,Yes,Yes,No,Yes,No,83.0,7
+ONB-0158,ACC-0137,Summit Plumbing Solutions,Growth,Emma Solis,2024-03-22,2024-04-12,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,52.6,2
+ONB-0159,ACC-0631,Elite HVAC Systems,Growth,Sadia Islam,2024-05-27,2024-06-21,21,25,No,4,Champion left – restart required,Completed,Yes,Yes,Yes,Yes,No,Yes,47.6,1
+ONB-0160,ACC-0236,TrustWorks HVAC Solutions,Enterprise,Emma Solis,2023-08-22,2023-10-09,21,48,No,27,Champion left – restart required,Kickoff,No,Yes,Yes,Yes,No,No,74.7,9
+ONB-0161,ACC-0158,Pinnacle HVAC Partners,Enterprise,Ravi Mehta,2022-07-09,2022-07-30,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,68.8,2
+ONB-0162,ACC-0322,Apex HVAC Partners,Pro,Jordan Blake,2024-03-17,2024-04-16,21,30,No,9,None,Integrations,No,Yes,Yes,Yes,Yes,No,62.4,4
+ONB-0163,ACC-0395,Elite Plumbing Solutions,Growth,Sadia Islam,2023-03-05,2023-03-26,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,61.4,4
+ONB-0164,ACC-0509,Allied HVAC Associates,Starter,Lena Fischer,2023-09-26,2023-10-21,21,25,No,4,Champion left – restart required,Configuration,No,Yes,Yes,No,Yes,Yes,62.5,8
+ONB-0165,ACC-0042,National HVAC Associates,Starter,Omar Castillo,2023-09-13,2023-10-08,21,25,No,4,Customer unresponsive,Integrations,No,No,Yes,Yes,No,Yes,67.4,1
+ONB-0166,ACC-0259,OneCall Landscaping Services,Growth,Tanya Oluoch,2023-02-13,2023-04-14,21,60,No,39,Champion left – restart required,Training,No,Yes,Yes,Yes,No,No,72.4,1
+ONB-0167,ACC-0008,Apex Facilities Management Works,Pro,Omar Castillo,2024-03-10,2024-04-04,21,25,No,4,None,Go-Live,No,Yes,Yes,Yes,No,Yes,43.2,0
+ONB-0168,ACC-0623,Pinnacle Landscaping Group,Starter,Ravi Mehta,2023-01-11,2023-02-01,21,21,Yes,0,None,Completed,Yes,Yes,Yes,No,Yes,Yes,82.8,2
+ONB-0169,ACC-0136,SwiftLine HVAC Professionals,Starter,Omar Castillo,2023-09-09,2023-10-09,21,30,No,9,Customer unresponsive,Training,No,Yes,Yes,Yes,Yes,No,51.2,3
+ONB-0170,ACC-0456,Regional Landscaping Professionals,Growth,Lena Fischer,2024-08-19,2024-09-13,21,25,No,4,Customer unresponsive,Completed,Yes,Yes,Yes,Yes,No,Yes,88.8,9
+ONB-0171,ACC-0397,National HVAC Technologies,Growth,Jordan Blake,2024-03-20,2024-04-10,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,83.6,7
+ONB-0172,ACC-0069,RapidFix Plumbing Experts,Starter,Omar Castillo,2022-11-02,2022-12-02,21,30,No,9,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,No,No,67.6,5
+ONB-0173,ACC-0570,Heritage Electrical Works,Starter,Felix Brennan,2023-06-26,2023-07-26,21,30,No,9,Technician app resistance,Kickoff,No,Yes,Yes,No,Yes,No,54.0,1
+ONB-0174,ACC-0546,Regional Facilities Management Experts,Growth,Lena Fischer,2024-01-22,2024-02-16,21,25,No,4,Customer unresponsive,Kickoff,No,Yes,Yes,Yes,No,Yes,80.0,10
+ONB-0175,ACC-0079,Regional Plumbing Partners,Starter,Sadia Islam,2022-06-21,2022-07-21,21,30,No,9,Customer unresponsive,Go-Live,No,Yes,Yes,Yes,Yes,No,67.6,7
+ONB-0176,ACC-0081,Reliable Plumbing Solutions,Starter,Felix Brennan,2024-06-30,2024-07-30,21,30,No,9,None,Go-Live,No,Yes,Yes,No,Yes,No,88.2,2
+ONB-0177,ACC-0637,BlueStar Plumbing Systems,Pro,Felix Brennan,2023-07-06,2023-08-23,21,48,No,27,Data migration issues,Completed,Yes,Yes,Yes,Yes,No,No,68.4,4
+ONB-0178,ACC-0474,RapidFix Landscaping Associates,Starter,Omar Castillo,2024-08-02,2024-08-27,21,25,No,4,Data migration issues,Completed,Yes,Yes,Yes,No,Yes,Yes,84.0,2
+ONB-0179,ACC-0162,Summit HVAC Professionals,Starter,Ravi Mehta,2022-07-16,2022-08-10,21,25,No,4,None,Integrations,No,Yes,Yes,No,Yes,Yes,74.9,8
+ONB-0180,ACC-0400,Metro Pest Control Partners,Starter,Jordan Blake,2023-08-13,2023-08-27,21,14,Yes,0,None,Go-Live,No,Yes,No,Yes,Yes,Yes,83.8,9
+ONB-0181,ACC-0445,Reliable Pest Control Experts,Pro,Jordan Blake,2023-11-21,2023-12-21,21,30,No,9,None,Kickoff,No,Yes,Yes,Yes,No,No,66.0,0
+ONB-0182,ACC-0289,Metro Facilities Management Systems,Growth,Lena Fischer,2022-07-20,2022-08-19,21,30,No,9,Customer unresponsive,Training,No,Yes,Yes,Yes,Yes,No,69.6,2
+ONB-0183,ACC-0245,OneCall HVAC Technologies,Starter,Omar Castillo,2023-08-01,2023-08-31,21,30,No,9,Data migration issues,Data Migration,No,No,Yes,Yes,No,No,62.2,8
+ONB-0184,ACC-0449,Summit HVAC Group,Starter,Ravi Mehta,2023-05-26,2023-07-25,21,60,No,39,QuickBooks sync failure,Integrations,No,Yes,Yes,No,Yes,No,61.8,10
+ONB-0185,ACC-0177,BlueStar Pest Control Associates,Growth,Tanya Oluoch,2024-08-28,2024-09-15,21,18,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,66.8,1
+ONB-0186,ACC-0234,Pinnacle Plumbing Partners,Starter,Ravi Mehta,2022-10-08,2022-10-29,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,No,Yes,85.4,7
+ONB-0187,ACC-0536,ProServ Pest Control Solutions,Starter,Tanya Oluoch,2023-06-16,2023-06-30,21,14,Yes,0,None,Configuration,No,Yes,No,Yes,Yes,Yes,72.0,2
+ONB-0188,ACC-0110,Premier HVAC Technologies,Growth,Tanya Oluoch,2023-08-25,2023-09-19,21,25,No,4,Champion left – restart required,Kickoff,No,Yes,Yes,Yes,No,Yes,63.4,9
+ONB-0189,ACC-0398,SwiftLine Plumbing Solutions,Starter,Lena Fischer,2023-10-30,2023-11-17,21,18,Yes,0,None,Data Migration,No,Yes,Yes,Yes,Yes,Yes,80.4,6
+ONB-0190,ACC-0423,Premier Facilities Management Experts,Growth,Ravi Mehta,2023-07-28,2023-08-22,21,25,No,4,QuickBooks sync failure,Training,No,No,Yes,Yes,Yes,Yes,83.6,3
+ONB-0191,ACC-0222,RapidFix Pest Control Services,Growth,Jordan Blake,2022-10-16,2022-11-23,21,38,No,17,Customer unresponsive,Integrations,No,Yes,Yes,Yes,Yes,No,82.2,7
+ONB-0192,ACC-0285,TrustWorks Facilities Management Services,Pro,Felix Brennan,2023-12-30,2024-02-06,21,38,No,17,None,Kickoff,No,Yes,Yes,Yes,Yes,No,78.2,4
+ONB-0193,ACC-0514,RapidFix HVAC Professionals,Enterprise,Sadia Islam,2024-07-25,2024-08-19,21,25,No,4,Technician app resistance,Data Migration,No,Yes,Yes,Yes,Yes,Yes,69.1,2
+ONB-0194,ACC-0335,Elite HVAC Partners,Starter,Felix Brennan,2024-05-10,2024-07-09,21,60,No,39,Customer unresponsive,Data Migration,No,Yes,Yes,No,Yes,No,74.2,0
+ONB-0195,ACC-0385,ProServ Plumbing Solutions,Growth,Tanya Oluoch,2023-05-14,2023-06-13,21,30,No,9,Data migration issues,Go-Live,No,Yes,Yes,Yes,No,No,75.6,6
+ONB-0196,ACC-0096,RapidFix Electrical Partners,Growth,Omar Castillo,2023-05-07,2023-06-14,21,38,No,17,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,No,No,46.0,2
+ONB-0197,ACC-0257,Premier Electrical Solutions,Starter,Tanya Oluoch,2022-10-14,2022-12-01,21,48,No,27,Champion left – restart required,Data Migration,No,Yes,Yes,Yes,No,No,66.3,7
+ONB-0198,ACC-0550,Summit Plumbing Partners,Starter,Lena Fischer,2024-09-21,2024-10-21,21,30,No,9,Customer unresponsive,Configuration,No,Yes,Yes,Yes,No,No,55.6,5
+ONB-0199,ACC-0246,Apex HVAC Professionals,Starter,Emma Solis,2023-01-05,2023-01-30,21,25,No,4,QuickBooks sync failure,Training,No,Yes,Yes,No,Yes,Yes,80.3,5
+ONB-0200,ACC-0194,OneCall HVAC Technologies,Starter,Lena Fischer,2023-07-11,2023-08-05,21,25,No,4,QuickBooks sync failure,Completed,Yes,Yes,Yes,No,Yes,Yes,62.3,6
+ONB-0201,ACC-0471,Summit HVAC Works,Growth,Emma Solis,2022-08-16,2022-10-03,21,48,No,27,Data migration issues,Data Migration,No,Yes,Yes,Yes,No,No,72.2,9
+ONB-0202,ACC-0231,Allied HVAC Associates,Growth,Emma Solis,2023-10-19,2023-11-09,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,67.2,9
+ONB-0203,ACC-0185,RapidFix Facilities Management Group,Pro,Sadia Islam,2023-10-22,2023-11-05,21,14,Yes,0,None,Kickoff,No,Yes,No,No,Yes,Yes,62.5,1
+ONB-0204,ACC-0373,Premier Electrical Solutions,Pro,Jordan Blake,2023-12-11,2023-12-25,21,14,Yes,0,None,Completed,Yes,Yes,No,Yes,No,Yes,62.2,2
+ONB-0205,ACC-0183,Apex HVAC Associates,Starter,Omar Castillo,2023-10-18,2023-11-12,21,25,No,4,Customer unresponsive,Kickoff,No,No,Yes,Yes,No,Yes,71.2,5
+ONB-0206,ACC-0178,Premier Other Systems,Pro,Sadia Islam,2024-08-30,2024-10-17,21,48,No,27,Champion left – restart required,Configuration,No,Yes,Yes,Yes,Yes,No,64.3,1
+ONB-0207,ACC-0072,Reliable HVAC Experts,Starter,Omar Castillo,2023-02-19,2023-04-08,21,48,No,27,Technician app resistance,Kickoff,No,Yes,Yes,Yes,No,No,65.2,6
+ONB-0208,ACC-0170,National HVAC Technologies,Growth,Sadia Islam,2024-01-12,2024-02-06,21,25,No,4,Technician app resistance,Go-Live,No,Yes,Yes,Yes,No,Yes,41.3,0
+ONB-0209,ACC-0261,OneCall HVAC Systems,Growth,Jordan Blake,2024-09-03,2024-10-11,21,38,No,17,Customer unresponsive,Integrations,No,Yes,Yes,Yes,No,No,64.4,6
+ONB-0210,ACC-0212,Summit Electrical Works,Pro,Felix Brennan,2023-12-29,2024-01-12,21,14,Yes,0,None,Integrations,No,Yes,No,No,Yes,Yes,86.4,8
+ONB-0211,ACC-0286,Pinnacle Facilities Management Professionals,Starter,Omar Castillo,2024-02-04,2024-02-18,21,14,Yes,0,None,Configuration,No,Yes,No,No,Yes,Yes,81.0,9
+ONB-0212,ACC-0596,Pinnacle Plumbing Systems,Growth,Tanya Oluoch,2024-07-02,2024-08-01,21,30,No,9,Technician app resistance,Go-Live,No,Yes,Yes,Yes,No,No,77.4,9
+ONB-0213,ACC-0197,OneCall HVAC Services,Starter,Ravi Mehta,2024-03-24,2024-04-11,21,18,Yes,0,None,Go-Live,No,Yes,Yes,No,Yes,Yes,66.2,6
+ONB-0214,ACC-0588,Apex Pest Control Services,Pro,Ravi Mehta,2024-05-07,2024-06-14,21,38,No,17,Technician app resistance,Configuration,No,Yes,Yes,Yes,No,No,46.0,4
+ONB-0215,ACC-0438,SwiftLine Electrical Professionals,Growth,Tanya Oluoch,2022-06-20,2022-07-11,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,77.2,2
+ONB-0216,ACC-0013,Regional Landscaping Associates,Starter,Jordan Blake,2022-07-09,2022-07-30,21,21,Yes,0,None,Integrations,No,No,Yes,Yes,No,Yes,76.2,5
+ONB-0217,ACC-0372,ProServ Electrical Associates,Growth,Omar Castillo,2023-11-18,2023-12-18,21,30,No,9,Technician app resistance,Data Migration,No,Yes,Yes,Yes,No,No,59.0,8
+ONB-0218,ACC-0219,Regional HVAC Technologies,Growth,Emma Solis,2024-01-20,2024-02-07,21,18,Yes,0,None,Kickoff,No,Yes,Yes,No,Yes,Yes,67.7,9
+ONB-0219,ACC-0391,National HVAC Systems,Growth,Jordan Blake,2023-06-28,2023-07-23,21,25,No,4,Technician app resistance,Data Migration,No,Yes,Yes,Yes,Yes,Yes,53.6,8
+ONB-0220,ACC-0428,RapidFix Pest Control Associates,Growth,Tanya Oluoch,2024-03-01,2024-03-31,21,30,No,9,Data migration issues,Completed,Yes,Yes,Yes,Yes,Yes,No,77.5,1
+ONB-0221,ACC-0483,Dynamic HVAC Partners,Starter,Omar Castillo,2024-01-21,2024-02-15,21,25,No,4,QuickBooks sync failure,Data Migration,No,Yes,Yes,Yes,Yes,Yes,78.4,0
+ONB-0222,ACC-0444,OneCall HVAC Works,Starter,Lena Fischer,2023-11-28,2023-12-12,21,14,Yes,0,None,Configuration,No,Yes,No,No,Yes,Yes,83.6,1
+ONB-0223,ACC-0561,BlueStar Other Works,Growth,Omar Castillo,2023-07-26,2023-08-13,21,18,Yes,0,None,Go-Live,No,Yes,Yes,No,No,Yes,73.6,6
+ONB-0224,ACC-0269,Apex Plumbing Works,Growth,Lena Fischer,2023-01-16,2023-02-23,21,38,No,17,Data migration issues,Go-Live,No,Yes,Yes,Yes,No,No,61.2,6
+ONB-0225,ACC-0086,ProServ Electrical Solutions,Starter,Tanya Oluoch,2023-08-26,2023-10-13,21,48,No,27,Technician app resistance,Completed,Yes,Yes,Yes,Yes,Yes,No,78.4,7
+ONB-0226,ACC-0604,OneCall HVAC Experts,Starter,Felix Brennan,2024-02-26,2024-04-26,21,60,No,39,Customer unresponsive,Training,No,Yes,Yes,No,No,No,59.2,4
+ONB-0227,ACC-0206,OneCall Facilities Management Technologies,Growth,Ravi Mehta,2023-01-15,2023-02-22,21,38,No,17,Technician app resistance,Training,No,Yes,Yes,Yes,No,No,64.0,2
+ONB-0228,ACC-0159,BlueStar HVAC Professionals,Growth,Emma Solis,2023-07-07,2023-08-14,21,38,No,17,Customer unresponsive,Training,No,Yes,Yes,Yes,Yes,No,85.4,6
+ONB-0229,ACC-0262,Reliable Plumbing Group,Starter,Sadia Islam,2024-03-31,2024-04-21,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,74.8,7
+ONB-0230,ACC-0243,Allied HVAC Systems,Starter,Felix Brennan,2022-11-10,2022-12-01,21,21,Yes,0,None,Training,No,Yes,Yes,No,Yes,Yes,77.8,4
+ONB-0231,ACC-0572,TrustWorks Plumbing Partners,Enterprise,Lena Fischer,2023-12-03,2024-01-20,21,48,No,27,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,Yes,No,80.8,7
+ONB-0232,ACC-0115,Dynamic HVAC Works,Pro,Tanya Oluoch,2023-03-30,2023-04-24,21,25,No,4,None,Kickoff,No,Yes,Yes,Yes,No,Yes,67.8,3
+ONB-0233,ACC-0568,TrustWorks HVAC Systems,Starter,Omar Castillo,2024-08-17,2024-10-16,21,60,No,39,Data migration issues,Kickoff,No,Yes,Yes,No,Yes,No,83.8,8
+ONB-0234,ACC-0027,Pinnacle Facilities Management Systems,Growth,Omar Castillo,2023-10-17,2023-11-11,21,25,No,4,Customer unresponsive,Completed,Yes,Yes,Yes,Yes,No,Yes,60.6,5
+ONB-0235,ACC-0508,National Electrical Experts,Starter,Felix Brennan,2024-02-14,2024-03-10,21,25,No,4,Customer unresponsive,Kickoff,No,Yes,Yes,No,No,Yes,55.4,9
+ONB-0236,ACC-0090,Pinnacle HVAC Works,Starter,Ravi Mehta,2023-04-21,2023-05-16,21,25,No,4,Champion left – restart required,Integrations,No,Yes,Yes,Yes,Yes,Yes,87.6,4
+ONB-0237,ACC-0176,OneCall Electrical Group,Growth,Omar Castillo,2024-05-23,2024-06-13,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,60.9,3
+ONB-0238,ACC-0181,Apex Plumbing Solutions,Pro,Felix Brennan,2023-08-06,2023-08-31,21,25,No,4,Data migration issues,Completed,Yes,Yes,Yes,Yes,Yes,Yes,70.8,0
+ONB-0239,ACC-0134,ProServ Other Professionals,Starter,Emma Solis,2023-12-23,2024-01-30,21,38,No,17,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,Yes,No,71.8,0
+ONB-0240,ACC-0208,Elite HVAC Professionals,Enterprise,Lena Fischer,2024-03-05,2024-04-04,21,30,No,9,None,Data Migration,No,Yes,Yes,Yes,Yes,No,82.4,10
+ONB-0241,ACC-0482,Allied Other Services,Starter,Sadia Islam,2022-06-19,2022-07-19,21,30,No,9,Champion left – restart required,Training,No,Yes,Yes,Yes,No,No,73.4,6
+ONB-0242,ACC-0472,Heritage Pest Control Solutions,Growth,Emma Solis,2024-07-04,2024-07-25,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,88.8,10
+ONB-0243,ACC-0175,TrustWorks HVAC Solutions,Pro,Omar Castillo,2022-06-24,2022-07-19,21,25,No,4,QuickBooks sync failure,Data Migration,No,Yes,Yes,Yes,Yes,Yes,58.1,5
+ONB-0244,ACC-0454,Premier Plumbing Solutions,Starter,Ravi Mehta,2023-07-06,2023-09-04,21,60,No,39,Data migration issues,Training,No,Yes,Yes,No,Yes,No,80.4,7
+ONB-0245,ACC-0123,Reliable Pest Control Professionals,Enterprise,Tanya Oluoch,2023-01-17,2023-02-07,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,56.0,8
+ONB-0246,ACC-0147,SwiftLine Other Group,Growth,Lena Fischer,2023-01-15,2023-03-04,21,48,No,27,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,Yes,No,72.8,10
+ONB-0247,ACC-0228,SwiftLine Plumbing Associates,Pro,Jordan Blake,2022-06-23,2022-07-18,21,25,No,4,Technician app resistance,Training,No,Yes,Yes,Yes,Yes,Yes,81.2,6
+ONB-0248,ACC-0319,National Plumbing Works,Growth,Omar Castillo,2022-09-15,2022-10-15,21,30,No,9,QuickBooks sync failure,Go-Live,No,Yes,Yes,Yes,Yes,No,70.7,3
+ONB-0249,ACC-0577,SwiftLine Plumbing Solutions,Starter,Felix Brennan,2023-10-22,2023-11-16,21,25,No,4,Customer unresponsive,Kickoff,No,Yes,Yes,Yes,Yes,Yes,65.5,10
+ONB-0250,ACC-0584,Reliable Electrical Technologies,Starter,Emma Solis,2023-01-31,2023-03-20,21,48,No,27,QuickBooks sync failure,Completed,Yes,Yes,Yes,Yes,No,No,74.2,1
+ONB-0251,ACC-0070,Pinnacle HVAC Partners,Pro,Tanya Oluoch,2024-02-11,2024-03-07,21,25,No,4,Champion left – restart required,Go-Live,No,Yes,Yes,Yes,No,Yes,61.2,4
+ONB-0252,ACC-0300,SwiftLine Pest Control Services,Growth,Ravi Mehta,2023-05-22,2023-06-12,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,86.4,9
+ONB-0253,ACC-0399,RapidFix Landscaping Solutions,Starter,Sadia Islam,2022-12-22,2023-01-29,21,38,No,17,Champion left – restart required,Training,No,Yes,Yes,No,Yes,No,77.0,10
+ONB-0254,ACC-0326,RapidFix HVAC Works,Enterprise,Omar Castillo,2024-07-10,2024-08-27,21,48,No,27,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,Yes,No,84.2,8
+ONB-0255,ACC-0321,RapidFix HVAC Associates,Starter,Lena Fischer,2022-06-25,2022-07-20,21,25,No,4,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,No,Yes,52.1,9
+ONB-0256,ACC-0392,Apex HVAC Associates,Pro,Emma Solis,2022-07-17,2022-08-24,21,38,No,17,Champion left – restart required,Data Migration,No,Yes,Yes,Yes,Yes,No,75.6,1
+ONB-0257,ACC-0478,RapidFix Pest Control Solutions,Pro,Omar Castillo,2022-07-31,2022-08-30,21,30,No,9,Customer unresponsive,Integrations,No,Yes,Yes,Yes,Yes,No,55.2,1
+ONB-0258,ACC-0148,SwiftLine HVAC Partners,Pro,Lena Fischer,2023-09-01,2023-09-26,21,25,No,4,QuickBooks sync failure,Data Migration,No,No,Yes,Yes,No,Yes,78.4,5
+ONB-0259,ACC-0455,Allied Electrical Technologies,Growth,Emma Solis,2024-08-04,2024-08-25,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,66.6,2
+ONB-0260,ACC-0004,Regional Electrical Services,Pro,Jordan Blake,2024-08-23,2024-10-10,21,48,No,27,None,Go-Live,No,Yes,Yes,Yes,Yes,No,94.8,7
+ONB-0261,ACC-0384,RapidFix Pest Control Group,Pro,Felix Brennan,2023-06-28,2023-07-28,21,30,No,9,None,Configuration,No,Yes,Yes,Yes,No,No,55.8,6
+ONB-0262,ACC-0061,Metro Facilities Management Technologies,Growth,Sadia Islam,2023-09-07,2023-09-28,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,No,Yes,79.6,5
+ONB-0263,ACC-0556,Elite Pest Control Technologies,Growth,Lena Fischer,2022-12-03,2023-02-01,21,60,No,39,Technician app resistance,Data Migration,No,Yes,Yes,Yes,Yes,No,50.4,0
+ONB-0264,ACC-0358,Summit Plumbing Associates,Starter,Emma Solis,2023-05-31,2023-07-08,21,38,No,17,Customer unresponsive,Completed,Yes,Yes,Yes,Yes,No,No,68.8,2
+ONB-0265,ACC-0160,OneCall Landscaping Associates,Starter,Omar Castillo,2022-11-01,2022-12-01,21,30,No,9,Technician app resistance,Integrations,No,Yes,Yes,No,Yes,No,82.6,1
+ONB-0266,ACC-0191,Pinnacle Landscaping Associates,Growth,Ravi Mehta,2023-11-03,2023-12-21,21,48,No,27,None,Configuration,No,Yes,Yes,Yes,Yes,No,64.0,2
+ONB-0267,ACC-0489,Heritage HVAC Experts,Pro,Sadia Islam,2023-02-26,2023-03-28,21,30,No,9,Technician app resistance,Data Migration,No,Yes,Yes,Yes,No,No,72.3,9
+ONB-0268,ACC-0169,Pinnacle HVAC Partners,Growth,Felix Brennan,2022-08-16,2022-09-10,21,25,No,4,Data migration issues,Go-Live,No,Yes,Yes,Yes,No,Yes,76.0,9
+ONB-0269,ACC-0342,Metro HVAC Partners,Starter,Ravi Mehta,2023-06-06,2023-07-14,21,38,No,17,Technician app resistance,Configuration,No,Yes,Yes,No,No,No,49.7,2
+ONB-0270,ACC-0198,SwiftLine Facilities Management Group,Enterprise,Sadia Islam,2022-08-09,2022-08-30,21,21,Yes,0,None,Integrations,No,No,Yes,Yes,No,Yes,66.0,9
+ONB-0271,ACC-0504,Heritage Pest Control Solutions,Pro,Ravi Mehta,2023-10-18,2023-11-17,21,30,No,9,Customer unresponsive,Training,No,Yes,Yes,Yes,Yes,No,87.4,9
+ONB-0272,ACC-0101,ProServ Plumbing Technologies,Growth,Sadia Islam,2022-06-27,2022-08-14,21,48,No,27,Customer unresponsive,Kickoff,No,Yes,Yes,Yes,No,No,76.2,6
+ONB-0273,ACC-0247,Heritage Landscaping Solutions,Growth,Sadia Islam,2024-01-24,2024-02-14,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,72.0,0
+ONB-0274,ACC-0021,Heritage Facilities Management Associates,Growth,Ravi Mehta,2024-08-18,2024-09-08,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,No,Yes,58.1,2
+ONB-0275,ACC-0451,SwiftLine Plumbing Systems,Growth,Felix Brennan,2024-02-05,2024-03-06,21,30,No,9,Technician app resistance,Completed,Yes,Yes,Yes,Yes,No,No,51.8,4
+ONB-0276,ACC-0498,SwiftLine Electrical Professionals,Pro,Tanya Oluoch,2023-11-15,2023-12-06,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,No,Yes,76.6,2
+ONB-0277,ACC-0172,Elite Pest Control Works,Starter,Sadia Islam,2023-09-29,2023-10-24,21,25,No,4,Technician app resistance,Data Migration,No,Yes,Yes,Yes,Yes,Yes,58.0,5
+ONB-0278,ACC-0333,Metro Electrical Solutions,Starter,Omar Castillo,2023-01-16,2023-02-06,21,21,Yes,0,None,Integrations,No,Yes,Yes,No,No,Yes,81.4,3
+ONB-0279,ACC-0055,Apex HVAC Partners,Growth,Emma Solis,2023-05-19,2023-06-06,21,18,Yes,0,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,72.0,1
+ONB-0280,ACC-0034,Elite Facilities Management Solutions,Starter,Emma Solis,2024-08-07,2024-08-25,21,18,Yes,0,None,Go-Live,No,Yes,Yes,No,No,Yes,78.4,0
+ONB-0281,ACC-0268,BlueStar Pest Control Technologies,Growth,Sadia Islam,2024-09-16,2024-10-11,21,25,No,4,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,76.6,5
+ONB-0282,ACC-0054,ProServ Pest Control Technologies,Starter,Ravi Mehta,2023-05-17,2023-06-07,21,21,Yes,0,None,Configuration,No,Yes,Yes,No,Yes,Yes,91.0,5
+ONB-0283,ACC-0303,Heritage HVAC Experts,Starter,Emma Solis,2023-10-04,2023-10-29,21,25,No,4,Data migration issues,Integrations,No,Yes,Yes,No,Yes,Yes,62.0,5
+ONB-0284,ACC-0202,Premier Landscaping Professionals,Starter,Emma Solis,2023-05-16,2023-06-15,21,30,No,9,QuickBooks sync failure,Kickoff,No,Yes,Yes,No,Yes,No,61.0,3
+ONB-0285,ACC-0332,Heritage Plumbing Partners,Enterprise,Ravi Mehta,2024-01-20,2024-02-19,21,30,No,9,Champion left – restart required,Completed,Yes,Yes,Yes,Yes,No,No,56.2,1
+ONB-0286,ACC-0062,BlueStar HVAC Experts,Starter,Tanya Oluoch,2024-01-08,2024-01-29,21,21,Yes,0,None,Integrations,No,Yes,Yes,No,No,Yes,61.0,4
+ONB-0287,ACC-0102,Regional HVAC Associates,Enterprise,Ravi Mehta,2023-05-04,2023-05-25,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,64.0,0
+ONB-0288,ACC-0274,National Landscaping Experts,Growth,Tanya Oluoch,2022-11-21,2022-12-12,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,87.2,7
+ONB-0289,ACC-0331,TrustWorks HVAC Professionals,Growth,Sadia Islam,2023-02-24,2023-03-21,21,25,No,4,QuickBooks sync failure,Data Migration,No,Yes,Yes,Yes,Yes,Yes,73.0,9
+ONB-0290,ACC-0502,Dynamic Facilities Management Systems,Starter,Lena Fischer,2023-10-20,2023-12-07,21,48,No,27,QuickBooks sync failure,Training,No,Yes,Yes,Yes,No,No,43.2,0
+ONB-0291,ACC-0187,OneCall HVAC Group,Starter,Jordan Blake,2024-02-15,2024-03-16,21,30,No,9,None,Completed,Yes,Yes,Yes,Yes,Yes,No,87.2,1
+ONB-0292,ACC-0612,Allied Plumbing Solutions,Enterprise,Felix Brennan,2023-12-28,2024-01-27,21,30,No,9,Technician app resistance,Integrations,No,Yes,Yes,Yes,Yes,No,76.6,2
+ONB-0293,ACC-0595,National HVAC Services,Starter,Felix Brennan,2024-02-12,2024-03-04,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,84.2,7
+ONB-0294,ACC-0422,Heritage Plumbing Group,Pro,Ravi Mehta,2023-11-06,2023-12-01,21,25,No,4,None,Configuration,No,Yes,Yes,Yes,Yes,Yes,66.8,7
+ONB-0295,ACC-0167,Apex Plumbing Associates,Pro,Lena Fischer,2023-11-14,2023-12-09,21,25,No,4,QuickBooks sync failure,Completed,Yes,Yes,Yes,Yes,No,Yes,45.9,5
+ONB-0296,ACC-0459,TrustWorks Facilities Management Group,Growth,Lena Fischer,2023-01-25,2023-02-15,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,Yes,Yes,49.9,0
+ONB-0297,ACC-0144,Reliable Pest Control Solutions,Pro,Emma Solis,2023-01-17,2023-01-31,21,14,Yes,0,None,Completed,Yes,Yes,No,No,No,Yes,69.4,2
+ONB-0298,ACC-0635,TrustWorks HVAC Associates,Pro,Felix Brennan,2024-06-04,2024-06-25,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,Yes,Yes,88.0,9
+ONB-0299,ACC-0092,Summit Electrical Professionals,Growth,Emma Solis,2022-11-28,2023-01-05,21,38,No,17,Customer unresponsive,Configuration,No,Yes,Yes,Yes,No,No,37.3,3
+ONB-0300,ACC-0518,TrustWorks HVAC Partners,Starter,Jordan Blake,2024-07-27,2024-08-17,21,21,Yes,0,None,Training,No,Yes,Yes,No,No,Yes,67.0,7
+ONB-0301,ACC-0417,Premier HVAC Systems,Starter,Omar Castillo,2024-05-16,2024-06-10,21,25,No,4,Champion left – restart required,Integrations,No,Yes,Yes,Yes,No,Yes,76.0,7
+ONB-0302,ACC-0053,National Pest Control Technologies,Starter,Omar Castillo,2023-12-05,2024-01-04,21,30,No,9,Technician app resistance,Configuration,No,Yes,Yes,No,No,No,84.6,8
+ONB-0303,ACC-0098,BlueStar Landscaping Experts,Growth,Omar Castillo,2024-04-03,2024-04-24,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,63.0,0
+ONB-0304,ACC-0127,Heritage Plumbing Solutions,Starter,Lena Fischer,2024-09-02,2024-09-27,21,25,No,4,Customer unresponsive,Data Migration,No,Yes,Yes,No,No,Yes,69.8,5
+ONB-0305,ACC-0356,Allied HVAC Services,Enterprise,Sadia Islam,2022-12-16,2023-01-10,21,25,No,4,Champion left – restart required,Kickoff,No,Yes,Yes,Yes,No,Yes,57.8,4
+ONB-0306,ACC-0078,SwiftLine Pest Control Professionals,Starter,Tanya Oluoch,2023-07-22,2023-08-09,21,18,Yes,0,None,Integrations,No,Yes,Yes,No,No,Yes,68.6,4
+ONB-0307,ACC-0638,OneCall HVAC Experts,Starter,Omar Castillo,2023-01-03,2023-01-28,21,25,No,4,Technician app resistance,Completed,Yes,Yes,Yes,No,No,Yes,66.6,9
+ONB-0308,ACC-0040,Regional Plumbing Group,Enterprise,Ravi Mehta,2022-12-20,2023-01-07,21,18,Yes,0,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,88.4,9
+ONB-0309,ACC-0467,Allied HVAC Partners,Starter,Emma Solis,2022-08-17,2022-09-16,21,30,No,9,Customer unresponsive,Integrations,No,Yes,Yes,Yes,No,No,46.6,2
+ONB-0310,ACC-0315,Reliable Landscaping Partners,Pro,Jordan Blake,2023-08-09,2023-08-30,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,40.2,9
+ONB-0311,ACC-0481,Dynamic Facilities Management Services,Pro,Jordan Blake,2023-07-12,2023-08-11,21,30,No,9,Champion left – restart required,Training,No,Yes,Yes,Yes,No,No,66.4,7
+ONB-0312,ACC-0237,National HVAC Professionals,Pro,Ravi Mehta,2024-03-20,2024-04-27,21,38,No,17,Technician app resistance,Integrations,No,Yes,Yes,Yes,No,No,66.3,9
+ONB-0313,ACC-0045,Allied Plumbing Experts,Starter,Ravi Mehta,2024-06-24,2024-07-12,21,18,Yes,0,None,Configuration,No,Yes,Yes,No,Yes,Yes,90.2,9
+ONB-0314,ACC-0608,Heritage Plumbing Technologies,Starter,Ravi Mehta,2024-01-05,2024-03-05,21,60,No,39,None,Configuration,No,Yes,Yes,No,No,No,77.2,8
+ONB-0315,ACC-0267,Dynamic Electrical Group,Growth,Jordan Blake,2023-07-20,2023-08-19,21,30,No,9,Champion left – restart required,Integrations,No,Yes,Yes,Yes,No,No,52.8,0
+ONB-0316,ACC-0003,SwiftLine Plumbing Group,Pro,Sadia Islam,2024-05-04,2024-05-29,21,25,No,4,Technician app resistance,Completed,Yes,Yes,Yes,Yes,Yes,Yes,62.8,3
+ONB-0317,ACC-0056,Dynamic HVAC Systems,Pro,Emma Solis,2024-03-15,2024-04-05,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,66.8,3
+ONB-0318,ACC-0441,BlueStar HVAC Systems,Growth,Ravi Mehta,2023-09-15,2023-10-15,21,30,No,9,QuickBooks sync failure,Integrations,No,Yes,Yes,Yes,No,No,48.9,2
+ONB-0319,ACC-0227,SwiftLine Landscaping Solutions,Starter,Emma Solis,2024-05-09,2024-05-30,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,Yes,Yes,72.4,0
+ONB-0320,ACC-0560,Summit Facilities Management Solutions,Growth,Tanya Oluoch,2022-06-27,2022-08-04,21,38,No,17,Data migration issues,Data Migration,No,Yes,Yes,Yes,No,No,50.0,0
+ONB-0321,ACC-0559,Premier Pest Control Professionals,Pro,Tanya Oluoch,2023-01-15,2023-02-22,21,38,No,17,Data migration issues,Data Migration,No,Yes,Yes,Yes,No,No,78.2,8
+ONB-0322,ACC-0464,Elite Other Associates,Starter,Felix Brennan,2022-10-10,2022-12-09,21,60,No,39,Technician app resistance,Completed,Yes,Yes,Yes,Yes,Yes,No,74.8,0
+ONB-0323,ACC-0195,Dynamic HVAC Solutions,Growth,Lena Fischer,2022-08-07,2022-08-28,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,No,Yes,53.8,5
+ONB-0324,ACC-0407,RapidFix Pest Control Systems,Growth,Ravi Mehta,2022-12-08,2023-01-25,21,48,No,27,Customer unresponsive,Training,No,Yes,Yes,Yes,No,No,77.6,0
+ONB-0325,ACC-0388,RapidFix Facilities Management Experts,Starter,Felix Brennan,2024-01-01,2024-01-22,21,21,Yes,0,None,Integrations,No,Yes,Yes,Yes,No,Yes,75.0,4
+ONB-0326,ACC-0540,Pinnacle Other Associates,Growth,Emma Solis,2023-09-05,2023-10-13,21,38,No,17,Technician app resistance,Integrations,No,Yes,Yes,Yes,No,No,85.8,9
+ONB-0327,ACC-0548,OneCall Landscaping Partners,Growth,Sadia Islam,2023-08-12,2023-10-11,21,60,No,39,Champion left – restart required,Configuration,No,Yes,Yes,Yes,No,No,68.4,6
+ONB-0328,ACC-0304,Dynamic Pest Control Group,Growth,Felix Brennan,2022-09-28,2022-10-19,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,66.0,2
+ONB-0329,ACC-0387,Premier Facilities Management Solutions,Pro,Ravi Mehta,2023-04-01,2023-04-22,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,75.4,4
+ONB-0330,ACC-0433,Regional HVAC Works,Starter,Felix Brennan,2023-07-15,2023-09-01,21,48,No,27,Data migration issues,Data Migration,No,Yes,Yes,Yes,No,No,83.6,9
+ONB-0331,ACC-0310,ProServ Other Associates,Growth,Felix Brennan,2023-01-15,2023-03-16,21,60,No,39,Data migration issues,Configuration,No,Yes,Yes,Yes,No,No,78.8,5
+ONB-0332,ACC-0080,TrustWorks Electrical Services,Growth,Felix Brennan,2024-06-25,2024-08-02,21,38,No,17,Data migration issues,Completed,Yes,Yes,Yes,Yes,No,No,72.0,4
+ONB-0333,ACC-0225,National HVAC Professionals,Pro,Ravi Mehta,2022-07-04,2022-07-22,21,18,Yes,0,None,Data Migration,No,Yes,Yes,No,No,Yes,71.2,7
+ONB-0334,ACC-0051,Allied Facilities Management Systems,Enterprise,Felix Brennan,2023-09-05,2023-09-26,21,21,Yes,0,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,89.3,10
+ONB-0335,ACC-0133,Metro Pest Control Technologies,Growth,Felix Brennan,2023-03-27,2023-04-26,21,30,No,9,None,Training,No,Yes,Yes,Yes,No,No,79.6,4
+ONB-0336,ACC-0409,Regional Plumbing Technologies,Starter,Lena Fischer,2024-01-06,2024-02-13,21,38,No,17,Technician app resistance,Integrations,No,No,Yes,Yes,No,No,65.6,0
+ONB-0337,ACC-0627,National Electrical Professionals,Starter,Ravi Mehta,2024-05-20,2024-06-27,21,38,No,17,Customer unresponsive,Data Migration,No,Yes,Yes,Yes,Yes,No,60.0,1
+ONB-0338,ACC-0294,ProServ Facilities Management Works,Pro,Jordan Blake,2023-06-14,2023-07-14,21,30,No,9,Data migration issues,Kickoff,No,Yes,Yes,Yes,Yes,No,89.0,10
+ONB-0339,ACC-0533,Regional Electrical Associates,Growth,Emma Solis,2023-02-28,2023-04-07,21,38,No,17,Data migration issues,Data Migration,No,Yes,Yes,Yes,Yes,No,74.4,0
+ONB-0340,ACC-0241,Summit Other Professionals,Starter,Ravi Mehta,2023-07-03,2023-08-10,21,38,No,17,Data migration issues,Completed,Yes,Yes,Yes,No,Yes,No,85.8,0
+ONB-0341,ACC-0130,SwiftLine Pest Control Systems,Pro,Tanya Oluoch,2024-02-21,2024-03-17,21,25,No,4,None,Completed,Yes,Yes,Yes,Yes,No,Yes,69.0,2
+ONB-0342,ACC-0106,Reliable Plumbing Associates,Starter,Sadia Islam,2023-01-22,2023-02-16,21,25,No,4,Technician app resistance,Configuration,No,Yes,Yes,No,Yes,Yes,58.6,5
+ONB-0343,ACC-0541,Dynamic Pest Control Professionals,Pro,Ravi Mehta,2024-04-16,2024-05-07,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,No,Yes,63.2,3
+ONB-0344,ACC-0442,National Electrical Experts,Starter,Sadia Islam,2023-11-02,2023-12-20,21,48,No,27,Customer unresponsive,Go-Live,No,Yes,Yes,Yes,Yes,No,86.3,8
+ONB-0345,ACC-0200,TrustWorks Plumbing Technologies,Growth,Felix Brennan,2024-07-09,2024-07-27,21,18,Yes,0,None,Integrations,No,Yes,Yes,Yes,Yes,Yes,78.7,5
+ONB-0346,ACC-0265,RapidFix Pest Control Services,Pro,Felix Brennan,2023-12-31,2024-01-18,21,18,Yes,0,None,Kickoff,No,Yes,Yes,Yes,No,Yes,78.4,7
+ONB-0347,ACC-0378,Apex Electrical Associates,Starter,Ravi Mehta,2023-03-09,2023-03-27,21,18,Yes,0,None,Training,No,Yes,Yes,Yes,Yes,Yes,73.7,1
+ONB-0348,ACC-0370,SwiftLine HVAC Professionals,Growth,Omar Castillo,2024-07-14,2024-08-01,21,18,Yes,0,None,Training,No,Yes,Yes,No,No,Yes,64.8,1
+ONB-0349,ACC-0475,Metro HVAC Group,Pro,Lena Fischer,2023-09-01,2023-09-22,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,79.6,6
+ONB-0350,ACC-0607,Pinnacle HVAC Associates,Starter,Jordan Blake,2024-08-19,2024-09-18,21,30,No,9,Customer unresponsive,Integrations,No,Yes,Yes,No,Yes,No,85.6,2
+ONB-0351,ACC-0327,Elite Plumbing Works,Growth,Felix Brennan,2023-12-07,2024-01-24,21,48,No,27,Customer unresponsive,Training,No,Yes,Yes,Yes,Yes,No,66.2,6
+ONB-0352,ACC-0201,National HVAC Technologies,Starter,Ravi Mehta,2022-12-30,2023-01-24,21,25,No,4,Data migration issues,Completed,Yes,Yes,Yes,Yes,No,Yes,66.2,5
+ONB-0353,ACC-0047,Allied Pest Control Works,Starter,Omar Castillo,2022-06-19,2022-07-10,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,59.0,3
+ONB-0354,ACC-0603,Elite Landscaping Solutions,Pro,Felix Brennan,2024-01-23,2024-03-01,21,38,No,17,Champion left – restart required,Completed,Yes,Yes,Yes,Yes,Yes,No,66.8,2
+ONB-0355,ACC-0368,Dynamic HVAC Partners,Starter,Lena Fischer,2022-09-16,2022-10-11,21,25,No,4,Customer unresponsive,Completed,Yes,Yes,Yes,No,No,Yes,47.4,4
+ONB-0356,ACC-0386,RapidFix Electrical Systems,Growth,Tanya Oluoch,2024-02-27,2024-03-19,21,21,Yes,0,None,Data Migration,No,Yes,Yes,Yes,No,Yes,70.2,5
+ONB-0357,ACC-0421,RapidFix HVAC Professionals,Pro,Emma Solis,2023-08-11,2023-08-29,21,18,Yes,0,None,Training,No,Yes,Yes,Yes,Yes,Yes,80.5,10
+ONB-0358,ACC-0614,Dynamic Pest Control Systems,Pro,Lena Fischer,2024-06-10,2024-07-10,21,30,No,9,Technician app resistance,Training,No,No,Yes,Yes,Yes,No,72.2,2
+ONB-0359,ACC-0462,Dynamic Electrical Systems,Starter,Lena Fischer,2023-01-30,2023-02-13,21,14,Yes,0,None,Go-Live,No,Yes,No,Yes,No,Yes,29.2,4
+ONB-0360,ACC-0340,Reliable Electrical Solutions,Starter,Felix Brennan,2022-06-07,2022-07-25,21,48,No,27,QuickBooks sync failure,Go-Live,No,Yes,Yes,No,Yes,No,51.0,9
+ONB-0361,ACC-0029,Regional HVAC Works,Growth,Sadia Islam,2023-08-05,2023-08-30,21,25,No,4,Customer unresponsive,Completed,Yes,Yes,Yes,Yes,No,Yes,76.4,1
+ONB-0362,ACC-0427,Heritage HVAC Works,Enterprise,Sadia Islam,2022-12-23,2023-01-10,21,18,Yes,0,None,Completed,Yes,Yes,Yes,Yes,Yes,Yes,51.5,1
+ONB-0363,ACC-0150,National HVAC Professionals,Starter,Jordan Blake,2023-02-02,2023-02-27,21,25,No,4,QuickBooks sync failure,Integrations,No,Yes,Yes,Yes,Yes,Yes,83.6,5
+ONB-0364,ACC-0097,SwiftLine Facilities Management Associates,Starter,Sadia Islam,2022-09-13,2022-10-21,21,38,No,17,Customer unresponsive,Kickoff,No,Yes,Yes,No,No,No,60.0,4
+ONB-0365,ACC-0290,Reliable Other Services,Starter,Felix Brennan,2023-02-28,2023-03-30,21,30,No,9,Champion left – restart required,Go-Live,No,Yes,Yes,Yes,Yes,No,74.7,3
+ONB-0366,ACC-0313,TrustWorks Electrical Experts,Starter,Omar Castillo,2024-01-13,2024-01-31,21,18,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,33.0,4
+ONB-0367,ACC-0163,Reliable HVAC Group,Starter,Lena Fischer,2024-02-01,2024-02-26,21,25,No,4,Champion left – restart required,Completed,Yes,Yes,Yes,Yes,No,Yes,71.2,4
+ONB-0368,ACC-0629,Premier Facilities Management Works,Starter,Lena Fischer,2023-01-27,2023-02-21,21,25,No,4,Customer unresponsive,Integrations,No,Yes,Yes,No,No,Yes,69.2,9
+ONB-0369,ACC-0035,National HVAC Group,Starter,Jordan Blake,2024-05-17,2024-06-16,21,30,No,9,Customer unresponsive,Completed,Yes,Yes,Yes,No,Yes,No,84.2,0
+ONB-0370,ACC-0229,ProServ Other Experts,Growth,Sadia Islam,2023-12-08,2024-01-07,21,30,No,9,Technician app resistance,Kickoff,No,Yes,Yes,Yes,No,No,69.4,2
+ONB-0371,ACC-0374,Apex HVAC Group,Growth,Tanya Oluoch,2022-06-28,2022-08-15,21,48,No,27,Customer unresponsive,Integrations,No,Yes,Yes,Yes,No,No,83.6,10
+ONB-0372,ACC-0015,Summit HVAC Systems,Growth,Felix Brennan,2022-06-14,2022-07-02,21,18,Yes,0,None,Kickoff,No,Yes,Yes,Yes,No,Yes,75.8,7
+ONB-0373,ACC-0165,Allied Facilities Management Experts,Starter,Sadia Islam,2024-06-29,2024-07-24,21,25,No,4,Champion left – restart required,Integrations,No,Yes,Yes,No,No,Yes,81.6,10
+ONB-0374,ACC-0393,Regional HVAC Solutions,Starter,Jordan Blake,2023-06-08,2023-07-08,21,30,No,9,Data migration issues,Go-Live,No,Yes,Yes,No,No,No,79.4,6
+ONB-0375,ACC-0361,Summit HVAC Systems,Pro,Omar Castillo,2022-12-30,2023-01-17,21,18,Yes,0,None,Kickoff,No,Yes,Yes,No,Yes,Yes,89.4,7
+ONB-0376,ACC-0469,Premier Plumbing Systems,Growth,Ravi Mehta,2022-07-05,2022-08-22,21,48,No,27,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,No,No,47.4,4
+ONB-0377,ACC-0215,Heritage Pest Control Experts,Pro,Omar Castillo,2024-09-01,2024-10-01,21,30,No,9,Customer unresponsive,Data Migration,No,Yes,Yes,Yes,No,No,58.8,6
+ONB-0378,ACC-0011,ProServ Plumbing Works,Enterprise,Omar Castillo,2024-08-22,2024-09-29,21,38,No,17,Technician app resistance,Go-Live,No,Yes,Yes,Yes,Yes,No,93.0,10
+ONB-0379,ACC-0574,TrustWorks Electrical Services,Starter,Tanya Oluoch,2023-04-12,2023-05-12,21,30,No,9,Champion left – restart required,Training,No,Yes,Yes,Yes,No,No,60.6,5
+ONB-0380,ACC-0519,National Other Group,Starter,Jordan Blake,2024-08-27,2024-09-17,21,21,Yes,0,None,Training,No,Yes,Yes,No,Yes,Yes,62.4,5
+ONB-0381,ACC-0251,TrustWorks HVAC Systems,Growth,Sadia Islam,2023-07-27,2023-08-17,21,21,Yes,0,None,Go-Live,No,Yes,Yes,Yes,No,Yes,57.9,2
+ONB-0382,ACC-0625,Allied Plumbing Technologies,Starter,Sadia Islam,2023-05-31,2023-07-30,21,60,No,39,Customer unresponsive,Go-Live,No,Yes,Yes,Yes,No,No,61.2,9
+ONB-0383,ACC-0032,SwiftLine HVAC Partners,Starter,Ravi Mehta,2022-11-14,2022-12-14,21,30,No,9,Customer unresponsive,Completed,Yes,Yes,Yes,No,Yes,No,61.8,10
+ONB-0384,ACC-0434,Apex Landscaping Partners,Enterprise,Jordan Blake,2024-07-14,2024-08-21,21,38,No,17,QuickBooks sync failure,Kickoff,No,Yes,Yes,Yes,No,No,57.0,0
+ONB-0385,ACC-0155,Dynamic Plumbing Professionals,Growth,Sadia Islam,2024-03-17,2024-04-16,21,30,No,9,QuickBooks sync failure,Configuration,No,Yes,Yes,Yes,No,No,61.5,0
+ONB-0386,ACC-0238,Summit HVAC Experts,Starter,Sadia Islam,2024-03-03,2024-03-17,21,14,Yes,0,None,Training,No,Yes,No,Yes,Yes,Yes,63.0,10
+ONB-0387,ACC-0087,RapidFix HVAC Professionals,Growth,Emma Solis,2024-05-11,2024-06-05,21,25,No,4,Technician app resistance,Integrations,No,Yes,Yes,Yes,No,Yes,65.8,7
+ONB-0388,ACC-0376,SwiftLine Plumbing Professionals,Enterprise,Tanya Oluoch,2022-06-28,2022-07-28,21,30,No,9,None,Data Migration,No,Yes,Yes,Yes,Yes,No,46.0,4
+ONB-0389,ACC-0095,OneCall Facilities Management Technologies,Starter,Emma Solis,2023-11-02,2023-12-20,21,48,No,27,QuickBooks sync failure,Go-Live,No,Yes,Yes,No,Yes,No,80.2,10
+ONB-0390,ACC-0138,Elite Facilities Management Partners,Starter,Omar Castillo,2023-11-26,2024-01-13,21,48,No,27,Customer unresponsive,Data Migration,No,Yes,Yes,Yes,No,No,54.4,1
+ONB-0391,ACC-0196,Regional HVAC Professionals,Growth,Jordan Blake,2024-02-11,2024-03-03,21,21,Yes,0,None,Training,No,No,Yes,Yes,No,Yes,53.6,5
+ONB-0392,ACC-0248,Premier Pest Control Group,Starter,Felix Brennan,2024-08-20,2024-09-14,21,25,No,4,None,Training,No,Yes,Yes,Yes,No,Yes,67.6,8
+ONB-0393,ACC-0242,National Electrical Solutions,Starter,Emma Solis,2023-05-01,2023-06-08,21,38,No,17,Champion left – restart required,Completed,Yes,Yes,Yes,No,No,No,55.5,10
+ONB-0394,ACC-0545,ProServ Facilities Management Partners,Growth,Emma Solis,2023-11-09,2023-12-17,21,38,No,17,Champion left – restart required,Go-Live,No,Yes,Yes,Yes,Yes,No,74.4,2
+ONB-0395,ACC-0537,BlueStar HVAC Services,Growth,Emma Solis,2023-12-10,2023-12-24,21,14,Yes,0,None,Integrations,No,No,No,No,No,Yes,62.2,9
+ONB-0396,ACC-0380,Summit Electrical Experts,Pro,Jordan Blake,2023-09-26,2023-10-17,21,21,Yes,0,None,Kickoff,No,Yes,Yes,Yes,No,Yes,59.9,6
+ONB-0397,ACC-0581,Regional HVAC Experts,Starter,Emma Solis,2023-06-13,2023-08-12,21,60,No,39,Champion left – restart required,Integrations,No,Yes,Yes,No,No,No,74.4,1
+ONB-0398,ACC-0565,National HVAC Partners,Growth,Sadia Islam,2023-11-14,2023-12-09,21,25,No,4,None,Kickoff,No,Yes,Yes,Yes,Yes,Yes,76.2,0
+ONB-0399,ACC-0145,SwiftLine Plumbing Technologies,Growth,Lena Fischer,2023-11-15,2023-12-10,21,25,No,4,Champion left – restart required,Kickoff,No,Yes,Yes,Yes,Yes,Yes,77.8,3
+ONB-0400,ACC-0223,Regional HVAC Works,Growth,Jordan Blake,2023-02-18,2023-04-19,21,60,No,39,None,Training,No,Yes,Yes,Yes,No,No,73.4,5
+ONB-0401,ACC-0563,ProServ Plumbing Professionals,Pro,Sadia Islam,2024-03-31,2024-04-18,21,18,Yes,0,None,Data Migration,No,No,Yes,Yes,Yes,Yes,72.2,0
+ONB-0402,ACC-0025,Metro Other Services,Growth,Sadia Islam,2024-07-01,2024-07-19,21,18,Yes,0,None,Kickoff,No,Yes,Yes,No,No,Yes,57.4,1
+ONB-0403,ACC-0636,TrustWorks HVAC Experts,Pro,Jordan Blake,2022-08-16,2022-09-10,21,25,No,4,Customer unresponsive,Kickoff,No,No,Yes,Yes,No,Yes,46.8,7
+ONB-0404,ACC-0586,Reliable HVAC Systems,Starter,Tanya Oluoch,2023-03-10,2023-04-04,21,25,No,4,QuickBooks sync failure,Data Migration,No,Yes,Yes,Yes,No,Yes,39.6,3
+ONB-0405,ACC-0547,TrustWorks HVAC Systems,Pro,Lena Fischer,2024-06-11,2024-07-29,21,48,No,27,None,Configuration,No,Yes,Yes,Yes,No,No,62.2,4
+ONB-0406,ACC-0306,Metro Plumbing Professionals,Growth,Emma Solis,2024-04-12,2024-05-03,21,21,Yes,0,None,Kickoff,No,No,Yes,Yes,No,Yes,67.5,8
+ONB-0407,ACC-0579,Apex HVAC Services,Growth,Omar Castillo,2024-06-12,2024-07-12,21,30,No,9,None,Data Migration,No,Yes,Yes,Yes,Yes,No,87.8,9
+ONB-0408,ACC-0618,SwiftLine HVAC Technologies,Pro,Emma Solis,2023-05-01,2023-06-18,21,48,No,27,None,Training,No,Yes,Yes,Yes,Yes,No,58.7,8
+ONB-0409,ACC-0009,RapidFix Pest Control Solutions,Enterprise,Emma Solis,2023-04-27,2023-06-04,21,38,No,17,Technician app resistance,Kickoff,No,Yes,Yes,Yes,Yes,No,71.8,2
+ONB-0410,ACC-0415,Metro Facilities Management Services,Growth,Lena Fischer,2022-09-12,2022-10-30,21,48,No,27,None,Go-Live,No,Yes,Yes,Yes,Yes,No,85.0,2
+ONB-0411,ACC-0235,Allied HVAC Services,Growth,Jordan Blake,2024-08-07,2024-09-14,21,38,No,17,Champion left – restart required,Training,No,Yes,Yes,Yes,No,No,53.0,0
+ONB-0412,ACC-0578,TrustWorks Pest Control Solutions,Starter,Felix Brennan,2022-08-04,2022-09-21,21,48,No,27,Customer unresponsive,Training,No,Yes,Yes,Yes,No,No,51.5,1
+ONB-0413,ACC-0116,Summit Plumbing Group,Growth,Ravi Mehta,2022-10-03,2022-10-24,21,21,Yes,0,None,Training,No,Yes,Yes,Yes,No,Yes,73.0,5
+ONB-0414,ACC-0450,Elite Pest Control Associates,Starter,Lena Fischer,2023-10-22,2023-11-29,21,38,No,17,Customer unresponsive,Kickoff,No,Yes,Yes,No,Yes,No,74.2,3
+ONB-0415,ACC-0632,Reliable Facilities Management Systems,Pro,Sadia Islam,2023-11-10,2024-01-09,21,60,No,39,Data migration issues,Data Migration,No,Yes,Yes,Yes,Yes,No,83.2,3
+ONB-0416,ACC-0406,National HVAC Group,Starter,Emma Solis,2022-07-09,2022-08-08,21,30,No,9,None,Data Migration,No,Yes,Yes,Yes,No,No,67.0,8
+ONB-0417,ACC-0345,National HVAC Associates,Pro,Ravi Mehta,2024-04-24,2024-05-19,21,25,No,4,Customer unresponsive,Configuration,No,Yes,Yes,Yes,No,Yes,59.8,10
+ONB-0418,ACC-0492,SwiftLine Pest Control Experts,Growth,Ravi Mehta,2024-09-15,2024-10-23,21,38,No,17,None,Training,No,Yes,Yes,Yes,No,No,53.6,3
+ONB-0419,ACC-0443,Reliable Facilities Management Associates,Pro,Tanya Oluoch,2022-08-30,2022-10-17,21,48,No,27,None,Kickoff,No,No,Yes,Yes,No,No,50.6,4
+ONB-0420,ACC-0493,BlueStar Electrical Services,Growth,Omar Castillo,2022-08-05,2022-08-26,21,21,Yes,0,None,Configuration,No,Yes,Yes,Yes,No,Yes,66.8,4

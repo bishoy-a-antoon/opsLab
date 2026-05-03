@@ -1,0 +1,501 @@
+lead_id,first_name,last_name,company,industry,state,lead_source,tech_count,likely_plan,current_system,stage,assigned_rep,lead_score,created_date,mql_date,email_opened,demo_requested
+L-0001,James,Smith,Metro Electrical Technologies,Electrical,GA,Inbound-SEO,3,Starter,Paper/Manual,Closed Won,Leila Farouk,74,2024-05-22,2024-05-27,Yes,Yes
+L-0002,Jennifer,Jones,Apex Electrical Technologies,Electrical,CO,Inbound-SEO,18,Growth,Spreadsheets,Closed Won,Marcus Webb,74,2024-10-11,2024-10-13,Yes,Yes
+L-0003,Carlos,Jones,Regional Plumbing Associates,Plumbing,PA,Outbound-SDR,3,Starter,Housecall Pro,Negotiation,Leila Farouk,30,2024-02-14,2024-02-18,Yes,Yes
+L-0004,Mohamed,Garcia,Pinnacle HVAC Works,HVAC,WA,Partner-Channel,3,Starter,ServiceTitan,Closed Won,Josh Reinhart,78,2024-08-26,2024-08-29,Yes,Yes
+L-0005,Robert,Jones,SwiftLine Pest Control Technologies,Pest Control,CO,Outbound-SDR,7,Growth,Other software,Proposal Sent,Aisha Okafor,79,2024-06-24,2024-06-26,Yes,Yes
+L-0006,Robert,Taylor,TrustWorks HVAC Solutions,HVAC,NC,Inbound-Referral,3,Starter,ServiceTitan,Discovery,Carla Nunez,83,2024-03-08,2024-03-10,No,No
+L-0007,Maria,Smith,Summit Pest Control Solutions,Pest Control,IL,G2-Capterra,18,Growth,Other software,Demo/Evaluation,Tom Szymanski,83,2025-02-12,2025-02-17,Yes,Yes
+L-0008,Michael,Taylor,National Electrical Group,Electrical,AZ,Partner-Channel,5,Starter,FieldEdge,Closed Lost,Marcus Webb,88,2024-09-14,2024-09-15,No,Yes
+L-0009,Priya,Brown,Apex Plumbing Works,Plumbing,IL,Partner-Channel,127,Enterprise,Paper/Manual,Demo/Evaluation,Natasha Ivanova,84,2024-07-01,2024-07-04,Yes,Yes
+L-0010,Maria,Thomas,OneCall Electrical Group,Electrical,MO,Partner-Channel,8,Growth,Other software,Discovery,Aisha Okafor,30,2024-11-10,2024-11-15,No,No
+L-0011,Mohamed,Taylor,Regional HVAC Professionals,HVAC,WI,Inbound-SEO,10,Growth,FieldEdge,Closed Lost,Aisha Okafor,71,2025-03-09,2025-03-12,Yes,Yes
+L-0012,Sarah,Johnson,Premier HVAC Works,HVAC,FL,Outbound-SDR,1,Starter,Paper/Manual,Proposal Sent,Marcus Webb,27,2024-08-23,2024-08-24,No,Yes
+L-0013,Maria,Johnson,Dynamic HVAC Works,HVAC,VA,Outbound-SDR,9,Growth,FieldEdge,Discovery,Priya Kapoor,44,2025-04-29,2025-05-03,Yes,No
+L-0014,Sarah,Martinez,TrustWorks Facilities Management Solutions,Facilities Management,VA,Inbound-SEO,1,Starter,ServiceTitan,Closed Won,Leila Farouk,44,2024-12-13,2024-12-15,Yes,Yes
+L-0015,Sarah,Williams,Dynamic Plumbing Professionals,Plumbing,IN,Inbound-Referral,24,Pro,ServiceTitan,New Lead,Natasha Ivanova,31,2024-04-10,,Yes,No
+L-0016,Aisha,Thomas,SwiftLine Landscaping Professionals,Landscaping,OH,Partner-Channel,1,Starter,ServiceTitan,Closed Lost,Priya Kapoor,74,2024-09-28,2024-10-01,Yes,Yes
+L-0017,Carlos,Williams,Premier HVAC Experts,HVAC,FL,Inbound-SEO,5,Starter,Other software,New Lead,Priya Kapoor,84,2024-11-17,,No,No
+L-0018,Robert,Taylor,RapidFix HVAC Works,HVAC,NC,Inbound-Referral,2,Starter,ServiceTitan,Proposal Sent,Marcus Webb,30,2024-09-09,2024-09-14,Yes,Yes
+L-0019,Carlos,Brown,RapidFix HVAC Partners,HVAC,OH,Inbound-Referral,3,Starter,Jobber,New Lead,Leila Farouk,29,2024-03-15,,Yes,No
+L-0020,Mohamed,Johnson,Apex Facilities Management Partners,Facilities Management,NY,Inbound-Referral,2,Starter,Spreadsheets,Proposal Sent,Marcus Webb,58,2024-11-05,2024-11-10,No,Yes
+L-0021,Mohamed,Miller,Reliable HVAC Services,HVAC,TX,Inbound-SEO,15,Growth,Jobber,Demo/Evaluation,Derek Pham,31,2024-09-27,2024-09-28,No,Yes
+L-0022,Carlos,Smith,Regional Electrical Associates,Electrical,MO,Outbound-SDR,4,Starter,ServiceTitan,Proposal Sent,Leila Farouk,39,2025-03-13,2025-03-14,Yes,Yes
+L-0023,Robert,Anderson,Apex HVAC Technologies,HVAC,IL,G2-Capterra,1,Starter,Other software,Negotiation,Leila Farouk,91,2024-08-03,2024-08-06,No,Yes
+L-0024,Aisha,Johnson,Heritage Facilities Management Services,Facilities Management,IN,Content-Webinar,3,Starter,ServiceTitan,Closed Won,Aisha Okafor,40,2025-02-25,2025-02-28,No,Yes
+L-0025,Michael,Johnson,Reliable Facilities Management Works,Facilities Management,WI,Content-Webinar,14,Growth,FieldEdge,Discovery,Aisha Okafor,62,2024-08-21,2024-08-25,Yes,No
+L-0026,Aisha,Garcia,Dynamic Landscaping Associates,Landscaping,WI,Inbound-SEO,3,Starter,Spreadsheets,New Lead,Josh Reinhart,64,2024-09-28,,Yes,No
+L-0027,Maria,Taylor,National Landscaping Associates,Landscaping,CO,Outbound-SDR,1,Starter,Housecall Pro,Demo/Evaluation,Aisha Okafor,75,2024-01-02,2024-01-05,Yes,Yes
+L-0028,Sarah,Miller,Heritage Pest Control Solutions,Pest Control,NV,Outbound-SDR,3,Starter,Paper/Manual,Demo/Evaluation,Derek Pham,36,2024-11-30,2024-12-05,Yes,Yes
+L-0029,Linda,Taylor,BlueStar Plumbing Experts,Plumbing,IN,Inbound-SEO,39,Pro,Other software,Closed Won,Rachel Thornton,76,2025-03-16,2025-03-20,No,Yes
+L-0030,James,Smith,ProServ Electrical Professionals,Electrical,NV,Inbound-SEO,5,Starter,Other software,Negotiation,Aisha Okafor,38,2024-08-28,2024-08-30,Yes,Yes
+L-0031,Maria,Miller,ProServ Plumbing Solutions,Plumbing,WI,Inbound-SEO,56,Pro,FieldEdge,Demo/Evaluation,Sam Okonkwo,20,2025-01-28,2025-01-30,Yes,Yes
+L-0032,Robert,Martinez,TrustWorks Electrical Solutions,Electrical,IN,Inbound-Referral,27,Pro,FieldEdge,Negotiation,Rachel Thornton,84,2025-04-20,2025-04-24,Yes,Yes
+L-0033,Aisha,Jones,ProServ Pest Control Partners,Pest Control,CO,Content-Webinar,37,Pro,Jobber,Proposal Sent,Rachel Thornton,29,2025-05-11,2025-05-15,Yes,Yes
+L-0034,Robert,Smith,BlueStar HVAC Systems,HVAC,TN,Outbound-SDR,2,Starter,Other software,Demo/Evaluation,Carla Nunez,79,2024-03-06,2024-03-11,Yes,Yes
+L-0035,Aisha,Thomas,SwiftLine Facilities Management Associates,Facilities Management,GA,Inbound-Referral,44,Pro,FieldEdge,Discovery,Diego Vargas,88,2024-12-26,2024-12-30,No,No
+L-0036,James,Miller,Allied HVAC Group,HVAC,VA,Inbound-SEO,17,Growth,ServiceTitan,Negotiation,Priya Kapoor,88,2025-02-18,2025-02-20,Yes,Yes
+L-0037,Michael,Johnson,OneCall HVAC Services,HVAC,MO,Inbound-SEO,3,Starter,Spreadsheets,Discovery,Josh Reinhart,73,2024-11-30,2024-12-03,Yes,No
+L-0038,Sarah,Williams,OneCall HVAC Group,HVAC,OR,Content-Webinar,1,Starter,ServiceTitan,Contacted,Marcus Webb,39,2024-09-10,,Yes,No
+L-0039,Priya,Smith,Elite Pest Control Associates,Pest Control,TN,Outbound-SDR,30,Pro,FieldEdge,Closed Won,Sam Okonkwo,33,2024-04-27,2024-04-30,No,Yes
+L-0040,Jennifer,Martinez,Dynamic HVAC Works,HVAC,FL,Inbound-SEO,12,Growth,Paper/Manual,Closed Won,Leila Farouk,25,2024-11-04,2024-11-09,Yes,Yes
+L-0041,David,Thomas,RapidFix HVAC Partners,HVAC,NV,Inbound-SEO,20,Growth,Other software,Proposal Sent,Diego Vargas,75,2025-01-05,2025-01-07,Yes,Yes
+L-0042,Sarah,Davis,Heritage Plumbing Works,Plumbing,TX,Inbound-SEO,57,Pro,FieldEdge,Closed Won,Natasha Ivanova,77,2024-09-08,2024-09-11,Yes,Yes
+L-0043,Aisha,Miller,OneCall HVAC Experts,HVAC,GA,Inbound-Referral,3,Starter,Housecall Pro,Proposal Sent,Aisha Okafor,50,2024-10-09,2024-10-10,Yes,Yes
+L-0044,Jennifer,Davis,SwiftLine Electrical Experts,Electrical,WA,Inbound-SEO,5,Growth,FieldEdge,Demo/Evaluation,Aisha Okafor,94,2024-08-14,2024-08-17,Yes,Yes
+L-0045,Aisha,Williams,BlueStar Plumbing Technologies,Plumbing,IN,Inbound-SEO,14,Growth,Jobber,Negotiation,Carla Nunez,88,2024-05-03,2024-05-04,Yes,Yes
+L-0046,James,Martinez,Elite Other Solutions,Other,IN,Inbound-SEO,38,Pro,Spreadsheets,Discovery,Sam Okonkwo,25,2024-07-02,2024-07-05,Yes,No
+L-0047,Robert,Davis,Metro Electrical Associates,Electrical,CA,Inbound-Referral,19,Growth,ServiceTitan,Discovery,Priya Kapoor,28,2024-02-22,2024-02-23,No,No
+L-0048,Carlos,Miller,TrustWorks Facilities Management Professionals,Facilities Management,AZ,Partner-Channel,81,Enterprise,Other software,Proposal Sent,Diego Vargas,48,2024-05-01,2024-05-06,Yes,Yes
+L-0049,Sarah,Williams,SwiftLine HVAC Group,HVAC,IL,Partner-Channel,8,Growth,Spreadsheets,Proposal Sent,Derek Pham,40,2024-07-31,2024-08-01,Yes,Yes
+L-0050,Michael,Taylor,BlueStar Plumbing Systems,Plumbing,NY,Inbound-SEO,14,Growth,Paper/Manual,Negotiation,Priya Kapoor,49,2024-10-22,2024-10-23,No,Yes
+L-0051,Linda,Thomas,Elite Electrical Systems,Electrical,NC,Inbound-SEO,29,Pro,Paper/Manual,Closed Won,Rachel Thornton,35,2024-06-18,2024-06-22,Yes,Yes
+L-0052,Priya,Smith,Reliable Plumbing Associates,Plumbing,CA,Outbound-SDR,18,Growth,Other software,New Lead,Aisha Okafor,93,2024-09-13,,No,No
+L-0053,Jennifer,Miller,National Plumbing Works,Plumbing,NY,Inbound-SEO,13,Growth,Other software,Proposal Sent,Priya Kapoor,80,2025-03-22,2025-03-23,No,Yes
+L-0054,Jennifer,Jones,National HVAC Group,HVAC,TN,Outbound-SDR,14,Growth,Other software,Closed Won,Marcus Webb,31,2025-02-14,2025-02-18,Yes,Yes
+L-0055,Sarah,Jones,SwiftLine Electrical Solutions,Electrical,AZ,Inbound-SEO,18,Growth,FieldEdge,Proposal Sent,Priya Kapoor,26,2025-01-05,2025-01-09,Yes,Yes
+L-0056,Maria,Davis,Summit HVAC Solutions,HVAC,IN,Outbound-SDR,121,Enterprise,Housecall Pro,Proposal Sent,Diego Vargas,48,2024-11-14,2024-11-15,Yes,Yes
+L-0057,Priya,Martinez,Apex Plumbing Group,Plumbing,NC,Partner-Channel,4,Starter,Other software,Demo/Evaluation,Tom Szymanski,44,2024-09-06,2024-09-10,Yes,Yes
+L-0058,Carlos,Davis,Regional HVAC Works,HVAC,MO,Content-Webinar,37,Pro,Other software,Negotiation,Diego Vargas,77,2024-10-16,2024-10-18,Yes,Yes
+L-0059,Jennifer,Thomas,OneCall Plumbing Systems,Plumbing,TN,Partner-Channel,2,Starter,Housecall Pro,Proposal Sent,Aisha Okafor,25,2024-09-01,2024-09-05,No,Yes
+L-0060,Linda,Smith,Apex Plumbing Systems,Plumbing,OH,Partner-Channel,5,Starter,Spreadsheets,Closed Won,Priya Kapoor,87,2024-12-05,2024-12-06,Yes,Yes
+L-0061,Carlos,Smith,Metro Facilities Management Technologies,Facilities Management,AZ,Outbound-SDR,5,Starter,ServiceTitan,Closed Won,Josh Reinhart,82,2024-03-23,2024-03-26,Yes,Yes
+L-0062,Michael,Garcia,Regional Plumbing Systems,Plumbing,OH,Inbound-Referral,1,Starter,ServiceTitan,Closed Lost,Marcus Webb,27,2024-11-02,2024-11-05,Yes,Yes
+L-0063,David,Brown,TrustWorks Electrical Partners,Electrical,MN,Inbound-SEO,30,Pro,Jobber,Proposal Sent,Sam Okonkwo,94,2025-01-26,2025-01-30,Yes,Yes
+L-0064,Michael,Taylor,Dynamic Landscaping Partners,Landscaping,MN,Outbound-SDR,14,Growth,Other software,New Lead,Carla Nunez,95,2024-06-10,,Yes,No
+L-0065,Mohamed,Miller,Reliable HVAC Services,HVAC,OR,Inbound-SEO,4,Starter,Other software,Proposal Sent,Derek Pham,22,2025-01-25,2025-01-28,Yes,Yes
+L-0066,Priya,Jones,Apex Landscaping Group,Landscaping,CA,Content-Webinar,38,Pro,Jobber,Proposal Sent,Rachel Thornton,44,2024-08-23,2024-08-25,Yes,Yes
+L-0067,David,Martinez,Regional HVAC Experts,HVAC,WI,Inbound-SEO,2,Starter,Jobber,Discovery,Josh Reinhart,45,2024-10-29,2024-10-31,No,No
+L-0068,Maria,Williams,ProServ HVAC Systems,HVAC,MO,Partner-Channel,50,Pro,Jobber,Closed Won,Rachel Thornton,79,2024-10-29,2024-10-30,Yes,Yes
+L-0069,Mohamed,Garcia,Summit Facilities Management Technologies,Facilities Management,IN,Inbound-SEO,5,Starter,Spreadsheets,Negotiation,Derek Pham,68,2025-01-12,2025-01-17,Yes,Yes
+L-0070,David,Smith,Premier Landscaping Partners,Landscaping,IN,Outbound-SDR,1,Starter,Spreadsheets,Closed Lost,Derek Pham,34,2025-04-20,2025-04-24,Yes,Yes
+L-0071,Linda,Anderson,Dynamic HVAC Partners,HVAC,CA,Inbound-Referral,17,Growth,Housecall Pro,Proposal Sent,Tom Szymanski,32,2025-03-05,2025-03-09,Yes,Yes
+L-0072,James,Miller,Reliable HVAC Technologies,HVAC,NY,G2-Capterra,12,Growth,Other software,Closed Lost,Carla Nunez,65,2024-04-11,2024-04-16,Yes,Yes
+L-0073,Sarah,Johnson,SwiftLine HVAC Technologies,HVAC,OR,Partner-Channel,5,Starter,ServiceTitan,Closed Won,Aisha Okafor,92,2024-02-21,2024-02-23,No,Yes
+L-0074,Mohamed,Smith,Apex HVAC Services,HVAC,WA,Inbound-SEO,5,Starter,Other software,Closed Lost,Derek Pham,34,2024-05-28,2024-05-30,No,Yes
+L-0075,Jennifer,Martinez,Summit Electrical Professionals,Electrical,WI,Inbound-SEO,3,Starter,ServiceTitan,Demo/Evaluation,Leila Farouk,77,2025-03-07,2025-03-11,Yes,Yes
+L-0076,Robert,Taylor,Summit Pest Control Professionals,Pest Control,MN,Inbound-SEO,53,Pro,Spreadsheets,New Lead,Diego Vargas,71,2024-02-01,,Yes,No
+L-0077,Priya,Miller,Summit HVAC Group,HVAC,MO,Inbound-SEO,2,Starter,Housecall Pro,Demo/Evaluation,Derek Pham,84,2024-11-28,2024-12-02,No,Yes
+L-0078,Jennifer,Taylor,Reliable Plumbing Works,Plumbing,OH,Inbound-SEO,46,Pro,Housecall Pro,Demo/Evaluation,Natasha Ivanova,74,2025-04-09,2025-04-12,Yes,Yes
+L-0079,Carlos,Garcia,Summit HVAC Systems,HVAC,WA,Inbound-Referral,25,Pro,Other software,Closed Won,Natasha Ivanova,91,2025-01-16,2025-01-21,Yes,Yes
+L-0080,Mohamed,Davis,ProServ Facilities Management Group,Facilities Management,WA,Outbound-SDR,14,Growth,Other software,Contacted,Aisha Okafor,39,2024-12-26,,Yes,No
+L-0081,Michael,Thomas,Elite HVAC Works,HVAC,WA,Content-Webinar,2,Starter,Spreadsheets,Proposal Sent,Derek Pham,43,2024-01-27,2024-01-28,No,Yes
+L-0082,Robert,Davis,National Facilities Management Solutions,Facilities Management,WA,Inbound-SEO,17,Growth,Jobber,Contacted,Aisha Okafor,68,2024-02-01,,Yes,No
+L-0083,Michael,Davis,Dynamic Pest Control Professionals,Pest Control,NV,G2-Capterra,7,Growth,FieldEdge,Contacted,Marcus Webb,30,2024-06-08,,Yes,No
+L-0084,James,Brown,Heritage HVAC Associates,HVAC,CA,Inbound-Referral,27,Pro,Spreadsheets,Discovery,Diego Vargas,59,2024-04-23,2024-04-28,No,No
+L-0085,David,Williams,Heritage HVAC Experts,HVAC,GA,Content-Webinar,2,Starter,Paper/Manual,Discovery,Marcus Webb,75,2024-10-23,2024-10-27,Yes,No
+L-0086,Priya,Miller,Dynamic HVAC Partners,HVAC,NY,Inbound-Referral,22,Pro,FieldEdge,Closed Lost,Rachel Thornton,74,2025-04-15,2025-04-20,Yes,Yes
+L-0087,Robert,Anderson,Heritage Other Experts,Other,FL,Inbound-Referral,5,Starter,FieldEdge,Contacted,Leila Farouk,51,2025-01-05,,Yes,No
+L-0088,Aisha,Taylor,Apex Pest Control Technologies,Pest Control,NY,Inbound-SEO,2,Starter,ServiceTitan,Proposal Sent,Aisha Okafor,64,2024-04-26,2024-04-29,Yes,Yes
+L-0089,Mohamed,Garcia,Apex HVAC Professionals,HVAC,FL,Inbound-SEO,7,Growth,FieldEdge,Demo/Evaluation,Priya Kapoor,61,2025-05-20,2025-05-25,Yes,Yes
+L-0090,Jennifer,Jones,Metro Electrical Group,Electrical,NV,Inbound-SEO,57,Pro,Paper/Manual,Discovery,Diego Vargas,27,2024-03-16,2024-03-17,Yes,No
+L-0091,James,Davis,Summit Plumbing Works,Plumbing,FL,Inbound-Referral,6,Growth,Paper/Manual,Discovery,Priya Kapoor,39,2024-07-11,2024-07-16,No,No
+L-0092,Jennifer,Taylor,Premier HVAC Works,HVAC,FL,Outbound-SDR,19,Growth,Jobber,Demo/Evaluation,Derek Pham,72,2024-06-11,2024-06-15,Yes,Yes
+L-0093,Mohamed,Thomas,Heritage Electrical Solutions,Electrical,NV,Outbound-SDR,3,Starter,Housecall Pro,Discovery,Tom Szymanski,59,2024-06-02,2024-06-05,Yes,No
+L-0094,James,Garcia,Elite HVAC Solutions,HVAC,PA,Content-Webinar,3,Starter,Jobber,Proposal Sent,Josh Reinhart,66,2024-04-05,2024-04-10,Yes,Yes
+L-0095,Priya,Miller,Apex HVAC Solutions,HVAC,IL,Inbound-SEO,99,Enterprise,Other software,Demo/Evaluation,Natasha Ivanova,36,2024-04-13,2024-04-16,No,Yes
+L-0096,Carlos,Brown,Elite Pest Control Professionals,Pest Control,PA,Outbound-SDR,3,Starter,Jobber,Closed Lost,Derek Pham,49,2024-08-31,2024-09-04,Yes,Yes
+L-0097,Michael,Smith,OneCall Plumbing Works,Plumbing,MO,Inbound-Referral,4,Starter,Spreadsheets,Closed Lost,Aisha Okafor,37,2025-03-04,2025-03-09,Yes,Yes
+L-0098,Jennifer,Smith,Dynamic HVAC Services,HVAC,TN,Inbound-Referral,37,Pro,Paper/Manual,Closed Won,Natasha Ivanova,77,2024-05-30,2024-06-01,Yes,Yes
+L-0099,James,Jones,OneCall HVAC Solutions,HVAC,IN,Inbound-SEO,155,Enterprise,FieldEdge,Closed Lost,Rachel Thornton,37,2024-11-22,2024-11-24,Yes,Yes
+L-0100,Michael,Johnson,Premier Landscaping Technologies,Landscaping,VA,Content-Webinar,2,Starter,Housecall Pro,Contacted,Derek Pham,50,2025-03-09,,Yes,No
+L-0101,Robert,Smith,Regional HVAC Technologies,HVAC,OR,Outbound-SDR,51,Pro,FieldEdge,Proposal Sent,Sam Okonkwo,57,2024-01-17,2024-01-19,No,Yes
+L-0102,Jennifer,Jones,Allied Pest Control Works,Pest Control,FL,Inbound-SEO,3,Starter,Jobber,Demo/Evaluation,Priya Kapoor,69,2024-01-21,2024-01-22,No,Yes
+L-0103,Mohamed,Williams,Apex Pest Control Group,Pest Control,MN,Inbound-SEO,15,Growth,Spreadsheets,Proposal Sent,Tom Szymanski,81,2024-12-26,2024-12-30,Yes,Yes
+L-0104,Mohamed,Brown,Elite HVAC Works,HVAC,CA,Inbound-SEO,22,Pro,Other software,Demo/Evaluation,Diego Vargas,24,2024-11-13,2024-11-16,Yes,Yes
+L-0105,Linda,Thomas,OneCall HVAC Works,HVAC,WI,G2-Capterra,47,Pro,Jobber,Closed Lost,Diego Vargas,43,2025-03-26,2025-03-29,Yes,Yes
+L-0106,Jennifer,Taylor,Elite Pest Control Partners,Pest Control,MN,Partner-Channel,5,Starter,Paper/Manual,Proposal Sent,Carla Nunez,30,2024-07-03,2024-07-04,Yes,Yes
+L-0107,Maria,Taylor,Heritage HVAC Works,HVAC,WI,Inbound-SEO,19,Growth,Other software,Proposal Sent,Josh Reinhart,27,2024-12-27,2024-12-30,No,Yes
+L-0108,Mohamed,Garcia,Regional Landscaping Systems,Landscaping,OR,Outbound-SDR,5,Starter,Spreadsheets,New Lead,Leila Farouk,50,2025-03-24,,No,No
+L-0109,Mohamed,Jones,ProServ Pest Control Group,Pest Control,TX,Inbound-Referral,155,Enterprise,Housecall Pro,Proposal Sent,Rachel Thornton,60,2024-03-19,2024-03-23,No,Yes
+L-0110,Aisha,Davis,BlueStar Plumbing Group,Plumbing,OH,Inbound-SEO,5,Starter,Other software,Negotiation,Aisha Okafor,56,2024-09-23,2024-09-28,Yes,Yes
+L-0111,Michael,Jones,Pinnacle Plumbing Solutions,Plumbing,WA,Partner-Channel,48,Pro,Paper/Manual,Negotiation,Natasha Ivanova,89,2024-11-23,2024-11-28,No,Yes
+L-0112,Carlos,Williams,Metro HVAC Group,HVAC,AZ,Inbound-SEO,2,Starter,FieldEdge,New Lead,Carla Nunez,79,2025-05-20,,Yes,No
+L-0113,Jennifer,Williams,SwiftLine Electrical Associates,Electrical,IL,Inbound-SEO,56,Pro,Other software,Proposal Sent,Diego Vargas,86,2024-11-20,2024-11-24,No,Yes
+L-0114,Jennifer,Martinez,Elite Plumbing Group,Plumbing,NC,Content-Webinar,23,Pro,ServiceTitan,Discovery,Sam Okonkwo,48,2024-06-05,2024-06-08,Yes,No
+L-0115,Priya,Smith,Allied HVAC Group,HVAC,CA,Inbound-SEO,5,Starter,Housecall Pro,Proposal Sent,Tom Szymanski,63,2024-06-21,2024-06-23,Yes,Yes
+L-0116,Sarah,Taylor,Heritage Electrical Partners,Electrical,MN,Outbound-SDR,46,Pro,Spreadsheets,Demo/Evaluation,Rachel Thornton,81,2024-02-01,2024-02-04,Yes,Yes
+L-0117,David,Garcia,RapidFix HVAC Experts,HVAC,NY,Inbound-SEO,4,Starter,Jobber,Discovery,Carla Nunez,71,2024-05-27,2024-05-30,No,No
+L-0118,Sarah,Williams,National Plumbing Associates,Plumbing,CO,Inbound-SEO,2,Starter,ServiceTitan,Discovery,Josh Reinhart,73,2024-02-21,2024-02-26,No,No
+L-0119,Linda,Brown,BlueStar Plumbing Associates,Plumbing,WA,G2-Capterra,20,Growth,Spreadsheets,New Lead,Diego Vargas,84,2025-05-24,,Yes,No
+L-0120,Aisha,Garcia,Heritage HVAC Works,HVAC,CA,Inbound-SEO,20,Growth,FieldEdge,Closed Won,Diego Vargas,53,2024-01-09,2024-01-11,Yes,Yes
+L-0121,David,Johnson,Heritage Electrical Works,Electrical,CO,Inbound-SEO,5,Starter,Paper/Manual,Demo/Evaluation,Derek Pham,35,2025-01-30,2025-02-04,Yes,Yes
+L-0122,Linda,Martinez,TrustWorks Pest Control Solutions,Pest Control,NV,Inbound-Referral,5,Starter,Paper/Manual,New Lead,Tom Szymanski,62,2024-02-11,,No,No
+L-0123,Linda,Smith,Regional HVAC Works,HVAC,NY,Inbound-Referral,10,Growth,FieldEdge,Proposal Sent,Priya Kapoor,58,2024-11-02,2024-11-07,Yes,Yes
+L-0124,Linda,Williams,RapidFix Facilities Management Associates,Facilities Management,TN,Outbound-SDR,5,Growth,ServiceTitan,Closed Lost,Aisha Okafor,94,2024-09-28,2024-09-29,No,Yes
+L-0125,Robert,Martinez,OneCall HVAC Services,HVAC,OH,Inbound-SEO,88,Enterprise,Paper/Manual,Discovery,Sam Okonkwo,46,2025-03-27,2025-03-31,No,No
+L-0126,Carlos,Garcia,Reliable Electrical Associates,Electrical,IN,Outbound-SDR,182,Enterprise,ServiceTitan,Closed Lost,Diego Vargas,63,2024-11-17,2024-11-22,No,Yes
+L-0127,Jennifer,Martinez,Reliable HVAC Partners,HVAC,NY,Content-Webinar,3,Starter,Paper/Manual,Negotiation,Priya Kapoor,81,2024-07-31,2024-08-03,Yes,Yes
+L-0128,Linda,Taylor,Reliable Landscaping Professionals,Landscaping,PA,Partner-Channel,3,Starter,ServiceTitan,Discovery,Derek Pham,64,2024-05-29,2024-05-30,Yes,No
+L-0129,Maria,Miller,National Landscaping Professionals,Landscaping,NY,Inbound-SEO,9,Growth,Housecall Pro,Discovery,Aisha Okafor,26,2024-09-02,2024-09-04,No,No
+L-0130,Michael,Taylor,Premier HVAC Group,HVAC,OR,Inbound-Referral,10,Growth,ServiceTitan,Demo/Evaluation,Aisha Okafor,61,2025-05-02,2025-05-05,Yes,Yes
+L-0131,Aisha,Jones,Premier Landscaping Services,Landscaping,AZ,Partner-Channel,2,Starter,Paper/Manual,Closed Lost,Josh Reinhart,43,2024-02-07,2024-02-11,Yes,Yes
+L-0132,Michael,Brown,Summit Landscaping Works,Landscaping,IL,Partner-Channel,4,Starter,Housecall Pro,Closed Lost,Tom Szymanski,79,2025-05-20,2025-05-25,Yes,Yes
+L-0133,Robert,Martinez,National Electrical Group,Electrical,TN,Outbound-SDR,5,Growth,Housecall Pro,Proposal Sent,Aisha Okafor,71,2024-10-29,2024-10-31,Yes,Yes
+L-0134,Jennifer,Jones,Allied HVAC Partners,HVAC,WA,Partner-Channel,3,Starter,Housecall Pro,Discovery,Aisha Okafor,54,2024-01-07,2024-01-11,No,No
+L-0135,Jennifer,Anderson,ProServ HVAC Technologies,HVAC,OH,Inbound-SEO,3,Starter,FieldEdge,Closed Lost,Derek Pham,57,2025-05-29,2025-05-30,No,Yes
+L-0136,Carlos,Davis,RapidFix Plumbing Works,Plumbing,FL,Inbound-Referral,155,Enterprise,Paper/Manual,Closed Won,Sam Okonkwo,30,2025-04-27,2025-04-29,Yes,Yes
+L-0137,Mohamed,Brown,OneCall HVAC Group,HVAC,WI,Outbound-SDR,11,Growth,FieldEdge,Contacted,Priya Kapoor,34,2024-06-02,,Yes,No
+L-0138,Michael,Smith,BlueStar Plumbing Associates,Plumbing,FL,Outbound-SDR,19,Growth,Spreadsheets,Negotiation,Derek Pham,70,2025-04-18,2025-04-19,Yes,Yes
+L-0139,Robert,Williams,Apex Plumbing Systems,Plumbing,WA,Partner-Channel,1,Starter,FieldEdge,Closed Lost,Priya Kapoor,56,2024-03-11,2024-03-12,Yes,Yes
+L-0140,Carlos,Miller,RapidFix Facilities Management Solutions,Facilities Management,GA,Inbound-SEO,44,Pro,Other software,Negotiation,Rachel Thornton,42,2024-05-16,2024-05-17,Yes,Yes
+L-0141,Jennifer,Williams,Reliable Pest Control Technologies,Pest Control,NY,Outbound-SDR,178,Enterprise,Spreadsheets,Proposal Sent,Sam Okonkwo,78,2025-03-10,2025-03-12,Yes,Yes
+L-0142,Priya,Taylor,Premier Electrical Technologies,Electrical,CA,Inbound-SEO,64,Enterprise,FieldEdge,Contacted,Natasha Ivanova,77,2024-03-09,,Yes,No
+L-0143,Sarah,Jones,Apex HVAC Experts,HVAC,GA,Inbound-SEO,1,Starter,FieldEdge,Discovery,Carla Nunez,61,2024-10-23,2024-10-28,Yes,No
+L-0144,Carlos,Garcia,Dynamic HVAC Systems,HVAC,OH,Outbound-SDR,10,Growth,Jobber,Proposal Sent,Marcus Webb,68,2025-03-13,2025-03-16,Yes,Yes
+L-0145,Carlos,Miller,Dynamic HVAC Experts,HVAC,WI,G2-Capterra,12,Growth,ServiceTitan,Closed Won,Tom Szymanski,27,2024-11-03,2024-11-07,Yes,Yes
+L-0146,Michael,Miller,Premier HVAC Group,HVAC,PA,Partner-Channel,1,Starter,Other software,Contacted,Aisha Okafor,26,2025-01-14,,No,No
+L-0147,Sarah,Thomas,BlueStar Plumbing Systems,Plumbing,GA,Inbound-SEO,41,Pro,Paper/Manual,Discovery,Sam Okonkwo,81,2024-01-16,2024-01-17,Yes,No
+L-0148,Aisha,Davis,National Pest Control Technologies,Pest Control,WA,Outbound-SDR,5,Starter,Jobber,Discovery,Priya Kapoor,32,2024-11-11,2024-11-15,Yes,No
+L-0149,Robert,Anderson,ProServ HVAC Professionals,HVAC,MO,Inbound-SEO,29,Pro,Housecall Pro,Discovery,Sam Okonkwo,49,2025-03-03,2025-03-06,Yes,No
+L-0150,Carlos,Taylor,Premier HVAC Experts,HVAC,CA,Inbound-Referral,51,Pro,Other software,Contacted,Diego Vargas,43,2024-12-26,,Yes,No
+L-0151,Sarah,Martinez,TrustWorks Landscaping Works,Landscaping,CA,Inbound-Referral,5,Growth,Paper/Manual,New Lead,Tom Szymanski,21,2024-08-24,,Yes,No
+L-0152,Michael,Smith,RapidFix Electrical Systems,Electrical,IL,Outbound-SDR,5,Starter,Spreadsheets,New Lead,Derek Pham,88,2024-01-13,,Yes,No
+L-0153,Robert,Davis,ProServ Electrical Technologies,Electrical,AZ,Outbound-SDR,5,Starter,Housecall Pro,Discovery,Josh Reinhart,67,2024-12-28,2024-12-29,Yes,No
+L-0154,Aisha,Williams,Metro Electrical Professionals,Electrical,VA,Inbound-SEO,22,Pro,Housecall Pro,Demo/Evaluation,Diego Vargas,21,2025-01-23,2025-01-24,Yes,Yes
+L-0155,Maria,Taylor,Reliable Electrical Experts,Electrical,OR,G2-Capterra,26,Pro,Housecall Pro,Discovery,Diego Vargas,25,2024-02-13,2024-02-16,Yes,No
+L-0156,David,Anderson,ProServ HVAC Associates,HVAC,TN,Partner-Channel,21,Pro,Housecall Pro,Closed Won,Diego Vargas,58,2024-05-27,2024-05-28,Yes,Yes
+L-0157,Maria,Garcia,Heritage Plumbing Works,Plumbing,TX,Inbound-Referral,25,Pro,Housecall Pro,New Lead,Diego Vargas,49,2024-12-20,,Yes,No
+L-0158,Sarah,Thomas,Metro Facilities Management Group,Facilities Management,NC,Inbound-Referral,12,Growth,ServiceTitan,Demo/Evaluation,Josh Reinhart,57,2025-01-19,2025-01-20,Yes,Yes
+L-0159,Jennifer,Jones,Summit Pest Control Solutions,Pest Control,FL,Inbound-SEO,17,Growth,ServiceTitan,Contacted,Derek Pham,76,2024-04-19,,Yes,No
+L-0160,Robert,Smith,Elite Plumbing Systems,Plumbing,TN,Inbound-SEO,18,Growth,Other software,Demo/Evaluation,Leila Farouk,61,2024-04-01,2024-04-06,Yes,Yes
+L-0161,Michael,Jones,OneCall Pest Control Solutions,Pest Control,FL,Outbound-SDR,12,Growth,ServiceTitan,Negotiation,Tom Szymanski,54,2024-06-22,2024-06-24,Yes,Yes
+L-0162,Linda,Johnson,Apex HVAC Partners,HVAC,TX,Inbound-Referral,1,Starter,FieldEdge,Negotiation,Priya Kapoor,45,2024-09-09,2024-09-14,Yes,Yes
+L-0163,Priya,Thomas,BlueStar Facilities Management Professionals,Facilities Management,CO,Inbound-Referral,3,Starter,ServiceTitan,Closed Won,Tom Szymanski,61,2025-03-16,2025-03-19,Yes,Yes
+L-0164,Maria,Anderson,BlueStar Other Associates,Other,MO,Partner-Channel,4,Starter,ServiceTitan,Discovery,Derek Pham,66,2024-09-05,2024-09-09,Yes,No
+L-0165,David,Taylor,Elite Landscaping Technologies,Landscaping,NC,Inbound-Referral,11,Growth,Housecall Pro,Closed Won,Leila Farouk,83,2024-10-25,2024-10-29,No,Yes
+L-0166,Jennifer,Thomas,SwiftLine Pest Control Associates,Pest Control,FL,Inbound-Referral,24,Pro,Spreadsheets,Proposal Sent,Diego Vargas,24,2025-05-05,2025-05-10,No,Yes
+L-0167,James,Johnson,Reliable Electrical Technologies,Electrical,WI,Inbound-SEO,5,Starter,Housecall Pro,Closed Lost,Carla Nunez,33,2025-02-13,2025-02-17,No,Yes
+L-0168,Michael,Miller,Metro Plumbing Group,Plumbing,OH,Outbound-SDR,5,Starter,Jobber,Discovery,Marcus Webb,33,2024-06-03,2024-06-07,Yes,No
+L-0169,Maria,Jones,Premier Plumbing Group,Plumbing,TX,Inbound-Referral,53,Pro,Other software,Contacted,Diego Vargas,60,2025-05-02,,Yes,No
+L-0170,Robert,Davis,ProServ Electrical Systems,Electrical,IL,Partner-Channel,10,Growth,ServiceTitan,Demo/Evaluation,Tom Szymanski,91,2024-09-06,2024-09-09,Yes,Yes
+L-0171,Aisha,Johnson,Summit Plumbing Experts,Plumbing,IL,Inbound-Referral,32,Pro,Jobber,Demo/Evaluation,Sam Okonkwo,55,2025-03-15,2025-03-17,Yes,Yes
+L-0172,Jennifer,Garcia,TrustWorks HVAC Associates,HVAC,IL,Outbound-SDR,4,Starter,Other software,Proposal Sent,Josh Reinhart,34,2024-11-16,2024-11-21,Yes,Yes
+L-0173,Carlos,Miller,Dynamic Landscaping Associates,Landscaping,OH,Inbound-SEO,9,Growth,Paper/Manual,Discovery,Tom Szymanski,38,2024-09-01,2024-09-04,Yes,No
+L-0174,Priya,Smith,Regional Plumbing Services,Plumbing,IN,Outbound-SDR,10,Growth,ServiceTitan,Discovery,Tom Szymanski,77,2025-05-16,2025-05-19,No,No
+L-0175,David,Johnson,Allied Facilities Management Technologies,Facilities Management,AZ,Outbound-SDR,189,Enterprise,Spreadsheets,Negotiation,Diego Vargas,82,2025-02-22,2025-02-26,Yes,Yes
+L-0176,Michael,Martinez,Regional HVAC Experts,HVAC,CA,Outbound-SDR,4,Starter,Other software,Proposal Sent,Leila Farouk,34,2025-05-22,2025-05-27,Yes,Yes
+L-0177,Jennifer,Johnson,TrustWorks Electrical Group,Electrical,GA,Outbound-SDR,86,Enterprise,ServiceTitan,Discovery,Natasha Ivanova,53,2024-09-10,2024-09-14,Yes,No
+L-0178,Jennifer,Martinez,Reliable Facilities Management Associates,Facilities Management,MO,Inbound-SEO,18,Growth,ServiceTitan,Closed Won,Aisha Okafor,92,2024-05-22,2024-05-23,Yes,Yes
+L-0179,Michael,Taylor,Apex Other Solutions,Other,GA,Inbound-SEO,5,Starter,ServiceTitan,Contacted,Josh Reinhart,27,2024-04-07,,Yes,No
+L-0180,Mohamed,Johnson,Heritage Facilities Management Experts,Facilities Management,NC,Inbound-Referral,45,Pro,Housecall Pro,Proposal Sent,Diego Vargas,29,2024-10-02,2024-10-06,Yes,Yes
+L-0181,Carlos,Miller,BlueStar Plumbing Systems,Plumbing,PA,G2-Capterra,5,Growth,FieldEdge,Closed Won,Priya Kapoor,28,2024-04-05,2024-04-08,Yes,Yes
+L-0182,Mohamed,Davis,Allied HVAC Group,HVAC,IL,Outbound-SDR,5,Starter,FieldEdge,Closed Won,Marcus Webb,32,2025-05-11,2025-05-12,Yes,Yes
+L-0183,Maria,Taylor,Regional HVAC Partners,HVAC,FL,Partner-Channel,111,Enterprise,Jobber,Closed Lost,Rachel Thornton,55,2024-05-15,2024-05-17,No,Yes
+L-0184,Maria,Williams,ProServ HVAC Experts,HVAC,MN,Inbound-Referral,12,Growth,Spreadsheets,Negotiation,Marcus Webb,81,2024-04-03,2024-04-05,Yes,Yes
+L-0185,Aisha,Johnson,Summit Pest Control Works,Pest Control,WA,Outbound-SDR,47,Pro,Jobber,New Lead,Diego Vargas,31,2025-05-04,,No,No
+L-0186,Linda,Garcia,BlueStar Plumbing Solutions,Plumbing,VA,Outbound-SDR,28,Pro,Paper/Manual,New Lead,Natasha Ivanova,41,2024-05-26,,Yes,No
+L-0187,Jennifer,Williams,ProServ Facilities Management Partners,Facilities Management,FL,Inbound-SEO,1,Starter,ServiceTitan,Proposal Sent,Josh Reinhart,74,2024-05-06,2024-05-09,Yes,Yes
+L-0188,Linda,Miller,Summit Pest Control Technologies,Pest Control,IN,Inbound-SEO,14,Growth,Housecall Pro,Closed Won,Derek Pham,50,2024-07-12,2024-07-13,Yes,Yes
+L-0189,Mohamed,Williams,OneCall Electrical Group,Electrical,TX,Partner-Channel,152,Enterprise,Paper/Manual,Demo/Evaluation,Diego Vargas,89,2024-05-15,2024-05-18,Yes,Yes
+L-0190,Maria,Taylor,SwiftLine HVAC Experts,HVAC,NV,Partner-Channel,1,Starter,ServiceTitan,Demo/Evaluation,Josh Reinhart,71,2025-02-11,2025-02-15,Yes,Yes
+L-0191,Michael,Thomas,Dynamic HVAC Technologies,HVAC,CA,Partner-Channel,2,Starter,ServiceTitan,Proposal Sent,Josh Reinhart,28,2024-06-08,2024-06-13,Yes,Yes
+L-0192,Aisha,Williams,Allied Landscaping Solutions,Landscaping,IN,Outbound-SDR,5,Starter,Jobber,Negotiation,Tom Szymanski,21,2024-11-12,2024-11-13,Yes,Yes
+L-0193,Michael,Martinez,Metro HVAC Partners,HVAC,OR,Outbound-SDR,3,Starter,Housecall Pro,Closed Won,Marcus Webb,74,2024-04-30,2024-05-03,Yes,Yes
+L-0194,Mohamed,Thomas,Summit Plumbing Technologies,Plumbing,WI,Inbound-Referral,6,Growth,Spreadsheets,Demo/Evaluation,Derek Pham,93,2024-06-19,2024-06-20,Yes,Yes
+L-0195,Aisha,Thomas,Dynamic Facilities Management Technologies,Facilities Management,CO,Inbound-Referral,1,Starter,ServiceTitan,Closed Lost,Tom Szymanski,90,2025-01-27,2025-01-28,Yes,Yes
+L-0196,Carlos,Smith,Heritage Landscaping Group,Landscaping,MN,Outbound-SDR,1,Starter,Other software,Demo/Evaluation,Marcus Webb,48,2024-05-02,2024-05-04,Yes,Yes
+L-0197,Aisha,Anderson,ProServ Pest Control Professionals,Pest Control,WA,Outbound-SDR,1,Starter,Paper/Manual,Demo/Evaluation,Derek Pham,58,2024-01-09,2024-01-14,Yes,Yes
+L-0198,Sarah,Martinez,Regional Other Services,Other,CO,Content-Webinar,54,Pro,Spreadsheets,Contacted,Diego Vargas,23,2024-09-08,,Yes,No
+L-0199,Maria,Smith,ProServ Facilities Management Experts,Facilities Management,VA,Inbound-SEO,8,Growth,Housecall Pro,Demo/Evaluation,Marcus Webb,55,2024-08-31,2024-09-02,Yes,Yes
+L-0200,Priya,Smith,Dynamic Plumbing Solutions,Plumbing,GA,Inbound-SEO,57,Pro,Jobber,Proposal Sent,Diego Vargas,95,2024-05-16,2024-05-17,Yes,Yes
+L-0201,Sarah,Williams,Summit Facilities Management Solutions,Facilities Management,NY,Outbound-SDR,160,Enterprise,ServiceTitan,Discovery,Rachel Thornton,29,2024-11-30,2024-12-02,Yes,No
+L-0202,Maria,Williams,Elite Plumbing Associates,Plumbing,CA,Inbound-Referral,5,Starter,ServiceTitan,Demo/Evaluation,Priya Kapoor,35,2024-07-31,2024-08-03,Yes,Yes
+L-0203,Robert,Davis,SwiftLine HVAC Experts,HVAC,GA,Inbound-Referral,16,Growth,Spreadsheets,Negotiation,Derek Pham,23,2024-02-20,2024-02-22,Yes,Yes
+L-0204,Mohamed,Taylor,Metro HVAC Associates,HVAC,OR,Inbound-SEO,27,Pro,Jobber,Contacted,Diego Vargas,67,2024-08-15,,Yes,No
+L-0205,Linda,Smith,Pinnacle HVAC Associates,HVAC,VA,Content-Webinar,4,Starter,Other software,Closed Lost,Carla Nunez,25,2024-04-04,2024-04-05,Yes,Yes
+L-0206,David,Smith,ProServ Plumbing Partners,Plumbing,IN,Inbound-SEO,4,Starter,FieldEdge,Closed Lost,Derek Pham,77,2024-08-07,2024-08-10,Yes,Yes
+L-0207,Linda,Martinez,OneCall HVAC Works,HVAC,OR,Inbound-Referral,2,Starter,Paper/Manual,Proposal Sent,Marcus Webb,65,2024-09-12,2024-09-16,Yes,Yes
+L-0208,Carlos,Garcia,ProServ Plumbing Solutions,Plumbing,NY,Outbound-SDR,3,Starter,ServiceTitan,Closed Lost,Derek Pham,80,2024-01-31,2024-02-01,No,Yes
+L-0209,David,Brown,National HVAC Works,HVAC,OR,Content-Webinar,23,Pro,Spreadsheets,Proposal Sent,Diego Vargas,42,2024-08-12,2024-08-15,Yes,Yes
+L-0210,Maria,Smith,ProServ Landscaping Associates,Landscaping,GA,Content-Webinar,11,Growth,Spreadsheets,Proposal Sent,Tom Szymanski,24,2025-05-19,2025-05-23,Yes,Yes
+L-0211,David,Anderson,Apex HVAC Group,HVAC,WI,Content-Webinar,32,Pro,Other software,Negotiation,Rachel Thornton,22,2024-12-14,2024-12-15,Yes,Yes
+L-0212,Mohamed,Davis,National Other Solutions,Other,MO,Outbound-SDR,4,Starter,Housecall Pro,Discovery,Tom Szymanski,75,2024-12-10,2024-12-12,Yes,No
+L-0213,Robert,Anderson,Premier HVAC Solutions,HVAC,NV,Inbound-Referral,10,Growth,Jobber,Contacted,Marcus Webb,93,2024-10-28,,No,No
+L-0214,Aisha,Taylor,National Electrical Professionals,Electrical,TX,Inbound-SEO,4,Starter,Jobber,Discovery,Carla Nunez,31,2024-03-20,2024-03-22,No,No
+L-0215,David,Miller,OneCall HVAC Systems,HVAC,WA,Content-Webinar,3,Starter,Paper/Manual,New Lead,Priya Kapoor,73,2024-01-02,,Yes,No
+L-0216,Jennifer,Jones,Summit HVAC Group,HVAC,CO,Inbound-SEO,12,Growth,ServiceTitan,Closed Won,Marcus Webb,22,2024-03-16,2024-03-19,Yes,Yes
+L-0217,David,Smith,Summit HVAC Works,HVAC,PA,Inbound-SEO,1,Starter,ServiceTitan,Negotiation,Josh Reinhart,75,2025-05-09,2025-05-11,Yes,Yes
+L-0218,Carlos,Davis,Apex Pest Control Services,Pest Control,WA,Outbound-SDR,13,Growth,Spreadsheets,Discovery,Marcus Webb,93,2024-10-31,2024-11-04,Yes,No
+L-0219,Mohamed,Jones,Metro HVAC Professionals,HVAC,NY,Outbound-SDR,60,Pro,Jobber,Contacted,Sam Okonkwo,41,2024-07-23,,Yes,No
+L-0220,David,Davis,Premier Plumbing Partners,Plumbing,MN,Inbound-SEO,36,Pro,FieldEdge,Contacted,Diego Vargas,67,2025-01-31,,Yes,No
+L-0221,Robert,Anderson,ProServ HVAC Experts,HVAC,CA,Inbound-SEO,1,Starter,Other software,Contacted,Carla Nunez,89,2024-04-09,,Yes,No
+L-0222,Maria,Miller,Premier Facilities Management Experts,Facilities Management,OR,Outbound-SDR,5,Starter,Paper/Manual,Proposal Sent,Aisha Okafor,58,2025-05-01,2025-05-05,No,Yes
+L-0223,Robert,Johnson,Dynamic HVAC Technologies,HVAC,OH,Partner-Channel,31,Pro,Other software,Closed Lost,Sam Okonkwo,25,2024-06-20,2024-06-22,Yes,Yes
+L-0224,James,Thomas,RapidFix HVAC Systems,HVAC,NY,Inbound-SEO,7,Growth,FieldEdge,Proposal Sent,Derek Pham,78,2025-02-10,2025-02-15,No,Yes
+L-0225,Robert,Taylor,OneCall HVAC Associates,HVAC,NV,Partner-Channel,8,Growth,FieldEdge,Closed Won,Carla Nunez,53,2024-04-13,2024-04-17,Yes,Yes
+L-0226,James,Thomas,OneCall HVAC Partners,HVAC,WA,Outbound-SDR,5,Starter,Spreadsheets,New Lead,Carla Nunez,50,2025-02-15,,Yes,No
+L-0227,Aisha,Davis,National Facilities Management Partners,Facilities Management,VA,G2-Capterra,3,Starter,Paper/Manual,Closed Lost,Aisha Okafor,58,2024-04-10,2024-04-12,Yes,Yes
+L-0228,Aisha,Martinez,Heritage HVAC Solutions,HVAC,WI,Content-Webinar,4,Starter,Paper/Manual,Closed Won,Tom Szymanski,59,2025-01-17,2025-01-18,Yes,Yes
+L-0229,Aisha,Brown,Reliable HVAC Works,HVAC,MN,Content-Webinar,32,Pro,Paper/Manual,New Lead,Natasha Ivanova,66,2024-09-12,,Yes,No
+L-0230,Carlos,Garcia,Regional Electrical Solutions,Electrical,NC,Inbound-SEO,1,Starter,Housecall Pro,Proposal Sent,Tom Szymanski,95,2025-05-15,2025-05-19,Yes,Yes
+L-0231,Mohamed,Miller,RapidFix HVAC Services,HVAC,TX,G2-Capterra,2,Starter,FieldEdge,Closed Won,Aisha Okafor,54,2024-08-07,2024-08-09,No,Yes
+L-0232,Jennifer,Davis,Reliable Electrical Technologies,Electrical,MN,Inbound-SEO,5,Growth,Jobber,Negotiation,Derek Pham,68,2024-11-08,2024-11-12,Yes,Yes
+L-0233,Jennifer,Jones,National Electrical Partners,Electrical,NC,Outbound-SDR,3,Starter,Housecall Pro,Discovery,Leila Farouk,28,2024-10-16,2024-10-20,Yes,No
+L-0234,Michael,Jones,Dynamic HVAC Systems,HVAC,TN,G2-Capterra,12,Growth,Housecall Pro,Negotiation,Tom Szymanski,83,2025-02-17,2025-02-18,Yes,Yes
+L-0235,Michael,Williams,SwiftLine Electrical Solutions,Electrical,AZ,Inbound-Referral,108,Enterprise,Spreadsheets,Negotiation,Diego Vargas,84,2024-08-15,2024-08-18,Yes,Yes
+L-0236,Jennifer,Brown,Elite HVAC Systems,HVAC,CO,Content-Webinar,5,Starter,Jobber,Closed Lost,Carla Nunez,48,2024-07-06,2024-07-07,Yes,Yes
+L-0237,Mohamed,Miller,RapidFix Electrical Partners,Electrical,VA,Inbound-Referral,8,Growth,Spreadsheets,Demo/Evaluation,Aisha Okafor,35,2024-03-13,2024-03-18,No,Yes
+L-0238,Linda,Garcia,Pinnacle HVAC Works,HVAC,CA,Partner-Channel,4,Starter,Spreadsheets,Contacted,Tom Szymanski,30,2025-04-13,,Yes,No
+L-0239,Mohamed,Miller,Heritage HVAC Systems,HVAC,IN,Outbound-SDR,30,Pro,FieldEdge,Demo/Evaluation,Natasha Ivanova,75,2024-06-11,2024-06-13,Yes,Yes
+L-0240,Mohamed,Thomas,ProServ HVAC Technologies,HVAC,WA,Partner-Channel,3,Starter,Jobber,Closed Won,Aisha Okafor,20,2024-11-25,2024-11-26,No,Yes
+L-0241,Priya,Martinez,National HVAC Systems,HVAC,OH,Inbound-SEO,14,Growth,Jobber,Discovery,Derek Pham,86,2024-02-16,2024-02-20,Yes,No
+L-0242,Priya,Martinez,Pinnacle Plumbing Group,Plumbing,WA,Inbound-SEO,4,Starter,Housecall Pro,Negotiation,Tom Szymanski,22,2024-08-17,2024-08-19,Yes,Yes
+L-0243,Robert,Davis,Heritage Plumbing Group,Plumbing,MO,Outbound-SDR,6,Growth,Jobber,Negotiation,Marcus Webb,34,2024-02-19,2024-02-20,Yes,Yes
+L-0244,Robert,Johnson,RapidFix Pest Control Associates,Pest Control,NY,Inbound-SEO,1,Starter,Jobber,Negotiation,Derek Pham,37,2024-04-13,2024-04-18,Yes,Yes
+L-0245,James,Martinez,OneCall Facilities Management Technologies,Facilities Management,IN,Content-Webinar,11,Growth,Jobber,Demo/Evaluation,Josh Reinhart,40,2024-07-25,2024-07-28,No,Yes
+L-0246,Maria,Thomas,Summit HVAC Partners,HVAC,GA,Content-Webinar,8,Growth,FieldEdge,Contacted,Leila Farouk,85,2025-05-20,,Yes,No
+L-0247,Maria,Smith,Allied HVAC Solutions,HVAC,IL,G2-Capterra,2,Starter,Jobber,Demo/Evaluation,Carla Nunez,34,2024-10-24,2024-10-28,Yes,Yes
+L-0248,Robert,Miller,TrustWorks Landscaping Partners,Landscaping,TN,G2-Capterra,128,Enterprise,Housecall Pro,Demo/Evaluation,Rachel Thornton,34,2024-04-05,2024-04-07,Yes,Yes
+L-0249,Priya,Davis,TrustWorks Facilities Management Solutions,Facilities Management,NV,Inbound-SEO,10,Growth,FieldEdge,Closed Lost,Tom Szymanski,73,2024-03-01,2024-03-02,Yes,Yes
+L-0250,James,Johnson,Reliable Electrical Works,Electrical,TX,Inbound-Referral,28,Pro,Housecall Pro,Contacted,Diego Vargas,76,2025-05-14,,No,No
+L-0251,Mohamed,Taylor,Heritage Other Solutions,Other,MO,Inbound-Referral,15,Growth,Paper/Manual,Demo/Evaluation,Aisha Okafor,64,2024-04-07,2024-04-11,Yes,Yes
+L-0252,Sarah,Garcia,Reliable HVAC Services,HVAC,WI,G2-Capterra,189,Enterprise,ServiceTitan,Closed Won,Natasha Ivanova,61,2025-05-22,2025-05-26,Yes,Yes
+L-0253,Jennifer,Johnson,OneCall Plumbing Services,Plumbing,NY,Inbound-Referral,4,Starter,FieldEdge,Contacted,Priya Kapoor,77,2025-04-03,,Yes,No
+L-0254,Jennifer,Smith,ProServ HVAC Professionals,HVAC,CO,Content-Webinar,7,Growth,Paper/Manual,Closed Lost,Aisha Okafor,63,2024-11-07,2024-11-11,Yes,Yes
+L-0255,Carlos,Martinez,Regional Pest Control Group,Pest Control,CA,Inbound-SEO,4,Starter,ServiceTitan,New Lead,Carla Nunez,57,2024-08-15,,Yes,No
+L-0256,Linda,Brown,National HVAC Group,HVAC,VA,Inbound-SEO,18,Growth,Spreadsheets,Contacted,Josh Reinhart,47,2024-07-19,,Yes,No
+L-0257,Priya,Davis,RapidFix Pest Control Solutions,Pest Control,OR,Partner-Channel,9,Growth,ServiceTitan,Proposal Sent,Marcus Webb,75,2024-01-05,2024-01-10,No,Yes
+L-0258,Jennifer,Jones,TrustWorks HVAC Solutions,HVAC,OH,Inbound-Referral,15,Growth,FieldEdge,Demo/Evaluation,Aisha Okafor,70,2025-01-28,2025-01-31,Yes,Yes
+L-0259,Aisha,Taylor,Pinnacle Facilities Management Experts,Facilities Management,MO,Outbound-SDR,15,Growth,Housecall Pro,Discovery,Derek Pham,36,2024-08-10,2024-08-13,Yes,No
+L-0260,Carlos,Johnson,Allied Pest Control Systems,Pest Control,OH,Inbound-Referral,55,Pro,Spreadsheets,Negotiation,Rachel Thornton,21,2025-03-03,2025-03-07,Yes,Yes
+L-0261,Sarah,Martinez,Premier HVAC Works,HVAC,MN,Partner-Channel,30,Pro,Spreadsheets,Contacted,Natasha Ivanova,57,2024-09-13,,No,No
+L-0262,Robert,Taylor,National Pest Control Experts,Pest Control,CA,Inbound-Referral,12,Growth,Spreadsheets,Negotiation,Marcus Webb,69,2024-10-21,2024-10-25,Yes,Yes
+L-0263,Linda,Williams,Metro HVAC Solutions,HVAC,IL,Content-Webinar,48,Pro,Housecall Pro,Closed Won,Sam Okonkwo,57,2025-01-11,2025-01-13,Yes,Yes
+L-0264,James,Williams,National Plumbing Associates,Plumbing,CA,Inbound-SEO,13,Growth,Other software,New Lead,Priya Kapoor,39,2024-09-18,,Yes,No
+L-0265,Carlos,Williams,Dynamic Plumbing Experts,Plumbing,MO,Inbound-SEO,16,Growth,FieldEdge,Demo/Evaluation,Tom Szymanski,28,2024-11-21,2024-11-26,Yes,Yes
+L-0266,Maria,Taylor,Regional Plumbing Professionals,Plumbing,GA,Inbound-SEO,41,Pro,Housecall Pro,Discovery,Diego Vargas,21,2024-10-27,2024-11-01,No,No
+L-0267,Jennifer,Martinez,RapidFix Landscaping Professionals,Landscaping,IN,Inbound-Referral,15,Growth,Spreadsheets,Demo/Evaluation,Derek Pham,86,2024-04-26,2024-04-27,Yes,Yes
+L-0268,Sarah,Taylor,BlueStar Landscaping Systems,Landscaping,NY,Inbound-SEO,5,Starter,ServiceTitan,Contacted,Marcus Webb,28,2024-04-08,,Yes,No
+L-0269,David,Jones,SwiftLine Electrical Group,Electrical,OR,Inbound-SEO,99,Enterprise,Other software,New Lead,Natasha Ivanova,26,2024-12-05,,No,No
+L-0270,James,Taylor,Metro Landscaping Associates,Landscaping,CA,Outbound-SDR,4,Starter,Housecall Pro,Discovery,Josh Reinhart,88,2025-03-19,2025-03-20,Yes,No
+L-0271,Robert,Taylor,Allied Plumbing Professionals,Plumbing,IL,Content-Webinar,14,Growth,Paper/Manual,Proposal Sent,Derek Pham,68,2024-11-04,2024-11-08,No,Yes
+L-0272,Carlos,Williams,Summit HVAC Services,HVAC,TX,Inbound-SEO,5,Starter,Paper/Manual,Discovery,Carla Nunez,90,2024-05-27,2024-05-28,Yes,No
+L-0273,Sarah,Anderson,Reliable Electrical Technologies,Electrical,NY,Inbound-SEO,138,Enterprise,ServiceTitan,Discovery,Sam Okonkwo,43,2024-12-18,2024-12-20,Yes,No
+L-0274,Sarah,Thomas,OneCall Facilities Management Works,Facilities Management,WA,Inbound-Referral,200,Enterprise,ServiceTitan,Discovery,Natasha Ivanova,32,2024-03-15,2024-03-18,No,No
+L-0275,Priya,Anderson,Regional HVAC Works,HVAC,VA,Inbound-SEO,11,Growth,ServiceTitan,Discovery,Derek Pham,39,2025-04-06,2025-04-11,Yes,No
+L-0276,Linda,Davis,Regional HVAC Partners,HVAC,IN,Inbound-SEO,47,Pro,Paper/Manual,Contacted,Rachel Thornton,81,2025-01-03,,Yes,No
+L-0277,Aisha,Johnson,Allied HVAC Experts,HVAC,TX,G2-Capterra,13,Growth,Other software,Closed Lost,Aisha Okafor,29,2024-05-23,2024-05-26,Yes,Yes
+L-0278,Sarah,Anderson,Elite Pest Control Solutions,Pest Control,MN,Outbound-SDR,1,Starter,Paper/Manual,Negotiation,Tom Szymanski,70,2025-04-28,2025-05-01,Yes,Yes
+L-0279,David,Anderson,Apex Plumbing Professionals,Plumbing,WA,G2-Capterra,12,Growth,Spreadsheets,Closed Won,Tom Szymanski,40,2024-06-18,2024-06-22,No,Yes
+L-0280,Linda,Smith,Premier Pest Control Works,Pest Control,NY,Inbound-Referral,3,Starter,Housecall Pro,Negotiation,Carla Nunez,80,2024-02-13,2024-02-17,Yes,Yes
+L-0281,Carlos,Jones,Heritage Facilities Management Technologies,Facilities Management,WI,Outbound-SDR,5,Starter,FieldEdge,Negotiation,Carla Nunez,29,2025-01-20,2025-01-25,Yes,Yes
+L-0282,Sarah,Johnson,RapidFix Facilities Management Partners,Facilities Management,PA,G2-Capterra,4,Starter,ServiceTitan,Demo/Evaluation,Tom Szymanski,41,2024-01-07,2024-01-11,No,Yes
+L-0283,Linda,Brown,Pinnacle HVAC Systems,HVAC,TX,Outbound-SDR,8,Growth,ServiceTitan,Closed Won,Leila Farouk,81,2025-02-28,2025-03-04,Yes,Yes
+L-0284,Michael,Williams,RapidFix HVAC Systems,HVAC,NV,Outbound-SDR,9,Growth,Paper/Manual,Closed Lost,Tom Szymanski,41,2024-02-10,2024-02-11,Yes,Yes
+L-0285,Sarah,Miller,Apex Facilities Management Associates,Facilities Management,IL,Partner-Channel,14,Growth,Paper/Manual,Demo/Evaluation,Priya Kapoor,41,2024-08-09,2024-08-13,Yes,Yes
+L-0286,James,Brown,RapidFix HVAC Experts,HVAC,VA,Outbound-SDR,19,Growth,Other software,Discovery,Josh Reinhart,33,2024-03-11,2024-03-13,No,No
+L-0287,Priya,Martinez,Allied Electrical Systems,Electrical,WI,Outbound-SDR,5,Starter,FieldEdge,Closed Won,Leila Farouk,36,2025-05-30,2025-06-03,Yes,Yes
+L-0288,Aisha,Thomas,Summit Facilities Management Systems,Facilities Management,OH,Inbound-SEO,18,Growth,Jobber,Closed Won,Josh Reinhart,95,2025-05-08,2025-05-11,Yes,Yes
+L-0289,Carlos,Johnson,RapidFix Pest Control Services,Pest Control,TN,Inbound-SEO,25,Pro,Housecall Pro,Discovery,Natasha Ivanova,93,2025-02-22,2025-02-23,No,No
+L-0290,Robert,Anderson,Regional Pest Control Associates,Pest Control,NC,Inbound-SEO,3,Starter,Housecall Pro,Negotiation,Derek Pham,88,2025-03-12,2025-03-15,Yes,Yes
+L-0291,Priya,Garcia,Heritage Pest Control Solutions,Pest Control,NY,Inbound-Referral,5,Starter,Housecall Pro,Proposal Sent,Priya Kapoor,59,2025-01-14,2025-01-17,No,Yes
+L-0292,Mohamed,Smith,Metro Plumbing Solutions,Plumbing,IN,Inbound-SEO,10,Growth,Paper/Manual,Closed Won,Marcus Webb,69,2025-02-14,2025-02-16,Yes,Yes
+L-0293,Michael,Thomas,Premier HVAC Solutions,HVAC,IN,Inbound-SEO,3,Starter,FieldEdge,Negotiation,Josh Reinhart,86,2024-02-08,2024-02-13,Yes,Yes
+L-0294,Mohamed,Smith,Pinnacle HVAC Group,HVAC,NC,Inbound-SEO,14,Growth,Other software,Proposal Sent,Marcus Webb,50,2024-08-25,2024-08-28,Yes,Yes
+L-0295,Michael,Thomas,SwiftLine Plumbing Associates,Plumbing,WA,Inbound-SEO,5,Starter,Jobber,Closed Won,Leila Farouk,90,2024-01-16,2024-01-17,Yes,Yes
+L-0296,Carlos,Johnson,RapidFix HVAC Partners,HVAC,CO,Partner-Channel,176,Enterprise,Spreadsheets,Discovery,Diego Vargas,33,2024-01-05,2024-01-10,Yes,No
+L-0297,Linda,Taylor,TrustWorks Facilities Management Associates,Facilities Management,TX,Inbound-SEO,56,Pro,FieldEdge,Closed Lost,Diego Vargas,63,2025-03-29,2025-03-31,Yes,Yes
+L-0298,Carlos,Smith,Reliable HVAC Technologies,HVAC,AZ,Outbound-SDR,2,Starter,Spreadsheets,Closed Won,Josh Reinhart,86,2024-08-23,2024-08-26,Yes,Yes
+L-0299,Michael,Williams,BlueStar Pest Control Professionals,Pest Control,PA,Outbound-SDR,24,Pro,ServiceTitan,Demo/Evaluation,Rachel Thornton,93,2024-07-01,2024-07-03,No,Yes
+L-0300,Maria,Taylor,OneCall Facilities Management Associates,Facilities Management,TX,Content-Webinar,2,Starter,Other software,Contacted,Leila Farouk,35,2024-12-30,,Yes,No
+L-0301,Priya,Williams,Premier Facilities Management Experts,Facilities Management,VA,Inbound-Referral,3,Starter,FieldEdge,Demo/Evaluation,Derek Pham,48,2024-10-08,2024-10-12,Yes,Yes
+L-0302,James,Taylor,BlueStar Plumbing Systems,Plumbing,OR,Inbound-Referral,2,Starter,Spreadsheets,Negotiation,Priya Kapoor,21,2024-05-03,2024-05-06,Yes,Yes
+L-0303,Linda,Miller,BlueStar Plumbing Systems,Plumbing,WA,Outbound-SDR,31,Pro,Jobber,Discovery,Rachel Thornton,43,2024-08-30,2024-09-02,Yes,No
+L-0304,Robert,Miller,BlueStar HVAC Solutions,HVAC,OH,Partner-Channel,2,Starter,FieldEdge,Closed Won,Derek Pham,91,2024-08-22,2024-08-24,Yes,Yes
+L-0305,Aisha,Williams,Premier HVAC Technologies,HVAC,NC,Content-Webinar,15,Growth,FieldEdge,Discovery,Marcus Webb,32,2024-11-03,2024-11-07,Yes,No
+L-0306,Mohamed,Anderson,BlueStar Plumbing Associates,Plumbing,OR,Inbound-Referral,3,Starter,Housecall Pro,Discovery,Josh Reinhart,64,2024-09-20,2024-09-21,No,No
+L-0307,Priya,Jones,TrustWorks Other Solutions,Other,IL,Outbound-SDR,3,Starter,Housecall Pro,Closed Won,Priya Kapoor,68,2025-05-14,2025-05-15,Yes,Yes
+L-0308,Jennifer,Garcia,Elite Plumbing Partners,Plumbing,NV,G2-Capterra,17,Growth,Housecall Pro,New Lead,Carla Nunez,49,2024-03-14,,Yes,No
+L-0309,Aisha,Brown,Reliable HVAC Group,HVAC,PA,Content-Webinar,16,Growth,ServiceTitan,Demo/Evaluation,Tom Szymanski,36,2025-04-06,2025-04-07,Yes,Yes
+L-0310,Priya,Williams,Metro HVAC Systems,HVAC,AZ,Outbound-SDR,4,Starter,ServiceTitan,Closed Won,Leila Farouk,53,2024-01-27,2024-01-28,No,Yes
+L-0311,Linda,Davis,SwiftLine Pest Control Partners,Pest Control,MO,Inbound-SEO,9,Growth,FieldEdge,New Lead,Carla Nunez,61,2024-06-23,,No,No
+L-0312,Michael,Garcia,OneCall Other Experts,Other,GA,Outbound-SDR,10,Growth,Other software,Proposal Sent,Josh Reinhart,88,2025-04-12,2025-04-17,Yes,Yes
+L-0313,Michael,Davis,SwiftLine Plumbing Services,Plumbing,IN,Inbound-SEO,3,Starter,Other software,New Lead,Tom Szymanski,64,2024-01-11,,Yes,No
+L-0314,Robert,Miller,ProServ HVAC Solutions,HVAC,TN,Outbound-SDR,38,Pro,Other software,Proposal Sent,Sam Okonkwo,91,2024-01-08,2024-01-12,Yes,Yes
+L-0315,Maria,Williams,Apex HVAC Partners,HVAC,NY,Inbound-Referral,2,Starter,Housecall Pro,Discovery,Derek Pham,44,2024-10-05,2024-10-09,Yes,No
+L-0316,James,Williams,Summit Electrical Partners,Electrical,NC,Inbound-Referral,5,Starter,ServiceTitan,New Lead,Marcus Webb,88,2024-11-24,,Yes,No
+L-0317,Linda,Thomas,Premier Pest Control Works,Pest Control,FL,Inbound-SEO,2,Starter,Other software,Discovery,Derek Pham,67,2024-08-10,2024-08-14,No,No
+L-0318,James,Johnson,ProServ HVAC Systems,HVAC,MN,Outbound-SDR,24,Pro,ServiceTitan,Contacted,Rachel Thornton,68,2024-07-04,,Yes,No
+L-0319,Mohamed,Thomas,Premier HVAC Experts,HVAC,WI,Outbound-SDR,26,Pro,Spreadsheets,Demo/Evaluation,Rachel Thornton,40,2024-08-01,2024-08-04,Yes,Yes
+L-0320,James,Williams,Reliable Plumbing Associates,Plumbing,NY,G2-Capterra,3,Starter,FieldEdge,Closed Lost,Aisha Okafor,61,2024-08-11,2024-08-15,No,Yes
+L-0321,Linda,Johnson,National HVAC Services,HVAC,CA,Outbound-SDR,4,Starter,Jobber,Demo/Evaluation,Leila Farouk,40,2024-06-07,2024-06-09,No,Yes
+L-0322,James,Thomas,Heritage Pest Control Works,Pest Control,OH,Inbound-Referral,28,Pro,Jobber,Closed Lost,Rachel Thornton,44,2024-11-20,2024-11-24,Yes,Yes
+L-0323,Jennifer,Garcia,TrustWorks Plumbing Partners,Plumbing,NV,Outbound-SDR,14,Growth,Other software,Contacted,Tom Szymanski,89,2025-05-16,,No,No
+L-0324,Priya,Garcia,ProServ HVAC Works,HVAC,FL,Content-Webinar,3,Starter,Housecall Pro,Demo/Evaluation,Josh Reinhart,22,2025-01-10,2025-01-12,Yes,Yes
+L-0325,Carlos,Taylor,Metro HVAC Services,HVAC,OH,Outbound-SDR,9,Growth,ServiceTitan,Demo/Evaluation,Carla Nunez,32,2024-11-26,2024-11-27,Yes,Yes
+L-0326,Sarah,Anderson,Metro HVAC Services,HVAC,PA,Inbound-SEO,8,Growth,Housecall Pro,Negotiation,Derek Pham,66,2025-02-01,2025-02-02,Yes,Yes
+L-0327,Priya,Jones,RapidFix Landscaping Services,Landscaping,FL,Content-Webinar,49,Pro,Other software,Demo/Evaluation,Diego Vargas,27,2024-03-03,2024-03-06,Yes,Yes
+L-0328,Mohamed,Brown,Pinnacle HVAC Experts,HVAC,MO,Inbound-SEO,5,Starter,FieldEdge,Proposal Sent,Aisha Okafor,87,2024-08-24,2024-08-26,Yes,Yes
+L-0329,Robert,Martinez,National Pest Control Solutions,Pest Control,MO,Outbound-SDR,19,Growth,Paper/Manual,Closed Lost,Tom Szymanski,90,2025-03-13,2025-03-15,Yes,Yes
+L-0330,Priya,Brown,SwiftLine Landscaping Technologies,Landscaping,TN,Partner-Channel,55,Pro,Other software,Closed Won,Diego Vargas,61,2024-11-28,2024-12-02,Yes,Yes
+L-0331,Michael,Smith,Elite Plumbing Technologies,Plumbing,PA,Inbound-SEO,17,Growth,Other software,Closed Lost,Marcus Webb,37,2024-02-05,2024-02-10,Yes,Yes
+L-0332,David,Williams,Reliable HVAC Works,HVAC,OR,G2-Capterra,37,Pro,ServiceTitan,Contacted,Diego Vargas,65,2024-06-07,,No,No
+L-0333,Linda,Thomas,Summit HVAC Associates,HVAC,AZ,Inbound-Referral,5,Starter,Spreadsheets,Closed Won,Carla Nunez,42,2024-08-10,2024-08-14,Yes,Yes
+L-0334,Mohamed,Taylor,Heritage HVAC Services,HVAC,AZ,Inbound-Referral,3,Starter,Paper/Manual,Demo/Evaluation,Leila Farouk,21,2025-03-20,2025-03-22,Yes,Yes
+L-0335,Priya,Anderson,RapidFix HVAC Group,HVAC,GA,Inbound-Referral,15,Growth,FieldEdge,Contacted,Josh Reinhart,77,2024-08-14,,Yes,No
+L-0336,Carlos,Miller,Apex Facilities Management Solutions,Facilities Management,IN,Inbound-SEO,3,Starter,Paper/Manual,Proposal Sent,Derek Pham,71,2024-02-20,2024-02-21,No,Yes
+L-0337,Mohamed,Anderson,Metro Plumbing Group,Plumbing,VA,Outbound-SDR,11,Growth,FieldEdge,Discovery,Derek Pham,61,2024-09-09,2024-09-13,Yes,No
+L-0338,Priya,Williams,TrustWorks Plumbing Services,Plumbing,GA,Outbound-SDR,5,Starter,ServiceTitan,Contacted,Carla Nunez,76,2024-11-08,,Yes,No
+L-0339,Jennifer,Thomas,Summit HVAC Partners,HVAC,MN,Inbound-SEO,7,Growth,FieldEdge,Discovery,Tom Szymanski,21,2024-02-25,2024-02-28,Yes,No
+L-0340,Priya,Taylor,RapidFix HVAC Services,HVAC,NC,Inbound-SEO,33,Pro,ServiceTitan,Proposal Sent,Sam Okonkwo,68,2024-09-21,2024-09-22,Yes,Yes
+L-0341,Mohamed,Jones,Regional HVAC Group,HVAC,TX,Inbound-SEO,59,Pro,Jobber,Negotiation,Natasha Ivanova,69,2025-04-21,2025-04-22,Yes,Yes
+L-0342,Carlos,Davis,SwiftLine HVAC Services,HVAC,CA,G2-Capterra,1,Starter,ServiceTitan,Closed Won,Leila Farouk,45,2025-05-11,2025-05-13,Yes,Yes
+L-0343,Michael,Smith,Reliable HVAC Systems,HVAC,TX,Inbound-SEO,2,Starter,Paper/Manual,Demo/Evaluation,Derek Pham,84,2024-12-26,2024-12-28,Yes,Yes
+L-0344,Priya,Williams,Dynamic HVAC Partners,HVAC,NV,Outbound-SDR,4,Starter,Jobber,Negotiation,Aisha Okafor,50,2024-03-30,2024-04-03,Yes,Yes
+L-0345,Robert,Williams,Pinnacle Electrical Works,Electrical,FL,Outbound-SDR,2,Starter,Paper/Manual,Closed Won,Derek Pham,37,2024-07-26,2024-07-31,Yes,Yes
+L-0346,Linda,Thomas,Reliable HVAC Solutions,HVAC,PA,Outbound-SDR,29,Pro,Spreadsheets,Closed Lost,Diego Vargas,58,2024-11-22,2024-11-26,No,Yes
+L-0347,Maria,Thomas,OneCall HVAC Solutions,HVAC,WI,Outbound-SDR,59,Pro,Other software,Proposal Sent,Sam Okonkwo,65,2024-08-24,2024-08-25,Yes,Yes
+L-0348,Robert,Smith,Reliable Pest Control Systems,Pest Control,GA,Inbound-Referral,4,Starter,Housecall Pro,Contacted,Aisha Okafor,24,2024-05-20,,No,No
+L-0349,Robert,Smith,Heritage Pest Control Works,Pest Control,TN,G2-Capterra,4,Starter,Paper/Manual,Negotiation,Priya Kapoor,74,2025-05-16,2025-05-18,Yes,Yes
+L-0350,Robert,Martinez,Premier Electrical Technologies,Electrical,AZ,G2-Capterra,6,Growth,FieldEdge,Demo/Evaluation,Josh Reinhart,91,2024-09-08,2024-09-09,Yes,Yes
+L-0351,Linda,Taylor,TrustWorks Facilities Management Group,Facilities Management,WI,Inbound-Referral,38,Pro,Spreadsheets,Discovery,Natasha Ivanova,38,2025-03-08,2025-03-13,No,No
+L-0352,Priya,Thomas,BlueStar Pest Control Professionals,Pest Control,FL,Inbound-SEO,199,Enterprise,Jobber,Discovery,Natasha Ivanova,78,2025-02-27,2025-03-01,Yes,No
+L-0353,Maria,Martinez,Heritage Pest Control Experts,Pest Control,NV,Outbound-SDR,30,Pro,ServiceTitan,Contacted,Diego Vargas,66,2024-05-06,,Yes,No
+L-0354,Aisha,Smith,Dynamic Electrical Partners,Electrical,AZ,G2-Capterra,2,Starter,Housecall Pro,Contacted,Tom Szymanski,42,2024-06-02,,Yes,No
+L-0355,Linda,Davis,SwiftLine HVAC Services,HVAC,NV,Partner-Channel,2,Starter,FieldEdge,Proposal Sent,Derek Pham,78,2024-01-04,2024-01-05,No,Yes
+L-0356,Michael,Anderson,SwiftLine HVAC Technologies,HVAC,CA,Inbound-Referral,19,Growth,ServiceTitan,Proposal Sent,Marcus Webb,90,2024-03-22,2024-03-24,No,Yes
+L-0357,Robert,Williams,Pinnacle HVAC Partners,HVAC,NV,G2-Capterra,2,Starter,Housecall Pro,Discovery,Leila Farouk,33,2024-11-01,2024-11-02,No,No
+L-0358,Maria,Miller,SwiftLine Other Group,Other,AZ,Partner-Channel,43,Pro,FieldEdge,Closed Won,Rachel Thornton,68,2024-04-05,2024-04-08,No,Yes
+L-0359,Aisha,Taylor,RapidFix HVAC Group,HVAC,IN,Outbound-SDR,41,Pro,Housecall Pro,Negotiation,Natasha Ivanova,93,2024-08-02,2024-08-03,Yes,Yes
+L-0360,Linda,Williams,ProServ Plumbing Partners,Plumbing,PA,Outbound-SDR,36,Pro,Spreadsheets,Closed Lost,Diego Vargas,83,2024-12-28,2025-01-02,Yes,Yes
+L-0361,Jennifer,Garcia,SwiftLine HVAC Technologies,HVAC,TX,Outbound-SDR,8,Growth,Housecall Pro,Closed Won,Josh Reinhart,25,2024-07-31,2024-08-04,No,Yes
+L-0362,Robert,Thomas,Allied Pest Control Solutions,Pest Control,PA,Inbound-SEO,1,Starter,Jobber,Closed Won,Leila Farouk,63,2024-11-27,2024-11-30,Yes,Yes
+L-0363,Linda,Miller,Premier Landscaping Experts,Landscaping,AZ,Content-Webinar,20,Growth,Paper/Manual,Demo/Evaluation,Diego Vargas,62,2024-05-19,2024-05-24,Yes,Yes
+L-0364,James,Garcia,Heritage Electrical Experts,Electrical,IL,Outbound-SDR,5,Starter,Paper/Manual,New Lead,Tom Szymanski,55,2024-12-28,,Yes,No
+L-0365,Linda,Brown,Regional HVAC Professionals,HVAC,AZ,Outbound-SDR,3,Starter,ServiceTitan,Negotiation,Derek Pham,31,2024-11-18,2024-11-22,Yes,Yes
+L-0366,David,Brown,National HVAC Professionals,HVAC,WI,Content-Webinar,1,Starter,Jobber,Demo/Evaluation,Marcus Webb,84,2024-04-04,2024-04-08,Yes,Yes
+L-0367,Aisha,Martinez,Summit HVAC Services,HVAC,AZ,Outbound-SDR,53,Pro,Spreadsheets,Discovery,Natasha Ivanova,69,2024-05-15,2024-05-19,Yes,No
+L-0368,Jennifer,Brown,BlueStar HVAC Partners,HVAC,NC,Outbound-SDR,26,Pro,Paper/Manual,New Lead,Rachel Thornton,46,2024-11-15,,Yes,No
+L-0369,Carlos,Garcia,SwiftLine Pest Control Works,Pest Control,NC,Inbound-SEO,13,Growth,ServiceTitan,Contacted,Leila Farouk,46,2024-10-07,,Yes,No
+L-0370,Linda,Taylor,Premier Electrical Group,Electrical,TN,Outbound-SDR,3,Starter,Spreadsheets,Proposal Sent,Marcus Webb,23,2024-12-12,2024-12-14,Yes,Yes
+L-0371,Aisha,Taylor,SwiftLine Plumbing Group,Plumbing,MN,G2-Capterra,5,Starter,Paper/Manual,Proposal Sent,Derek Pham,45,2025-04-01,2025-04-04,No,Yes
+L-0372,Sarah,Williams,Reliable HVAC Works,HVAC,TN,Inbound-SEO,49,Pro,ServiceTitan,Negotiation,Diego Vargas,49,2024-11-13,2024-11-17,Yes,Yes
+L-0373,David,Jones,Regional Facilities Management Associates,Facilities Management,OR,Inbound-Referral,49,Pro,ServiceTitan,Demo/Evaluation,Rachel Thornton,79,2024-03-07,2024-03-11,Yes,Yes
+L-0374,Robert,Brown,ProServ Plumbing Experts,Plumbing,IL,Inbound-SEO,8,Growth,FieldEdge,Closed Won,Priya Kapoor,95,2024-03-13,2024-03-17,Yes,Yes
+L-0375,David,Taylor,Metro HVAC Associates,HVAC,IN,Inbound-Referral,5,Starter,Spreadsheets,Proposal Sent,Carla Nunez,50,2025-03-21,2025-03-26,Yes,Yes
+L-0376,Jennifer,Davis,Premier HVAC Group,HVAC,PA,Inbound-SEO,4,Starter,Other software,New Lead,Leila Farouk,68,2025-02-19,,No,No
+L-0377,Robert,Anderson,TrustWorks Facilities Management Technologies,Facilities Management,PA,Content-Webinar,60,Pro,Housecall Pro,Negotiation,Diego Vargas,57,2024-05-30,2024-06-04,Yes,Yes
+L-0378,James,Anderson,RapidFix HVAC Systems,HVAC,OH,G2-Capterra,39,Pro,Other software,Negotiation,Rachel Thornton,94,2025-03-21,2025-03-22,Yes,Yes
+L-0379,Sarah,Miller,Heritage HVAC Works,HVAC,TN,Inbound-SEO,23,Pro,FieldEdge,Contacted,Rachel Thornton,23,2025-01-02,,Yes,No
+L-0380,Michael,Taylor,Apex Plumbing Solutions,Plumbing,TX,Inbound-Referral,2,Starter,Spreadsheets,Proposal Sent,Carla Nunez,39,2024-07-11,2024-07-15,Yes,Yes
+L-0381,Aisha,Anderson,Dynamic HVAC Associates,HVAC,IL,Partner-Channel,47,Pro,FieldEdge,Contacted,Diego Vargas,78,2024-05-19,,Yes,No
+L-0382,Michael,Miller,SwiftLine Electrical Associates,Electrical,WA,Inbound-SEO,16,Growth,Spreadsheets,Proposal Sent,Priya Kapoor,84,2025-03-10,2025-03-12,Yes,Yes
+L-0383,Carlos,Johnson,RapidFix Electrical Associates,Electrical,FL,Outbound-SDR,8,Growth,ServiceTitan,Contacted,Derek Pham,79,2024-03-22,,Yes,No
+L-0384,Linda,Davis,RapidFix Electrical Professionals,Electrical,OR,Outbound-SDR,7,Growth,Housecall Pro,Proposal Sent,Carla Nunez,21,2024-11-15,2024-11-20,Yes,Yes
+L-0385,James,Taylor,OneCall Plumbing Associates,Plumbing,IL,Inbound-SEO,135,Enterprise,Paper/Manual,Negotiation,Rachel Thornton,53,2024-02-06,2024-02-11,Yes,Yes
+L-0386,Michael,Williams,Reliable Electrical Partners,Electrical,NC,Inbound-SEO,5,Starter,Spreadsheets,Contacted,Leila Farouk,55,2025-05-11,,Yes,No
+L-0387,David,Martinez,Premier Electrical Works,Electrical,FL,Outbound-SDR,29,Pro,ServiceTitan,Closed Won,Rachel Thornton,82,2025-01-13,2025-01-15,No,Yes
+L-0388,Aisha,Garcia,Premier Facilities Management Partners,Facilities Management,NY,Content-Webinar,46,Pro,Spreadsheets,Negotiation,Sam Okonkwo,93,2024-08-31,2024-09-02,No,Yes
+L-0389,David,Martinez,Dynamic Plumbing Services,Plumbing,AZ,Content-Webinar,20,Growth,Other software,Demo/Evaluation,Diego Vargas,53,2024-08-27,2024-08-31,Yes,Yes
+L-0390,Priya,Taylor,Reliable Plumbing Works,Plumbing,NC,Outbound-SDR,5,Starter,Jobber,Contacted,Carla Nunez,75,2024-02-12,,Yes,No
+L-0391,Mohamed,Thomas,Pinnacle HVAC Works,HVAC,MO,Content-Webinar,19,Growth,Spreadsheets,Closed Won,Aisha Okafor,63,2024-09-04,2024-09-09,Yes,Yes
+L-0392,James,Smith,Metro Facilities Management Services,Facilities Management,NV,Outbound-SDR,1,Starter,Housecall Pro,Demo/Evaluation,Derek Pham,44,2025-04-01,2025-04-04,No,Yes
+L-0393,Michael,Jones,TrustWorks Landscaping Group,Landscaping,MN,Inbound-SEO,8,Growth,Jobber,Demo/Evaluation,Tom Szymanski,43,2024-05-13,2024-05-14,Yes,Yes
+L-0394,Jennifer,Smith,Reliable Pest Control Partners,Pest Control,IL,Inbound-SEO,15,Growth,FieldEdge,Discovery,Marcus Webb,69,2024-03-16,2024-03-20,Yes,No
+L-0395,Priya,Taylor,Summit Plumbing Professionals,Plumbing,NC,Inbound-SEO,160,Enterprise,Spreadsheets,Contacted,Diego Vargas,47,2025-05-18,,Yes,No
+L-0396,Mohamed,Miller,Reliable HVAC Solutions,HVAC,CO,Content-Webinar,13,Growth,FieldEdge,Closed Lost,Tom Szymanski,24,2024-01-20,2024-01-21,Yes,Yes
+L-0397,James,Miller,OneCall Plumbing Group,Plumbing,OR,Inbound-Referral,185,Enterprise,Paper/Manual,Closed Won,Natasha Ivanova,48,2025-02-17,2025-02-22,Yes,Yes
+L-0398,Michael,Taylor,BlueStar HVAC Solutions,HVAC,MO,Outbound-SDR,1,Starter,Spreadsheets,Demo/Evaluation,Carla Nunez,78,2024-04-02,2024-04-03,Yes,Yes
+L-0399,James,Brown,Allied Pest Control Associates,Pest Control,GA,G2-Capterra,4,Starter,FieldEdge,Demo/Evaluation,Priya Kapoor,37,2025-01-02,2025-01-04,Yes,Yes
+L-0400,James,Garcia,Premier HVAC Systems,HVAC,NY,Inbound-Referral,14,Growth,ServiceTitan,Closed Lost,Marcus Webb,63,2025-04-05,2025-04-06,Yes,Yes
+L-0401,Mohamed,Smith,OneCall Landscaping Associates,Landscaping,CA,Inbound-SEO,54,Pro,ServiceTitan,Closed Lost,Natasha Ivanova,82,2024-08-26,2024-08-28,No,Yes
+L-0402,Maria,Johnson,OneCall HVAC Associates,HVAC,NV,Content-Webinar,14,Growth,ServiceTitan,Demo/Evaluation,Tom Szymanski,28,2024-04-09,2024-04-14,Yes,Yes
+L-0403,David,Garcia,Metro Facilities Management Group,Facilities Management,NC,Inbound-SEO,17,Growth,ServiceTitan,Discovery,Aisha Okafor,95,2024-05-20,2024-05-21,Yes,No
+L-0404,James,Davis,Metro HVAC Services,HVAC,TX,Inbound-Referral,2,Starter,ServiceTitan,Contacted,Josh Reinhart,40,2024-02-11,,Yes,No
+L-0405,Carlos,Davis,Dynamic Pest Control Technologies,Pest Control,IL,Inbound-Referral,14,Growth,Paper/Manual,Negotiation,Aisha Okafor,54,2025-05-02,2025-05-04,Yes,Yes
+L-0406,Sarah,Johnson,RapidFix Electrical Group,Electrical,NV,Outbound-SDR,7,Growth,Jobber,Discovery,Marcus Webb,50,2024-11-04,2024-11-09,No,No
+L-0407,Linda,Williams,Pinnacle Plumbing Services,Plumbing,CA,Inbound-SEO,11,Growth,Housecall Pro,Contacted,Tom Szymanski,80,2024-07-17,,Yes,No
+L-0408,David,Williams,Allied HVAC Professionals,HVAC,WI,Outbound-SDR,15,Growth,Spreadsheets,New Lead,Marcus Webb,88,2025-04-09,,Yes,No
+L-0409,Maria,Brown,Dynamic Landscaping Technologies,Landscaping,TN,Inbound-Referral,15,Growth,ServiceTitan,Discovery,Leila Farouk,49,2024-11-29,2024-12-02,Yes,No
+L-0410,Linda,Thomas,BlueStar Plumbing Works,Plumbing,NC,Inbound-SEO,18,Growth,ServiceTitan,Contacted,Carla Nunez,37,2025-04-10,,Yes,No
+L-0411,Jennifer,Brown,Elite HVAC Associates,HVAC,IL,Inbound-SEO,6,Growth,Other software,Closed Won,Priya Kapoor,41,2024-04-23,2024-04-27,No,Yes
+L-0412,Linda,Jones,Allied Electrical Systems,Electrical,GA,Inbound-SEO,12,Growth,ServiceTitan,Closed Won,Aisha Okafor,80,2025-05-15,2025-05-20,Yes,Yes
+L-0413,Aisha,Martinez,Premier Plumbing Systems,Plumbing,WI,Partner-Channel,5,Starter,FieldEdge,Demo/Evaluation,Marcus Webb,80,2024-01-06,2024-01-07,Yes,Yes
+L-0414,Sarah,Williams,Regional Facilities Management Partners,Facilities Management,GA,Inbound-Referral,8,Growth,Housecall Pro,Contacted,Marcus Webb,72,2024-09-03,,Yes,No
+L-0415,David,Garcia,TrustWorks HVAC Services,HVAC,FL,Outbound-SDR,10,Growth,FieldEdge,Closed Lost,Priya Kapoor,71,2024-01-25,2024-01-27,Yes,Yes
+L-0416,Aisha,Smith,RapidFix Electrical Works,Electrical,CA,Outbound-SDR,3,Starter,Spreadsheets,Closed Won,Leila Farouk,62,2024-07-31,2024-08-05,Yes,Yes
+L-0417,Sarah,Martinez,Summit Plumbing Professionals,Plumbing,OR,Inbound-Referral,16,Growth,Other software,Proposal Sent,Aisha Okafor,62,2024-03-09,2024-03-11,No,Yes
+L-0418,Maria,Garcia,Regional Pest Control Professionals,Pest Control,IN,Inbound-Referral,40,Pro,Paper/Manual,Demo/Evaluation,Diego Vargas,26,2024-09-30,2024-10-03,Yes,Yes
+L-0419,Maria,Johnson,Heritage Plumbing Solutions,Plumbing,AZ,Inbound-Referral,14,Growth,Spreadsheets,Closed Won,Leila Farouk,78,2025-01-11,2025-01-13,Yes,Yes
+L-0420,Mohamed,Martinez,Apex HVAC Professionals,HVAC,WA,Inbound-Referral,2,Starter,FieldEdge,Demo/Evaluation,Marcus Webb,73,2024-07-28,2024-07-31,Yes,Yes
+L-0421,Jennifer,Taylor,National Pest Control Professionals,Pest Control,OR,Inbound-SEO,2,Starter,Housecall Pro,Closed Won,Carla Nunez,94,2024-08-25,2024-08-29,Yes,Yes
+L-0422,David,Garcia,Elite Plumbing Professionals,Plumbing,IL,Inbound-SEO,14,Growth,Paper/Manual,Discovery,Carla Nunez,26,2024-09-23,2024-09-26,No,No
+L-0423,Jennifer,Anderson,Apex Pest Control Professionals,Pest Control,NC,Content-Webinar,2,Starter,Jobber,Contacted,Leila Farouk,25,2024-06-06,,No,No
+L-0424,Maria,Smith,Heritage HVAC Professionals,HVAC,OH,Partner-Channel,15,Growth,FieldEdge,Demo/Evaluation,Tom Szymanski,58,2024-05-31,2024-06-05,Yes,Yes
+L-0425,Priya,Taylor,Apex HVAC Associates,HVAC,MN,Partner-Channel,199,Enterprise,Jobber,Proposal Sent,Rachel Thornton,57,2024-12-05,2024-12-09,Yes,Yes
+L-0426,Linda,Garcia,Metro Pest Control Works,Pest Control,CA,Outbound-SDR,28,Pro,Paper/Manual,Discovery,Diego Vargas,48,2024-04-29,2024-05-04,No,No
+L-0427,Robert,Brown,OneCall Electrical Works,Electrical,NV,Inbound-SEO,3,Starter,Paper/Manual,Proposal Sent,Priya Kapoor,85,2024-03-26,2024-03-27,Yes,Yes
+L-0428,Jennifer,Garcia,Elite Landscaping Professionals,Landscaping,MO,Outbound-SDR,2,Starter,Spreadsheets,Demo/Evaluation,Carla Nunez,56,2025-03-13,2025-03-14,No,Yes
+L-0429,David,Anderson,Metro Pest Control Solutions,Pest Control,PA,Content-Webinar,18,Growth,Jobber,Contacted,Josh Reinhart,73,2024-10-22,,Yes,No
+L-0430,Robert,Williams,SwiftLine Other Professionals,Other,OR,Inbound-SEO,15,Growth,Other software,Contacted,Josh Reinhart,54,2025-01-19,,No,No
+L-0431,Linda,Martinez,TrustWorks HVAC Technologies,HVAC,TX,Outbound-SDR,38,Pro,Other software,Closed Won,Rachel Thornton,58,2024-02-13,2024-02-18,Yes,Yes
+L-0432,Maria,Jones,OneCall HVAC Group,HVAC,NV,Inbound-SEO,4,Starter,Housecall Pro,Demo/Evaluation,Priya Kapoor,23,2024-10-21,2024-10-23,Yes,Yes
+L-0433,Aisha,Anderson,Allied Electrical Partners,Electrical,IL,Outbound-SDR,13,Growth,Paper/Manual,Closed Lost,Leila Farouk,85,2025-05-02,2025-05-05,Yes,Yes
+L-0434,Michael,Jones,RapidFix HVAC Group,HVAC,WI,Inbound-Referral,9,Growth,ServiceTitan,Discovery,Josh Reinhart,26,2024-02-24,2024-02-27,No,No
+L-0435,Maria,Martinez,Regional Pest Control Solutions,Pest Control,TX,Outbound-SDR,10,Growth,ServiceTitan,Closed Won,Derek Pham,66,2024-11-19,2024-11-22,Yes,Yes
+L-0436,Sarah,Brown,SwiftLine Plumbing Associates,Plumbing,WI,Partner-Channel,15,Growth,Other software,Contacted,Tom Szymanski,84,2024-06-15,,Yes,No
+L-0437,Linda,Anderson,RapidFix Plumbing Works,Plumbing,IL,Content-Webinar,27,Pro,Housecall Pro,Demo/Evaluation,Rachel Thornton,37,2024-01-18,2024-01-21,Yes,Yes
+L-0438,David,Johnson,Dynamic HVAC Group,HVAC,FL,Inbound-SEO,34,Pro,Spreadsheets,Negotiation,Rachel Thornton,46,2024-05-25,2024-05-27,Yes,Yes
+L-0439,Michael,Taylor,Allied Pest Control Group,Pest Control,NY,Inbound-SEO,1,Starter,Paper/Manual,Demo/Evaluation,Derek Pham,28,2024-03-01,2024-03-02,No,Yes
+L-0440,Jennifer,Williams,RapidFix Electrical Associates,Electrical,GA,Inbound-SEO,3,Starter,Paper/Manual,Closed Won,Derek Pham,64,2024-05-29,2024-06-03,Yes,Yes
+L-0441,Aisha,Johnson,BlueStar HVAC Experts,HVAC,IN,Outbound-SDR,5,Growth,Jobber,Closed Lost,Tom Szymanski,20,2024-07-15,2024-07-20,No,Yes
+L-0442,Jennifer,Johnson,TrustWorks Plumbing Group,Plumbing,WI,Content-Webinar,106,Enterprise,ServiceTitan,Demo/Evaluation,Sam Okonkwo,34,2025-01-23,2025-01-27,Yes,Yes
+L-0443,Priya,Thomas,Elite Pest Control Professionals,Pest Control,GA,Inbound-SEO,6,Growth,Paper/Manual,Contacted,Derek Pham,78,2025-05-20,,Yes,No
+L-0444,Mohamed,Davis,Summit HVAC Systems,HVAC,MN,G2-Capterra,32,Pro,Paper/Manual,Closed Lost,Rachel Thornton,21,2025-05-02,2025-05-04,Yes,Yes
+L-0445,Sarah,Anderson,Heritage HVAC Group,HVAC,GA,Partner-Channel,5,Starter,Other software,New Lead,Aisha Okafor,63,2024-06-21,,Yes,No
+L-0446,Michael,Williams,TrustWorks Pest Control Group,Pest Control,NY,Outbound-SDR,5,Starter,Jobber,Demo/Evaluation,Josh Reinhart,85,2025-02-13,2025-02-17,Yes,Yes
+L-0447,Robert,Anderson,National Plumbing Solutions,Plumbing,AZ,Inbound-SEO,9,Growth,Paper/Manual,Closed Won,Priya Kapoor,42,2024-02-24,2024-02-25,Yes,Yes
+L-0448,Michael,Martinez,National Pest Control Experts,Pest Control,MO,Content-Webinar,20,Growth,Spreadsheets,Discovery,Diego Vargas,84,2024-07-25,2024-07-29,Yes,No
+L-0449,James,Williams,SwiftLine Other Partners,Other,IL,Inbound-Referral,27,Pro,FieldEdge,Closed Won,Diego Vargas,24,2024-11-18,2024-11-22,Yes,Yes
+L-0450,David,Martinez,Premier HVAC Systems,HVAC,NC,Content-Webinar,20,Growth,FieldEdge,Negotiation,Diego Vargas,91,2025-05-17,2025-05-21,Yes,Yes
+L-0451,Aisha,Anderson,Allied Electrical Works,Electrical,TN,Inbound-SEO,3,Starter,Spreadsheets,Proposal Sent,Tom Szymanski,64,2024-01-29,2024-02-01,Yes,Yes
+L-0452,Aisha,Johnson,Elite Plumbing Group,Plumbing,CO,Inbound-SEO,3,Starter,ServiceTitan,Discovery,Derek Pham,30,2024-09-07,2024-09-12,Yes,No
+L-0453,Jennifer,Miller,Heritage Electrical Works,Electrical,OR,Outbound-SDR,4,Starter,Spreadsheets,Discovery,Priya Kapoor,22,2025-03-07,2025-03-12,Yes,No
+L-0454,Robert,Brown,OneCall HVAC Group,HVAC,MO,Inbound-Referral,15,Growth,ServiceTitan,Contacted,Derek Pham,66,2024-12-13,,Yes,No
+L-0455,Priya,Garcia,Reliable HVAC Group,HVAC,OR,Inbound-Referral,5,Starter,Other software,Proposal Sent,Leila Farouk,32,2024-08-19,2024-08-24,Yes,Yes
+L-0456,Jennifer,Brown,Dynamic Plumbing Systems,Plumbing,NC,Outbound-SDR,1,Starter,Paper/Manual,Demo/Evaluation,Derek Pham,89,2024-11-05,2024-11-09,Yes,Yes
+L-0457,Mohamed,Martinez,Dynamic Pest Control Associates,Pest Control,CA,Outbound-SDR,5,Growth,Paper/Manual,Proposal Sent,Aisha Okafor,54,2024-07-10,2024-07-14,No,Yes
+L-0458,Mohamed,Brown,Dynamic Plumbing Partners,Plumbing,AZ,Content-Webinar,2,Starter,Housecall Pro,Closed Won,Josh Reinhart,28,2024-11-03,2024-11-06,No,Yes
+L-0459,Linda,Davis,SwiftLine HVAC Systems,HVAC,VA,Inbound-SEO,17,Growth,Housecall Pro,Contacted,Aisha Okafor,59,2024-06-02,,Yes,No
+L-0460,James,Smith,Metro HVAC Works,HVAC,NV,Inbound-SEO,1,Starter,Jobber,Negotiation,Tom Szymanski,82,2024-10-11,2024-10-12,Yes,Yes
+L-0461,Priya,Thomas,RapidFix Landscaping Group,Landscaping,WI,Outbound-SDR,3,Starter,Housecall Pro,Demo/Evaluation,Tom Szymanski,34,2024-04-02,2024-04-04,Yes,Yes
+L-0462,Sarah,Williams,Summit Plumbing Solutions,Plumbing,PA,Inbound-SEO,5,Starter,Jobber,Discovery,Josh Reinhart,74,2024-11-16,2024-11-18,Yes,No
+L-0463,Robert,Davis,ProServ Plumbing Partners,Plumbing,OH,Inbound-Referral,23,Pro,Jobber,Negotiation,Natasha Ivanova,89,2025-01-18,2025-01-21,Yes,Yes
+L-0464,Carlos,Miller,Elite Pest Control Works,Pest Control,NY,Outbound-SDR,21,Pro,Paper/Manual,Closed Won,Natasha Ivanova,52,2024-02-05,2024-02-07,No,Yes
+L-0465,David,Davis,National Facilities Management Systems,Facilities Management,CA,Partner-Channel,4,Starter,Jobber,Discovery,Aisha Okafor,46,2024-09-18,2024-09-21,Yes,No
+L-0466,Carlos,Johnson,Regional Facilities Management Systems,Facilities Management,NV,Outbound-SDR,180,Enterprise,Housecall Pro,Negotiation,Natasha Ivanova,53,2024-12-06,2024-12-08,Yes,Yes
+L-0467,Sarah,Taylor,Elite Plumbing Works,Plumbing,OR,Outbound-SDR,1,Starter,Spreadsheets,Proposal Sent,Tom Szymanski,71,2024-07-07,2024-07-08,Yes,Yes
+L-0468,Aisha,Williams,Reliable HVAC Solutions,HVAC,OR,G2-Capterra,9,Growth,Other software,Closed Won,Carla Nunez,81,2025-02-24,2025-02-28,Yes,Yes
+L-0469,Carlos,Taylor,ProServ Facilities Management Group,Facilities Management,MN,Inbound-Referral,4,Starter,ServiceTitan,Closed Lost,Aisha Okafor,22,2025-02-06,2025-02-07,Yes,Yes
+L-0470,Priya,Johnson,Allied Pest Control Experts,Pest Control,VA,Outbound-SDR,4,Starter,Other software,Contacted,Carla Nunez,41,2024-09-23,,Yes,No
+L-0471,Robert,Williams,Dynamic Facilities Management Technologies,Facilities Management,NV,Outbound-SDR,12,Growth,ServiceTitan,Closed Lost,Derek Pham,83,2024-07-14,2024-07-17,Yes,Yes
+L-0472,Priya,Davis,ProServ Pest Control Works,Pest Control,OR,Inbound-Referral,2,Starter,Housecall Pro,New Lead,Derek Pham,50,2024-05-29,,Yes,No
+L-0473,Maria,Johnson,SwiftLine HVAC Services,HVAC,CA,Partner-Channel,15,Growth,Jobber,Negotiation,Josh Reinhart,52,2025-02-11,2025-02-15,No,Yes
+L-0474,Robert,Taylor,Regional Plumbing Solutions,Plumbing,MO,Partner-Channel,5,Starter,Spreadsheets,New Lead,Josh Reinhart,58,2024-02-16,,No,No
+L-0475,Michael,Johnson,National HVAC Services,HVAC,OH,G2-Capterra,15,Growth,FieldEdge,Contacted,Josh Reinhart,38,2024-05-15,,Yes,No
+L-0476,Robert,Williams,National Pest Control Professionals,Pest Control,OH,G2-Capterra,132,Enterprise,Paper/Manual,Proposal Sent,Rachel Thornton,60,2024-09-26,2024-10-01,Yes,Yes
+L-0477,Linda,Smith,TrustWorks HVAC Works,HVAC,MO,Inbound-SEO,2,Starter,FieldEdge,Discovery,Priya Kapoor,34,2025-04-26,2025-04-30,Yes,No
+L-0478,Aisha,Martinez,Reliable Plumbing Associates,Plumbing,OR,Inbound-SEO,29,Pro,ServiceTitan,Discovery,Rachel Thornton,41,2024-04-05,2024-04-07,Yes,No
+L-0479,Michael,Taylor,Summit Electrical Systems,Electrical,WA,Partner-Channel,18,Growth,Paper/Manual,Closed Won,Leila Farouk,23,2024-09-09,2024-09-12,Yes,Yes
+L-0480,Jennifer,Smith,TrustWorks Facilities Management Works,Facilities Management,OR,Inbound-Referral,1,Starter,ServiceTitan,Demo/Evaluation,Derek Pham,20,2025-05-06,2025-05-11,No,Yes
+L-0481,Michael,Williams,ProServ Facilities Management Systems,Facilities Management,FL,Inbound-SEO,38,Pro,Spreadsheets,Closed Won,Diego Vargas,71,2024-02-26,2024-02-27,No,Yes
+L-0482,Aisha,Jones,Apex HVAC Works,HVAC,NY,Outbound-SDR,38,Pro,Other software,Contacted,Diego Vargas,75,2024-06-06,,Yes,No
+L-0483,Priya,Williams,Dynamic Plumbing Systems,Plumbing,FL,Inbound-Referral,17,Growth,Spreadsheets,Contacted,Josh Reinhart,67,2025-03-09,,Yes,No
+L-0484,Michael,Williams,Apex Other Partners,Other,GA,Partner-Channel,9,Growth,Paper/Manual,Discovery,Josh Reinhart,81,2024-03-26,2024-03-27,Yes,No
+L-0485,Mohamed,Thomas,Reliable HVAC Works,HVAC,NC,G2-Capterra,1,Starter,Paper/Manual,Demo/Evaluation,Josh Reinhart,79,2024-04-20,2024-04-21,Yes,Yes
+L-0486,Aisha,Jones,National Pest Control Associates,Pest Control,MN,Inbound-SEO,4,Starter,Other software,Closed Won,Marcus Webb,73,2024-07-05,2024-07-06,Yes,Yes
+L-0487,Carlos,Smith,Allied Electrical Systems,Electrical,NY,Inbound-SEO,2,Starter,Spreadsheets,Closed Won,Derek Pham,75,2024-03-21,2024-03-22,No,Yes
+L-0488,Maria,Williams,Apex Electrical Services,Electrical,PA,G2-Capterra,17,Growth,Spreadsheets,Discovery,Carla Nunez,58,2025-05-13,2025-05-17,Yes,No
+L-0489,Maria,Jones,TrustWorks Pest Control Solutions,Pest Control,IN,Inbound-SEO,1,Starter,FieldEdge,Proposal Sent,Josh Reinhart,44,2024-05-28,2024-06-02,Yes,Yes
+L-0490,Sarah,Brown,Elite HVAC Associates,HVAC,TN,Partner-Channel,48,Pro,Spreadsheets,New Lead,Diego Vargas,94,2025-04-27,,Yes,No
+L-0491,Robert,Davis,RapidFix HVAC Associates,HVAC,NV,Partner-Channel,18,Growth,Housecall Pro,Closed Won,Derek Pham,82,2025-05-22,2025-05-23,Yes,Yes
+L-0492,Maria,Davis,Regional HVAC Professionals,HVAC,VA,Inbound-Referral,1,Starter,Spreadsheets,Proposal Sent,Derek Pham,80,2024-11-19,2024-11-23,No,Yes
+L-0493,David,Jones,Heritage HVAC Systems,HVAC,WA,Inbound-Referral,3,Starter,Other software,Proposal Sent,Carla Nunez,79,2024-08-12,2024-08-17,Yes,Yes
+L-0494,David,Anderson,OneCall Facilities Management Group,Facilities Management,VA,Inbound-SEO,59,Pro,FieldEdge,Negotiation,Sam Okonkwo,45,2024-03-29,2024-03-31,Yes,Yes
+L-0495,James,Johnson,National HVAC Systems,HVAC,NY,Inbound-Referral,5,Growth,Paper/Manual,Demo/Evaluation,Tom Szymanski,84,2024-09-24,2024-09-26,No,Yes
+L-0496,Priya,Taylor,Summit HVAC Services,HVAC,MN,Partner-Channel,3,Starter,Other software,Closed Won,Derek Pham,85,2024-12-29,2024-12-31,Yes,Yes
+L-0497,David,Taylor,Summit Other Technologies,Other,WA,Content-Webinar,26,Pro,ServiceTitan,Closed Won,Natasha Ivanova,33,2024-04-14,2024-04-19,Yes,Yes
+L-0498,David,Johnson,BlueStar Pest Control Professionals,Pest Control,VA,Outbound-SDR,51,Pro,Other software,Contacted,Rachel Thornton,62,2024-04-11,,Yes,No
+L-0499,Jennifer,Taylor,ProServ HVAC Solutions,HVAC,WI,Inbound-SEO,41,Pro,FieldEdge,Contacted,Rachel Thornton,73,2024-06-24,,No,No
+L-0500,Aisha,Martinez,Metro HVAC Group,HVAC,CO,G2-Capterra,18,Growth,Jobber,Closed Lost,Priya Kapoor,21,2025-01-05,2025-01-07,Yes,Yes

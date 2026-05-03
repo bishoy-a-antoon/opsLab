@@ -1,0 +1,311 @@
+renewal_id,account_id,company,plan,csm_owner,renewal_date,original_acv,new_acv,acv_change,outcome,upsell_product_added,upsell_arr_added,renewal_cycle_days,multi_year,discount_offered,health_score_at_renewal,qbr_held_before_renewal,days_to_renewal_when_engaged
+RNW-0001,ACC-0339,Metro Facilities Management Services,Starter,Ravi Mehta,2024-05-26,4364.16,5269.43,905.27,Renewed with Upsell,Extra Seats,905.27,21,Yes,None,61.9,No,77
+RNW-0002,ACC-0060,Metro Plumbing Professionals,Pro,Omar Castillo,2025-04-17,23361.72,16353.2,-7008.52,Downgraded,None,0,38,No,None,77.0,Yes,43
+RNW-0003,ACC-0544,Dynamic HVAC Solutions,Starter,Emma Solis,2025-07-05,3905.88,3905.88,0.0,Renewed,None,0,44,No,10%,56.1,No,52
+RNW-0004,ACC-0124,Heritage Facilities Management Technologies,Enterprise,Jordan Blake,2024-10-14,48117.84,48117.84,0.0,Renewed,None,0,66,No,None,73.2,Yes,85
+RNW-0005,ACC-0275,ProServ Plumbing Services,Growth,Felix Brennan,2024-07-17,7438.56,7438.56,0.0,Renewed,None,0,18,Yes,5%,63.1,No,62
+RNW-0006,ACC-0448,Apex Facilities Management Systems,Starter,Tanya Oluoch,2025-08-29,4187.52,4187.52,0.0,Renewed,None,0,25,No,5%,83.2,No,44
+RNW-0007,ACC-0311,SwiftLine Electrical Experts,Starter,Felix Brennan,2024-01-20,4566.0,4566.0,0.0,Renewed,None,0,14,No,None,74.4,No,65
+RNW-0008,ACC-0460,BlueStar HVAC Services,Starter,Lena Fischer,2024-05-07,3762.48,3762.48,0.0,Renewed,None,0,33,No,5%,72.5,No,62
+RNW-0009,ACC-0044,BlueStar Electrical Partners,Starter,Emma Solis,2024-04-16,3329.52,3329.52,0.0,Renewed,None,0,39,No,5%,80.1,No,30
+RNW-0010,ACC-0159,BlueStar HVAC Professionals,Growth,Emma Solis,2024-02-18,7152.6,7152.6,0.0,Renewed,None,0,70,No,None,85.4,No,62
+RNW-0011,ACC-0207,RapidFix HVAC Solutions,Pro,Omar Castillo,2024-02-08,15628.32,15628.32,0.0,Renewed,None,0,62,No,None,58.1,Yes,90
+RNW-0012,ACC-0436,TrustWorks HVAC Professionals,Starter,Lena Fischer,2024-07-08,4085.4,4085.4,0.0,Renewed,None,0,49,No,5%,72.8,No,34
+RNW-0013,ACC-0007,Summit HVAC Systems,Starter,Ravi Mehta,2024-09-25,3880.68,3880.68,0.0,Renewed,None,0,58,No,None,80.2,No,89
+RNW-0014,ACC-0458,Allied HVAC Experts,Growth,Lena Fischer,2025-07-12,8403.84,0,-8403.84,Churned,None,0,43,No,5%,64.7,No,83
+RNW-0015,ACC-0309,SwiftLine Electrical Associates,Starter,Lena Fischer,2024-09-25,4863.96,4863.96,0.0,Renewed,None,0,50,No,10%,88.6,No,35
+RNW-0016,ACC-0120,National Plumbing Group,Starter,Tanya Oluoch,2024-07-13,4931.52,4931.52,0.0,Renewed,None,0,42,No,None,80.0,No,67
+RNW-0017,ACC-0512,Pinnacle HVAC Professionals,Growth,Jordan Blake,2025-06-16,11480.16,11480.16,0.0,Renewed,None,0,61,Yes,None,58.5,No,51
+RNW-0018,ACC-0062,BlueStar HVAC Experts,Starter,Tanya Oluoch,2024-08-22,3471.6,3471.6,0.0,Renewed,None,0,14,No,None,61.0,No,66
+RNW-0019,ACC-0446,Heritage Plumbing Group,Growth,Jordan Blake,2024-03-23,10070.52,10070.52,0.0,Renewed,None,0,39,No,5%,51.8,No,56
+RNW-0020,ACC-0015,Summit HVAC Systems,Growth,Felix Brennan,2024-07-08,8014.2,8014.2,0.0,Renewed,None,0,60,No,None,75.8,No,65
+RNW-0021,ACC-0176,OneCall Electrical Group,Growth,Omar Castillo,2025-02-20,9942.6,9942.6,0.0,Renewed,None,0,49,Yes,None,60.9,No,86
+RNW-0022,ACC-0182,Elite Pest Control Systems,Starter,Lena Fischer,2025-05-01,4300.68,4300.68,0.0,Renewed,None,0,55,No,10%,74.3,No,40
+RNW-0023,ACC-0379,Pinnacle Pest Control Associates,Growth,Jordan Blake,2025-07-25,7268.04,7268.04,0.0,Renewed,None,0,20,Yes,None,45.9,No,52
+RNW-0024,ACC-0178,Premier Other Systems,Pro,Sadia Islam,2024-07-08,21635.28,25790.5,4155.22,Renewed with Upsell,Portal Pro,4155.22,58,No,None,64.3,Yes,35
+RNW-0025,ACC-0351,RapidFix Facilities Management Experts,Enterprise,Ravi Mehta,2025-05-13,69273.36,69273.36,0.0,Renewed,None,0,18,No,None,72.2,No,45
+RNW-0026,ACC-0338,Metro HVAC Solutions,Starter,Emma Solis,2024-11-14,4733.52,4733.52,0.0,Renewed,None,0,18,No,8%,48.0,No,59
+RNW-0027,ACC-0212,Summit Electrical Works,Pro,Felix Brennan,2024-06-07,24430.2,24430.2,0.0,Renewed,None,0,46,No,None,86.4,No,30
+RNW-0028,ACC-0084,ProServ Plumbing Associates,Starter,Jordan Blake,2025-02-27,3960.12,3960.12,0.0,Renewed,None,0,72,No,8%,64.4,No,62
+RNW-0029,ACC-0197,OneCall HVAC Services,Starter,Ravi Mehta,2024-12-12,3553.68,3553.68,0.0,Renewed,None,0,58,Yes,None,66.2,No,67
+RNW-0030,ACC-0265,RapidFix Pest Control Services,Pro,Felix Brennan,2025-05-07,21279.84,21279.84,0.0,Renewed,None,0,48,Yes,None,78.4,No,62
+RNW-0031,ACC-0099,Metro Electrical Experts,Pro,Sadia Islam,2025-03-30,22245.72,22245.72,0.0,Renewed,None,0,53,No,8%,61.6,No,64
+RNW-0032,ACC-0469,Premier Plumbing Systems,Growth,Ravi Mehta,2025-10-11,9148.92,9148.92,0.0,Renewed,None,0,50,No,None,47.4,No,79
+RNW-0033,ACC-0439,Reliable HVAC Professionals,Growth,Sadia Islam,2024-06-07,11281.2,11281.2,0.0,Renewed,None,0,75,No,5%,74.2,No,71
+RNW-0034,ACC-0195,Dynamic HVAC Solutions,Growth,Lena Fischer,2024-04-08,9151.08,0,-9151.08,Churned,None,0,31,No,8%,53.8,No,52
+RNW-0035,ACC-0196,Regional HVAC Professionals,Growth,Jordan Blake,2024-11-20,9697.92,9697.92,0.0,Renewed,None,0,29,No,8%,53.6,No,63
+RNW-0036,ACC-0569,Allied Landscaping Professionals,Growth,Ravi Mehta,2024-09-05,7498.44,7498.44,0.0,Renewed,None,0,74,No,None,81.8,No,58
+RNW-0037,ACC-0030,Premier HVAC Group,Starter,Ravi Mehta,2024-11-03,3281.16,3281.16,0.0,Renewed,None,0,66,No,None,74.6,No,85
+RNW-0038,ACC-0600,Pinnacle Pest Control Group,Starter,Jordan Blake,2024-12-14,4341.84,4341.84,0.0,Renewed,None,0,41,No,None,74.8,No,33
+RNW-0039,ACC-0362,Reliable HVAC Group,Enterprise,Jordan Blake,2025-07-19,49239.36,56433.06,7193.7,Renewed with Upsell,Analytics Add-On,7193.7,18,No,5%,62.0,Yes,32
+RNW-0040,ACC-0314,Regional Electrical Services,Enterprise,Omar Castillo,2024-10-10,59340.96,41538.67,-17802.29,Downgraded,None,0,59,Yes,None,63.0,No,86
+RNW-0041,ACC-0072,Reliable HVAC Experts,Starter,Omar Castillo,2024-09-18,3146.76,2202.73,-944.03,Downgraded,None,0,32,No,None,65.2,No,86
+RNW-0042,ACC-0624,ProServ HVAC Associates,Growth,Felix Brennan,2025-07-29,8547.48,9285.26,737.78,Renewed with Upsell,Parts Inventory,737.78,62,No,None,84.8,No,48
+RNW-0043,ACC-0386,RapidFix Electrical Systems,Growth,Tanya Oluoch,2024-11-10,9010.44,9010.44,0.0,Renewed,None,0,46,No,5%,70.2,No,41
+RNW-0044,ACC-0277,Heritage HVAC Experts,Starter,Omar Castillo,2025-04-04,3099.72,3099.72,0.0,Renewed,None,0,48,No,10%,59.5,No,34
+RNW-0045,ACC-0034,Elite Facilities Management Solutions,Starter,Emma Solis,2024-08-14,3434.04,3434.04,0.0,Renewed,None,0,65,No,5%,78.4,No,59
+RNW-0046,ACC-0103,SwiftLine Landscaping Partners,Starter,Tanya Oluoch,2024-01-26,4026.48,0,-4026.48,Churned,None,0,59,No,None,74.6,No,69
+RNW-0047,ACC-0405,Apex Electrical Systems,Pro,Omar Castillo,2025-10-17,18666.84,22338.97,3672.13,Renewed with Upsell,Analytics Add-On,3672.13,59,No,5%,79.0,No,66
+RNW-0048,ACC-0258,Regional Other Works,Growth,Ravi Mehta,2025-01-03,11424.6,12434.2,1009.6,Renewed with Upsell,Extra Seats,1009.6,32,Yes,10%,69.4,No,56
+RNW-0049,ACC-0468,Reliable Landscaping Partners,Pro,Felix Brennan,2024-09-14,24945.84,24945.84,0.0,Renewed,None,0,55,No,5%,56.6,Yes,89
+RNW-0050,ACC-0039,Pinnacle Plumbing Professionals,Growth,Felix Brennan,2025-11-22,11439.0,11439.0,0.0,Renewed,None,0,29,No,10%,80.4,No,83
+RNW-0051,ACC-0367,ProServ Plumbing Experts,Pro,Emma Solis,2024-03-28,22674.24,26093.57,3419.33,Renewed with Upsell,None,3419.33,31,No,None,67.0,Yes,60
+RNW-0052,ACC-0572,TrustWorks Plumbing Partners,Enterprise,Lena Fischer,2025-05-22,51410.64,51410.64,0.0,Renewed,None,0,70,No,8%,80.8,Yes,74
+RNW-0053,ACC-0280,Heritage Landscaping Experts,Growth,Sadia Islam,2024-12-13,7553.64,7553.64,0.0,Renewed,None,0,46,No,5%,56.9,No,34
+RNW-0054,ACC-0577,SwiftLine Plumbing Solutions,Starter,Felix Brennan,2025-11-28,4184.4,4184.4,0.0,Renewed,None,0,73,No,5%,65.5,No,48
+RNW-0055,ACC-0173,Summit Electrical Group,Growth,Lena Fischer,2025-08-02,11724.0,11724.0,0.0,Renewed,None,0,71,No,None,74.6,No,78
+RNW-0056,ACC-0576,Elite HVAC Associates,Starter,Tanya Oluoch,2025-01-21,4775.88,4775.88,0.0,Renewed,None,0,16,No,None,68.2,No,47
+RNW-0057,ACC-0121,BlueStar HVAC Experts,Growth,Emma Solis,2024-01-05,8460.72,8460.72,0.0,Renewed,None,0,25,No,5%,73.5,No,61
+RNW-0058,ACC-0465,BlueStar Electrical Professionals,Starter,Felix Brennan,2024-06-08,4655.52,4655.52,0.0,Renewed,None,0,21,No,8%,63.1,No,41
+RNW-0059,ACC-0612,Allied Plumbing Solutions,Enterprise,Felix Brennan,2025-08-24,60670.92,60670.92,0.0,Renewed,None,0,49,Yes,5%,76.6,Yes,76
+RNW-0060,ACC-0214,RapidFix Pest Control Solutions,Starter,Jordan Blake,2024-08-27,4235.64,4235.64,0.0,Renewed,None,0,42,No,None,77.2,No,78
+RNW-0061,ACC-0221,Summit Facilities Management Associates,Starter,Omar Castillo,2024-10-25,4156.2,4156.2,0.0,Renewed,None,0,14,No,8%,95.0,No,82
+RNW-0062,ACC-0423,Premier Facilities Management Experts,Growth,Ravi Mehta,2024-02-01,9463.32,9463.32,0.0,Renewed,None,0,33,No,5%,83.6,No,46
+RNW-0063,ACC-0110,Premier HVAC Technologies,Growth,Tanya Oluoch,2024-06-09,8327.16,8327.16,0.0,Renewed,None,0,41,Yes,8%,63.4,No,76
+RNW-0064,ACC-0028,OneCall Electrical Experts,Growth,Omar Castillo,2024-11-22,10830.36,10830.36,0.0,Renewed,None,0,68,Yes,None,84.6,No,63
+RNW-0065,ACC-0566,Metro Other Associates,Starter,Sadia Islam,2024-04-14,3191.88,3191.88,0.0,Renewed,None,0,53,No,None,70.8,No,85
+RNW-0066,ACC-0172,Elite Pest Control Works,Starter,Sadia Islam,2025-05-29,4959.48,4959.48,0.0,Renewed,None,0,27,No,10%,58.0,No,35
+RNW-0067,ACC-0441,BlueStar HVAC Systems,Growth,Ravi Mehta,2025-09-29,11400.84,11400.84,0.0,Renewed,None,0,33,Yes,None,48.9,No,73
+RNW-0068,ACC-0370,SwiftLine HVAC Professionals,Growth,Omar Castillo,2025-01-10,11127.6,11127.6,0.0,Renewed,None,0,51,No,None,64.8,No,52
+RNW-0069,ACC-0452,Allied HVAC Technologies,Starter,Tanya Oluoch,2025-02-17,3083.52,3364.78,281.26,Renewed with Upsell,Portal Pro,281.26,42,No,None,70.2,No,50
+RNW-0070,ACC-0116,Summit Plumbing Group,Growth,Ravi Mehta,2025-06-17,11400.48,11400.48,0.0,Renewed,None,0,38,No,10%,73.0,No,39
+RNW-0071,ACC-0144,Reliable Pest Control Solutions,Pro,Emma Solis,2024-01-12,18374.16,18374.16,0.0,Renewed,None,0,57,No,10%,69.4,No,78
+RNW-0072,ACC-0064,RapidFix Facilities Management Services,Starter,Felix Brennan,2024-12-15,4999.44,4999.44,0.0,Renewed,None,0,39,Yes,None,59.2,No,50
+RNW-0073,ACC-0399,RapidFix Landscaping Solutions,Starter,Sadia Islam,2025-06-19,4616.28,4616.28,0.0,Renewed,None,0,59,No,None,77.0,No,33
+RNW-0074,ACC-0298,Allied Facilities Management Systems,Growth,Omar Castillo,2024-01-07,10603.32,10603.32,0.0,Renewed,None,0,63,Yes,10%,84.8,No,57
+RNW-0075,ACC-0403,Apex Plumbing Systems,Pro,Omar Castillo,2025-02-21,20828.64,25426.94,4598.3,Renewed with Upsell,Analytics Add-On,4598.3,56,No,None,74.4,Yes,58
+RNW-0076,ACC-0290,Reliable Other Services,Starter,Felix Brennan,2024-01-22,4820.76,4820.76,0.0,Renewed,None,0,65,No,None,74.7,No,48
+RNW-0077,ACC-0426,National HVAC Solutions,Pro,Emma Solis,2025-01-20,20693.4,20693.4,0.0,Renewed,None,0,52,No,10%,80.2,No,35
+RNW-0078,ACC-0500,National Electrical Technologies,Starter,Felix Brennan,2024-10-27,3423.48,3423.48,0.0,Renewed,None,0,27,No,10%,60.8,No,87
+RNW-0079,ACC-0393,Regional HVAC Solutions,Starter,Jordan Blake,2025-09-26,3285.96,3765.06,479.1,Renewed with Upsell,Extra Seats,479.1,35,No,None,79.4,No,84
+RNW-0080,ACC-0270,Reliable Facilities Management Works,Growth,Tanya Oluoch,2024-01-18,7826.64,8802.51,975.87,Renewed with Upsell,Extra Seats,975.87,49,No,None,50.3,No,79
+RNW-0081,ACC-0483,Dynamic HVAC Partners,Starter,Omar Castillo,2025-03-03,5020.56,3514.39,-1506.17,Downgraded,None,0,15,No,None,78.4,No,45
+RNW-0082,ACC-0372,ProServ Electrical Associates,Growth,Omar Castillo,2025-10-06,11402.88,13374.59,1971.71,Renewed with Upsell,Portal Pro,1971.71,52,No,8%,59.0,No,55
+RNW-0083,ACC-0567,Allied Plumbing Group,Growth,Ravi Mehta,2024-02-21,7407.48,7407.48,0.0,Renewed,None,0,48,Yes,8%,49.2,No,59
+RNW-0084,ACC-0617,Apex Electrical Professionals,Starter,Sadia Islam,2024-02-07,4640.76,5420.31,779.55,Renewed with Upsell,Portal Pro,779.55,20,No,10%,41.9,No,31
+RNW-0085,ACC-0346,SwiftLine Pest Control Partners,Starter,Tanya Oluoch,2024-08-16,3589.44,3589.44,0.0,Renewed,None,0,74,No,8%,70.0,No,58
+RNW-0086,ACC-0050,OneCall Facilities Management Group,Growth,Lena Fischer,2024-04-17,11059.08,11059.08,0.0,Renewed,None,0,22,No,None,67.0,No,88
+RNW-0087,ACC-0272,Dynamic Landscaping Associates,Starter,Ravi Mehta,2024-09-03,3871.44,3871.44,0.0,Renewed,None,0,69,No,8%,81.8,No,33
+RNW-0088,ACC-0369,OneCall Plumbing Technologies,Starter,Sadia Islam,2025-09-13,4806.6,5320.37,513.77,Renewed with Upsell,Parts Inventory,513.77,70,Yes,8%,82.0,No,71
+RNW-0089,ACC-0061,Metro Facilities Management Technologies,Growth,Sadia Islam,2024-10-28,8967.36,8967.36,0.0,Renewed,None,0,27,Yes,10%,79.6,No,40
+RNW-0090,ACC-0081,Reliable Plumbing Solutions,Starter,Felix Brennan,2024-07-21,3148.32,3148.32,0.0,Renewed,None,0,31,No,None,88.2,No,83
+RNW-0091,ACC-0321,RapidFix HVAC Associates,Starter,Lena Fischer,2025-09-17,3580.92,3580.92,0.0,Renewed,None,0,52,Yes,None,52.1,No,60
+RNW-0092,ACC-0593,Apex Plumbing Professionals,Growth,Sadia Islam,2025-02-14,10333.56,10333.56,0.0,Renewed,None,0,38,No,None,58.4,No,90
+RNW-0093,ACC-0163,Reliable HVAC Group,Starter,Lena Fischer,2025-01-25,3807.6,3807.6,0.0,Renewed,None,0,55,No,5%,71.2,No,52
+RNW-0094,ACC-0558,TrustWorks Pest Control Technologies,Starter,Tanya Oluoch,2025-06-23,3744.96,3744.96,0.0,Renewed,None,0,26,No,10%,49.1,No,34
+RNW-0095,ACC-0488,Dynamic HVAC Partners,Starter,Lena Fischer,2025-01-14,4224.96,4224.96,0.0,Renewed,None,0,20,Yes,None,58.8,No,36
+RNW-0096,ACC-0017,Elite HVAC Technologies,Starter,Jordan Blake,2025-05-12,3056.88,3056.88,0.0,Renewed,None,0,43,No,5%,88.8,No,61
+RNW-0097,ACC-0179,Heritage Electrical Experts,Growth,Jordan Blake,2025-08-16,9152.88,9152.88,0.0,Renewed,None,0,56,No,10%,75.5,No,38
+RNW-0098,ACC-0536,ProServ Pest Control Solutions,Starter,Tanya Oluoch,2024-05-15,3052.2,3052.2,0.0,Renewed,None,0,31,No,5%,72.0,No,43
+RNW-0099,ACC-0450,Elite Pest Control Associates,Starter,Lena Fischer,2025-08-26,3318.12,3318.12,0.0,Renewed,None,0,40,No,None,74.2,No,51
+RNW-0100,ACC-0127,Heritage Plumbing Solutions,Starter,Lena Fischer,2024-05-01,4356.96,5137.05,780.09,Renewed with Upsell,Parts Inventory,780.09,15,No,None,69.8,No,46
+RNW-0101,ACC-0009,RapidFix Pest Control Solutions,Enterprise,Emma Solis,2024-06-16,56151.0,56151.0,0.0,Renewed,None,0,48,No,None,71.8,Yes,65
+RNW-0102,ACC-0152,Pinnacle Plumbing Partners,Starter,Sadia Islam,2025-01-21,3401.04,3978.59,577.55,Renewed with Upsell,None,577.55,42,No,8%,70.0,No,47
+RNW-0103,ACC-0360,Heritage Electrical Technologies,Starter,Lena Fischer,2024-08-29,4187.88,0,-4187.88,Churned,None,0,57,No,5%,69.4,No,61
+RNW-0104,ACC-0350,Pinnacle HVAC Works,Starter,Felix Brennan,2025-07-13,3383.4,3383.4,0.0,Renewed,None,0,47,No,8%,63.8,No,68
+RNW-0105,ACC-0114,Premier Electrical Associates,Pro,Omar Castillo,2025-02-04,24773.88,17341.72,-7432.16,Downgraded,None,0,52,Yes,8%,73.0,Yes,63
+RNW-0106,ACC-0261,OneCall HVAC Systems,Growth,Jordan Blake,2025-08-01,7732.56,7732.56,0.0,Renewed,None,0,72,Yes,None,64.4,No,37
+RNW-0107,ACC-0249,ProServ HVAC Services,Starter,Jordan Blake,2024-09-02,4400.28,4400.28,0.0,Renewed,None,0,34,Yes,10%,73.2,No,76
+RNW-0108,ACC-0161,Elite Facilities Management Systems,Starter,Tanya Oluoch,2024-02-24,4232.16,4776.0,543.84,Renewed with Upsell,Portal Pro,543.84,64,No,None,59.8,No,59
+RNW-0109,ACC-0615,Elite HVAC Systems,Starter,Lena Fischer,2025-04-14,3952.2,3952.2,0.0,Renewed,None,0,17,No,None,78.0,No,53
+RNW-0110,ACC-0349,BlueStar Electrical Services,Growth,Omar Castillo,2024-12-17,10726.8,10726.8,0.0,Renewed,None,0,60,No,5%,74.4,No,65
+RNW-0111,ACC-0149,Metro Electrical Technologies,Pro,Omar Castillo,2024-03-03,20398.2,20398.2,0.0,Renewed,None,0,52,No,None,99.0,Yes,82
+RNW-0112,ACC-0013,Regional Landscaping Associates,Starter,Jordan Blake,2025-07-16,3709.44,3709.44,0.0,Renewed,None,0,44,No,None,76.2,No,59
+RNW-0113,ACC-0257,Premier Electrical Solutions,Starter,Tanya Oluoch,2024-04-02,4430.88,4430.88,0.0,Renewed,None,0,69,No,8%,66.3,No,37
+RNW-0114,ACC-0607,Pinnacle HVAC Associates,Starter,Jordan Blake,2025-01-25,4798.8,0,-4798.8,Churned,None,0,65,Yes,None,85.6,No,58
+RNW-0115,ACC-0427,Heritage HVAC Works,Enterprise,Sadia Islam,2025-07-26,66910.2,66910.2,0.0,Renewed,None,0,74,Yes,None,51.5,Yes,56
+RNW-0116,ACC-0353,Metro Plumbing Technologies,Starter,Tanya Oluoch,2025-09-04,3254.16,3254.16,0.0,Renewed,None,0,52,Yes,10%,68.9,No,87
+RNW-0117,ACC-0125,BlueStar HVAC Solutions,Starter,Tanya Oluoch,2025-10-29,4926.12,4926.12,0.0,Renewed,None,0,55,No,8%,47.6,No,61
+RNW-0118,ACC-0130,SwiftLine Pest Control Systems,Pro,Tanya Oluoch,2024-01-01,15917.64,15917.64,0.0,Renewed,None,0,71,No,None,69.0,Yes,36
+RNW-0119,ACC-0038,Apex Electrical Associates,Starter,Omar Castillo,2025-10-31,3128.76,3128.76,0.0,Renewed,None,0,57,No,8%,80.8,No,70
+RNW-0120,ACC-0406,National HVAC Group,Starter,Emma Solis,2024-11-26,3079.32,3079.32,0.0,Renewed,None,0,39,No,8%,67.0,No,89
+RNW-0121,ACC-0183,Apex HVAC Associates,Starter,Omar Castillo,2025-05-04,4472.88,3131.02,-1341.86,Downgraded,None,0,58,No,10%,71.2,No,81
+RNW-0122,ACC-0610,OneCall Electrical Works,Starter,Ravi Mehta,2024-09-07,4492.56,4492.56,0.0,Renewed,None,0,19,No,5%,80.2,No,34
+RNW-0123,ACC-0276,Premier Plumbing Technologies,Enterprise,Tanya Oluoch,2024-07-04,59604.24,59604.24,0.0,Renewed,None,0,40,No,10%,69.0,Yes,77
+RNW-0124,ACC-0622,SwiftLine HVAC Systems,Pro,Omar Castillo,2024-03-12,16591.08,19406.23,2815.15,Renewed with Upsell,Extra Seats,2815.15,71,No,None,81.6,No,55
+RNW-0125,ACC-0587,Premier Plumbing Solutions,Pro,Lena Fischer,2025-06-30,19618.56,19618.56,0.0,Renewed,None,0,21,No,None,83.8,Yes,39
+RNW-0126,ACC-0422,Heritage Plumbing Group,Pro,Ravi Mehta,2025-02-23,20014.92,20014.92,0.0,Renewed,None,0,22,No,10%,66.8,No,63
+RNW-0127,ACC-0317,Elite HVAC Systems,Pro,Tanya Oluoch,2024-01-28,21320.88,21320.88,0.0,Renewed,None,0,53,No,5%,46.0,Yes,53
+RNW-0128,ACC-0402,BlueStar Electrical Solutions,Growth,Jordan Blake,2025-05-13,8653.8,9753.32,1099.52,Renewed with Upsell,Extra Seats,1099.52,15,No,None,80.8,No,55
+RNW-0129,ACC-0459,TrustWorks Facilities Management Group,Growth,Lena Fischer,2024-09-11,11624.16,11624.16,0.0,Renewed,None,0,66,No,8%,49.9,No,71
+RNW-0130,ACC-0023,TrustWorks Electrical Solutions,Enterprise,Sadia Islam,2024-04-15,69385.2,69385.2,0.0,Renewed,None,0,22,Yes,10%,43.2,Yes,54
+RNW-0131,ACC-0443,Reliable Facilities Management Associates,Pro,Tanya Oluoch,2025-07-07,16888.2,16888.2,0.0,Renewed,None,0,55,Yes,None,50.6,No,41
+RNW-0132,ACC-0635,TrustWorks HVAC Associates,Pro,Felix Brennan,2024-09-17,19146.84,22682.81,3535.97,Renewed with Upsell,None,3535.97,24,Yes,None,88.0,No,67
+RNW-0133,ACC-0556,Elite Pest Control Technologies,Growth,Lena Fischer,2024-01-20,7432.92,7432.92,0.0,Renewed,None,0,36,No,5%,50.4,No,50
+RNW-0134,ACC-0104,Summit Plumbing Works,Starter,Ravi Mehta,2025-10-10,4009.32,4009.32,0.0,Renewed,None,0,36,No,8%,77.0,No,57
+RNW-0135,ACC-0008,Apex Facilities Management Works,Pro,Omar Castillo,2025-09-05,20254.92,20254.92,0.0,Renewed,None,0,16,Yes,None,43.2,No,40
+RNW-0136,ACC-0226,Metro Landscaping Associates,Growth,Omar Castillo,2024-11-19,10621.08,11810.48,1189.4,Renewed with Upsell,Parts Inventory,1189.4,65,No,None,76.8,No,90
+RNW-0137,ACC-0255,Allied Plumbing Services,Starter,Jordan Blake,2024-05-05,4554.72,4554.72,0.0,Renewed,None,0,73,No,10%,57.1,No,59
+RNW-0138,ACC-0117,Pinnacle Facilities Management Group,Pro,Lena Fischer,2024-09-30,16939.68,16939.68,0.0,Renewed,None,0,58,No,5%,47.7,Yes,63
+RNW-0139,ACC-0464,Elite Other Associates,Starter,Felix Brennan,2024-04-05,3674.76,3674.76,0.0,Renewed,None,0,55,No,5%,74.8,No,58
+RNW-0140,ACC-0504,Heritage Pest Control Solutions,Pro,Ravi Mehta,2025-08-07,19441.92,23404.17,3962.25,Renewed with Upsell,Parts Inventory,3962.25,65,No,None,87.4,Yes,83
+RNW-0141,ACC-0383,ProServ Facilities Management Systems,Starter,Jordan Blake,2025-09-22,3790.44,3790.44,0.0,Renewed,None,0,33,No,None,77.2,No,35
+RNW-0142,ACC-0616,SwiftLine HVAC Group,Starter,Tanya Oluoch,2024-09-19,4074.0,4074.0,0.0,Renewed,None,0,64,No,5%,84.8,No,55
+RNW-0143,ACC-0283,Elite Pest Control Partners,Starter,Omar Castillo,2024-03-26,4789.68,0,-4789.68,Churned,None,0,40,No,8%,54.0,No,83
+RNW-0144,ACC-0625,Allied Plumbing Technologies,Starter,Sadia Islam,2025-01-07,4962.96,5963.17,1000.21,Renewed with Upsell,Analytics Add-On,1000.21,60,No,None,61.2,No,34
+RNW-0145,ACC-0578,TrustWorks Pest Control Solutions,Starter,Felix Brennan,2024-03-20,5000.16,5000.16,0.0,Renewed,None,0,48,No,None,51.5,No,70
+RNW-0146,ACC-0029,Regional HVAC Works,Growth,Sadia Islam,2025-05-13,8067.6,8067.6,0.0,Renewed,None,0,70,No,10%,76.4,No,41
+RNW-0147,ACC-0583,Heritage HVAC Experts,Starter,Tanya Oluoch,2025-01-12,4344.36,4344.36,0.0,Renewed,None,0,66,No,None,84.8,No,46
+RNW-0148,ACC-0293,National Plumbing Experts,Starter,Ravi Mehta,2025-03-14,3939.36,3939.36,0.0,Renewed,None,0,37,No,None,67.1,No,57
+RNW-0149,ACC-0470,Reliable Plumbing Solutions,Pro,Emma Solis,2024-05-10,18253.44,18253.44,0.0,Renewed,None,0,66,Yes,None,72.1,No,47
+RNW-0150,ACC-0274,National Landscaping Experts,Growth,Tanya Oluoch,2025-02-25,10735.56,10735.56,0.0,Renewed,None,0,43,No,5%,87.2,No,46
+RNW-0151,ACC-0153,SwiftLine Plumbing Associates,Starter,Ravi Mehta,2024-02-23,3937.2,3937.2,0.0,Renewed,None,0,18,No,10%,68.3,No,62
+RNW-0152,ACC-0010,Apex Pest Control Technologies,Starter,Ravi Mehta,2024-11-03,4433.4,4874.39,440.99,Renewed with Upsell,Parts Inventory,440.99,66,No,None,77.0,No,51
+RNW-0153,ACC-0055,Apex HVAC Partners,Growth,Emma Solis,2024-07-03,10024.44,11918.12,1893.68,Renewed with Upsell,Portal Pro,1893.68,54,No,None,72.0,No,83
+RNW-0154,ACC-0385,ProServ Plumbing Solutions,Growth,Tanya Oluoch,2025-11-15,9508.8,6656.16,-2852.64,Downgraded,None,0,69,No,10%,75.6,No,71
+RNW-0155,ACC-0225,National HVAC Professionals,Pro,Ravi Mehta,2025-06-07,18385.68,18385.68,0.0,Renewed,None,0,19,No,8%,71.2,Yes,75
+RNW-0156,ACC-0334,SwiftLine HVAC Experts,Pro,Sadia Islam,2024-12-07,16419.96,16419.96,0.0,Renewed,None,0,68,Yes,None,84.4,No,78
+RNW-0157,ACC-0248,Premier Pest Control Group,Starter,Felix Brennan,2024-02-14,4769.28,4769.28,0.0,Renewed,None,0,43,No,8%,67.6,No,35
+RNW-0158,ACC-0242,National Electrical Solutions,Starter,Emma Solis,2024-11-20,3139.08,3139.08,0.0,Renewed,None,0,15,No,10%,55.5,No,86
+RNW-0159,ACC-0413,Summit Plumbing Technologies,Starter,Lena Fischer,2024-05-21,4982.88,4982.88,0.0,Renewed,None,0,56,No,None,85.6,No,78
+RNW-0160,ACC-0210,Apex HVAC Associates,Pro,Felix Brennan,2024-11-18,21902.16,21902.16,0.0,Renewed,None,0,63,No,5%,58.8,No,52
+RNW-0161,ACC-0310,ProServ Other Associates,Growth,Felix Brennan,2024-03-01,8290.44,8290.44,0.0,Renewed,None,0,39,Yes,10%,78.8,No,70
+RNW-0162,ACC-0074,Elite Plumbing Technologies,Pro,Jordan Blake,2024-04-21,22273.08,22273.08,0.0,Renewed,None,0,20,No,8%,59.1,Yes,43
+RNW-0163,ACC-0364,Pinnacle Pest Control Services,Starter,Omar Castillo,2024-06-08,4016.64,4016.64,0.0,Renewed,None,0,35,No,None,43.5,No,44
+RNW-0164,ACC-0537,BlueStar HVAC Services,Growth,Emma Solis,2025-07-01,10502.88,10502.88,0.0,Renewed,None,0,31,No,None,62.2,No,44
+RNW-0165,ACC-0453,Heritage HVAC Partners,Pro,Omar Castillo,2025-09-02,16463.64,0,-16463.64,Churned,None,0,64,No,None,84.2,Yes,65
+RNW-0166,ACC-0035,National HVAC Group,Starter,Jordan Blake,2024-11-24,3524.04,3524.04,0.0,Renewed,None,0,30,Yes,None,84.2,No,67
+RNW-0167,ACC-0304,Dynamic Pest Control Group,Growth,Felix Brennan,2024-08-03,10173.96,7121.77,-3052.19,Downgraded,None,0,20,No,None,66.0,No,60
+RNW-0168,ACC-0541,Dynamic Pest Control Professionals,Pro,Ravi Mehta,2024-09-05,15951.48,15951.48,0.0,Renewed,None,0,14,No,10%,63.2,Yes,67
+RNW-0169,ACC-0640,Allied Electrical Group,Growth,Jordan Blake,2024-02-08,10610.76,10610.76,0.0,Renewed,None,0,29,No,10%,68.8,No,76
+RNW-0170,ACC-0568,TrustWorks HVAC Systems,Starter,Omar Castillo,2024-07-09,4177.8,4660.58,482.78,Renewed with Upsell,None,482.78,24,No,None,83.8,No,31
+RNW-0171,ACC-0384,RapidFix Pest Control Group,Pro,Felix Brennan,2025-01-11,17117.76,20469.94,3352.18,Renewed with Upsell,Portal Pro,3352.18,74,No,None,55.8,No,49
+RNW-0172,ACC-0539,Regional Plumbing Systems,Starter,Sadia Islam,2025-01-15,4395.96,4395.96,0.0,Renewed,None,0,38,No,10%,75.4,No,89
+RNW-0173,ACC-0585,National Facilities Management Solutions,Starter,Felix Brennan,2024-08-12,4919.16,4919.16,0.0,Renewed,None,0,67,No,8%,76.6,No,45
+RNW-0174,ACC-0628,ProServ HVAC Works,Starter,Felix Brennan,2024-10-23,3766.68,3766.68,0.0,Renewed,None,0,27,Yes,None,77.8,No,67
+RNW-0175,ACC-0440,Pinnacle HVAC Professionals,Starter,Tanya Oluoch,2024-03-22,3804.48,3804.48,0.0,Renewed,None,0,48,No,5%,53.7,No,65
+RNW-0176,ACC-0502,Dynamic Facilities Management Systems,Starter,Lena Fischer,2024-07-10,4929.48,4929.48,0.0,Renewed,None,0,64,Yes,10%,43.2,No,84
+RNW-0177,ACC-0510,BlueStar HVAC Solutions,Enterprise,Omar Castillo,2025-05-08,48926.16,48926.16,0.0,Renewed,None,0,25,No,8%,74.5,Yes,63
+RNW-0178,ACC-0053,National Pest Control Technologies,Starter,Omar Castillo,2024-03-13,4044.96,4044.96,0.0,Renewed,None,0,49,No,None,84.6,No,70
+RNW-0179,ACC-0303,Heritage HVAC Experts,Starter,Emma Solis,2025-11-27,4149.48,4149.48,0.0,Renewed,None,0,47,No,5%,62.0,No,78
+RNW-0180,ACC-0239,OneCall HVAC Group,Starter,Omar Castillo,2024-01-19,3627.96,4344.88,716.92,Renewed with Upsell,Extra Seats,716.92,62,No,None,80.2,No,85
+RNW-0181,ACC-0019,Regional Pest Control Technologies,Starter,Felix Brennan,2025-11-16,3570.84,3570.84,0.0,Renewed,None,0,34,No,10%,60.4,No,59
+RNW-0182,ACC-0316,Pinnacle HVAC Group,Pro,Ravi Mehta,2024-08-02,21068.76,21068.76,0.0,Renewed,None,0,72,No,5%,85.2,Yes,90
+RNW-0183,ACC-0186,SwiftLine Facilities Management Partners,Starter,Tanya Oluoch,2025-10-16,4410.84,4410.84,0.0,Renewed,None,0,46,No,None,66.8,No,63
+RNW-0184,ACC-0253,Summit Pest Control Experts,Enterprise,Sadia Islam,2024-12-02,67797.84,67797.84,0.0,Renewed,None,0,17,Yes,10%,67.2,Yes,32
+RNW-0185,ACC-0155,Dynamic Plumbing Professionals,Growth,Sadia Islam,2025-11-09,10166.88,10166.88,0.0,Renewed,None,0,72,No,None,61.5,No,46
+RNW-0186,ACC-0396,Summit Pest Control Group,Growth,Omar Castillo,2025-08-22,8226.12,8226.12,0.0,Renewed,None,0,72,Yes,5%,71.0,No,48
+RNW-0187,ACC-0532,SwiftLine Other Services,Starter,Lena Fischer,2024-01-22,4421.16,4421.16,0.0,Renewed,None,0,54,No,None,48.5,No,88
+RNW-0188,ACC-0518,TrustWorks HVAC Partners,Starter,Jordan Blake,2025-05-06,3850.8,3850.8,0.0,Renewed,None,0,45,No,8%,67.0,No,40
+RNW-0189,ACC-0552,Apex Landscaping Group,Starter,Emma Solis,2024-11-01,3108.96,3108.96,0.0,Renewed,None,0,54,No,None,88.4,No,30
+RNW-0190,ACC-0147,SwiftLine Other Group,Growth,Lena Fischer,2024-08-29,11112.0,11112.0,0.0,Renewed,None,0,54,Yes,8%,72.8,No,60
+RNW-0191,ACC-0014,TrustWorks HVAC Group,Growth,Emma Solis,2025-07-08,7731.84,7731.84,0.0,Renewed,None,0,55,Yes,None,67.1,No,34
+RNW-0192,ACC-0508,National Electrical Experts,Starter,Felix Brennan,2024-07-19,3844.68,3844.68,0.0,Renewed,None,0,62,No,5%,55.4,No,88
+RNW-0193,ACC-0228,SwiftLine Plumbing Associates,Pro,Jordan Blake,2025-11-28,16728.12,16728.12,0.0,Renewed,None,0,55,Yes,10%,81.2,Yes,69
+RNW-0194,ACC-0626,SwiftLine Pest Control Technologies,Starter,Ravi Mehta,2024-05-08,4299.6,4828.26,528.66,Renewed with Upsell,Extra Seats,528.66,19,No,5%,76.8,No,72
+RNW-0195,ACC-0551,Premier Electrical Professionals,Growth,Emma Solis,2025-05-10,10786.56,10786.56,0.0,Renewed,None,0,18,Yes,5%,80.8,No,74
+RNW-0196,ACC-0547,TrustWorks HVAC Systems,Pro,Lena Fischer,2024-12-20,22278.6,22278.6,0.0,Renewed,None,0,25,No,None,62.2,Yes,53
+RNW-0197,ACC-0131,Elite HVAC Partners,Growth,Emma Solis,2024-01-26,7296.24,7296.24,0.0,Renewed,None,0,48,No,None,82.4,No,73
+RNW-0198,ACC-0266,Dynamic HVAC Experts,Growth,Ravi Mehta,2024-07-16,11044.8,13358.9,2314.1,Renewed with Upsell,Analytics Add-On,2314.1,55,Yes,None,83.0,No,77
+RNW-0199,ACC-0237,National HVAC Professionals,Pro,Ravi Mehta,2025-10-12,16356.12,16356.12,0.0,Renewed,None,0,69,No,None,66.3,Yes,51
+RNW-0200,ACC-0416,ProServ HVAC Experts,Growth,Lena Fischer,2025-08-05,7921.56,7921.56,0.0,Renewed,None,0,73,Yes,None,73.8,No,83
+RNW-0201,ACC-0227,SwiftLine Landscaping Solutions,Starter,Emma Solis,2024-10-29,4717.32,0,-4717.32,Churned,None,0,18,No,5%,72.4,No,75
+RNW-0202,ACC-0246,Apex HVAC Professionals,Starter,Emma Solis,2024-08-03,3413.88,3413.88,0.0,Renewed,None,0,74,Yes,8%,80.3,No,54
+RNW-0203,ACC-0111,Regional Pest Control Group,Starter,Jordan Blake,2024-10-30,4927.92,4927.92,0.0,Renewed,None,0,23,No,None,80.0,No,55
+RNW-0204,ACC-0288,BlueStar Plumbing Group,Pro,Jordan Blake,2024-08-05,19420.2,19420.2,0.0,Renewed,None,0,22,No,5%,52.5,No,46
+RNW-0205,ACC-0337,BlueStar HVAC Systems,Pro,Emma Solis,2025-04-30,24969.12,17478.38,-7490.74,Downgraded,None,0,21,Yes,5%,76.2,Yes,80
+RNW-0206,ACC-0451,SwiftLine Plumbing Systems,Growth,Felix Brennan,2025-03-16,10712.76,10712.76,0.0,Renewed,None,0,43,No,5%,51.8,No,88
+RNW-0207,ACC-0521,Pinnacle Plumbing Professionals,Growth,Emma Solis,2025-06-28,11371.2,11371.2,0.0,Renewed,None,0,70,No,None,50.8,No,46
+RNW-0208,ACC-0515,BlueStar HVAC Partners,Growth,Emma Solis,2024-04-30,10663.68,10663.68,0.0,Renewed,None,0,16,Yes,5%,81.0,No,40
+RNW-0209,ACC-0565,National HVAC Partners,Growth,Sadia Islam,2025-11-07,10160.16,11016.89,856.73,Renewed with Upsell,Portal Pro,856.73,44,Yes,10%,76.2,No,36
+RNW-0210,ACC-0602,RapidFix HVAC Professionals,Growth,Jordan Blake,2025-04-12,11691.6,11691.6,0.0,Renewed,None,0,17,No,5%,53.3,No,47
+RNW-0211,ACC-0332,Heritage Plumbing Partners,Enterprise,Ravi Mehta,2025-11-25,63115.8,63115.8,0.0,Renewed,None,0,41,No,8%,56.2,No,53
+RNW-0212,ACC-0167,Apex Plumbing Associates,Pro,Lena Fischer,2025-01-08,22106.28,22106.28,0.0,Renewed,None,0,42,Yes,None,45.9,No,44
+RNW-0213,ACC-0389,Premier HVAC Partners,Pro,Jordan Blake,2025-04-17,19896.96,19896.96,0.0,Renewed,None,0,69,No,10%,61.0,No,78
+RNW-0214,ACC-0418,Pinnacle HVAC Group,Starter,Ravi Mehta,2024-10-13,3333.24,3333.24,0.0,Renewed,None,0,63,No,8%,68.3,No,35
+RNW-0215,ACC-0525,National Other Solutions,Enterprise,Sadia Islam,2025-08-20,67247.52,72864.3,5616.78,Renewed with Upsell,None,5616.78,59,No,10%,73.2,Yes,63
+RNW-0216,ACC-0216,OneCall Pest Control Solutions,Starter,Emma Solis,2025-02-15,3461.76,3461.76,0.0,Renewed,None,0,34,No,None,61.1,No,79
+RNW-0217,ACC-0548,OneCall Landscaping Partners,Growth,Sadia Islam,2024-01-05,10459.56,10459.56,0.0,Renewed,None,0,32,No,None,68.4,No,42
+RNW-0218,ACC-0222,RapidFix Pest Control Services,Growth,Jordan Blake,2024-08-05,10891.08,10891.08,0.0,Renewed,None,0,15,No,8%,82.2,No,82
+RNW-0219,ACC-0319,National Plumbing Works,Growth,Omar Castillo,2024-01-27,9902.28,9902.28,0.0,Renewed,None,0,64,No,None,70.7,No,30
+RNW-0220,ACC-0166,Metro HVAC Experts,Growth,Jordan Blake,2025-02-06,9878.4,9878.4,0.0,Renewed,None,0,74,No,None,83.0,No,51
+RNW-0221,ACC-0601,Elite HVAC Services,Starter,Omar Castillo,2024-12-21,4453.32,4453.32,0.0,Renewed,None,0,26,No,None,86.6,No,80
+RNW-0222,ACC-0241,Summit Other Professionals,Starter,Ravi Mehta,2025-03-10,4675.44,4675.44,0.0,Renewed,None,0,27,No,None,85.8,No,35
+RNW-0223,ACC-0327,Elite Plumbing Works,Growth,Felix Brennan,2024-05-24,8084.28,8084.28,0.0,Renewed,None,0,66,No,None,66.2,No,42
+RNW-0224,ACC-0086,ProServ Electrical Solutions,Starter,Tanya Oluoch,2024-06-16,4508.88,5137.07,628.19,Renewed with Upsell,Analytics Add-On,628.19,44,No,5%,78.4,No,44
+RNW-0225,ACC-0294,ProServ Facilities Management Works,Pro,Jordan Blake,2024-01-30,20671.8,20671.8,0.0,Renewed,None,0,48,Yes,10%,89.0,Yes,65
+RNW-0226,ACC-0198,SwiftLine Facilities Management Group,Enterprise,Sadia Islam,2025-10-14,64742.64,0,-64742.64,Churned,None,0,54,Yes,8%,66.0,No,62
+RNW-0227,ACC-0096,RapidFix Electrical Partners,Growth,Omar Castillo,2024-03-21,10827.84,10827.84,0.0,Renewed,None,0,20,No,None,46.0,No,62
+RNW-0228,ACC-0485,Regional HVAC Technologies,Pro,Emma Solis,2024-11-07,18618.96,18618.96,0.0,Renewed,None,0,58,No,None,81.4,Yes,50
+RNW-0229,ACC-0580,Summit Plumbing Technologies,Pro,Jordan Blake,2025-04-20,16757.76,16757.76,0.0,Renewed,None,0,73,No,None,43.5,Yes,36
+RNW-0230,ACC-0492,SwiftLine Pest Control Experts,Growth,Ravi Mehta,2024-04-19,8250.36,8250.36,0.0,Renewed,None,0,58,No,8%,53.6,No,36
+RNW-0231,ACC-0087,RapidFix HVAC Professionals,Growth,Emma Solis,2025-06-27,7129.92,7129.92,0.0,Renewed,None,0,71,Yes,10%,65.8,No,85
+RNW-0232,ACC-0374,Apex HVAC Group,Growth,Tanya Oluoch,2025-03-01,7275.12,7275.12,0.0,Renewed,None,0,71,No,None,83.6,No,88
+RNW-0233,ACC-0482,Allied Other Services,Starter,Sadia Islam,2024-03-28,3247.2,3247.2,0.0,Renewed,None,0,35,No,5%,73.4,No,60
+RNW-0234,ACC-0570,Heritage Electrical Works,Starter,Felix Brennan,2025-10-31,4906.2,4906.2,0.0,Renewed,None,0,42,Yes,None,54.0,No,30
+RNW-0235,ACC-0088,Allied Facilities Management Solutions,Enterprise,Lena Fischer,2024-01-07,50054.76,50054.76,0.0,Renewed,None,0,73,No,8%,60.6,Yes,63
+RNW-0236,ACC-0140,TrustWorks Plumbing Associates,Starter,Emma Solis,2024-10-07,3665.16,3665.16,0.0,Renewed,None,0,40,No,None,81.4,No,48
+RNW-0237,ACC-0408,Heritage Pest Control Experts,Pro,Tanya Oluoch,2024-08-28,17288.88,17288.88,0.0,Renewed,None,0,36,No,5%,69.4,No,66
+RNW-0238,ACC-0463,ProServ HVAC Experts,Pro,Felix Brennan,2025-10-13,20094.6,20094.6,0.0,Renewed,None,0,43,No,None,42.9,Yes,41
+RNW-0239,ACC-0395,Elite Plumbing Solutions,Growth,Sadia Islam,2025-03-30,8237.64,8237.64,0.0,Renewed,None,0,73,No,8%,61.4,No,67
+RNW-0240,ACC-0509,Allied HVAC Associates,Starter,Lena Fischer,2025-05-18,3733.8,4438.79,704.99,Renewed with Upsell,Extra Seats,704.99,65,No,10%,62.5,No,83
+RNW-0241,ACC-0102,Regional HVAC Associates,Enterprise,Ravi Mehta,2024-03-31,65365.92,65365.92,0.0,Renewed,None,0,38,No,None,64.0,Yes,76
+RNW-0242,ACC-0354,Allied HVAC Works,Starter,Jordan Blake,2025-11-15,3420.96,3420.96,0.0,Renewed,None,0,55,No,10%,76.6,No,60
+RNW-0243,ACC-0524,BlueStar Pest Control Systems,Enterprise,Emma Solis,2024-01-31,48474.48,48474.48,0.0,Renewed,None,0,20,No,10%,51.4,No,31
+RNW-0244,ACC-0323,ProServ HVAC Services,Starter,Ravi Mehta,2025-10-23,4275.12,4873.63,598.51,Renewed with Upsell,Analytics Add-On,598.51,57,No,10%,85.5,No,81
+RNW-0245,ACC-0042,National HVAC Associates,Starter,Omar Castillo,2025-10-21,4860.36,4860.36,0.0,Renewed,None,0,63,Yes,8%,67.4,No,69
+RNW-0246,ACC-0299,SwiftLine Pest Control Professionals,Starter,Tanya Oluoch,2025-11-14,3947.04,0,-3947.04,Churned,None,0,54,No,None,73.8,No,44
+RNW-0247,ACC-0530,National HVAC Professionals,Starter,Tanya Oluoch,2024-11-10,3224.28,3224.28,0.0,Renewed,None,0,45,No,None,51.0,No,51
+RNW-0248,ACC-0022,Summit Electrical Services,Growth,Jordan Blake,2025-03-04,7592.16,7592.16,0.0,Renewed,None,0,18,Yes,None,72.4,No,70
+RNW-0249,ACC-0574,TrustWorks Electrical Services,Starter,Tanya Oluoch,2025-09-15,3320.88,0,-3320.88,Churned,None,0,59,No,10%,60.6,No,73
+RNW-0250,ACC-0409,Regional Plumbing Technologies,Starter,Lena Fischer,2024-08-23,4752.6,4752.6,0.0,Renewed,None,0,28,No,None,65.6,No,55
+RNW-0251,ACC-0614,Dynamic Pest Control Systems,Pro,Lena Fischer,2025-08-16,21021.36,21021.36,0.0,Renewed,None,0,57,Yes,5%,72.2,Yes,65
+RNW-0252,ACC-0169,Pinnacle HVAC Partners,Growth,Felix Brennan,2025-06-05,8397.48,8397.48,0.0,Renewed,None,0,19,No,10%,76.0,No,74
+RNW-0253,ACC-0357,Reliable Other Partners,Starter,Tanya Oluoch,2025-02-11,3678.0,3678.0,0.0,Renewed,None,0,17,No,None,77.0,No,89
+RNW-0254,ACC-0057,Allied Electrical Solutions,Pro,Sadia Islam,2024-02-29,21291.72,21291.72,0.0,Renewed,None,0,36,Yes,10%,88.6,No,43
+RNW-0255,ACC-0511,Metro HVAC Solutions,Starter,Ravi Mehta,2024-07-23,4336.32,4336.32,0.0,Renewed,None,0,31,No,5%,71.1,No,45
+RNW-0256,ACC-0596,Pinnacle Plumbing Systems,Growth,Tanya Oluoch,2025-06-24,7459.08,7459.08,0.0,Renewed,None,0,17,No,5%,77.4,No,69
+RNW-0257,ACC-0358,Summit Plumbing Associates,Starter,Emma Solis,2024-09-11,3665.28,3665.28,0.0,Renewed,None,0,32,No,None,68.8,No,48
+RNW-0258,ACC-0637,BlueStar Plumbing Systems,Pro,Felix Brennan,2025-03-10,22715.88,25539.47,2823.59,Renewed with Upsell,Extra Seats,2823.59,38,No,None,68.4,No,61
+RNW-0259,ACC-0162,Summit HVAC Professionals,Starter,Ravi Mehta,2024-09-04,3118.56,3118.56,0.0,Renewed,None,0,15,No,None,74.9,No,61
+RNW-0260,ACC-0397,National HVAC Technologies,Growth,Jordan Blake,2025-09-09,8965.2,8965.2,0.0,Renewed,None,0,54,No,None,83.6,No,55
+RNW-0261,ACC-0011,ProServ Plumbing Works,Enterprise,Omar Castillo,2024-11-05,45360.72,45360.72,0.0,Renewed,None,0,47,No,None,93.0,No,76
+RNW-0262,ACC-0234,Pinnacle Plumbing Partners,Starter,Ravi Mehta,2024-06-25,3410.88,0,-3410.88,Churned,None,0,51,No,None,85.4,No,56
+RNW-0263,ACC-0208,Elite HVAC Professionals,Enterprise,Lena Fischer,2025-07-27,55714.08,55714.08,0.0,Renewed,None,0,59,Yes,8%,82.4,Yes,52
+RNW-0264,ACC-0560,Summit Facilities Management Solutions,Growth,Tanya Oluoch,2024-06-07,10656.72,10656.72,0.0,Renewed,None,0,38,No,5%,50.0,No,60
+RNW-0265,ACC-0341,Heritage Facilities Management Systems,Starter,Sadia Islam,2024-07-10,4421.16,4942.64,521.48,Renewed with Upsell,Portal Pro,521.48,47,Yes,None,74.6,No,72
+RNW-0266,ACC-0123,Reliable Pest Control Professionals,Enterprise,Tanya Oluoch,2025-04-21,69685.2,85227.43,15542.23,Renewed with Upsell,Extra Seats,15542.23,39,No,None,56.0,Yes,46
+RNW-0267,ACC-0078,SwiftLine Pest Control Professionals,Starter,Tanya Oluoch,2024-09-15,3759.12,4457.9,698.78,Renewed with Upsell,Portal Pro,698.78,72,No,5%,68.6,No,51
+RNW-0268,ACC-0302,Allied Plumbing Professionals,Starter,Lena Fischer,2024-05-12,4718.4,4718.4,0.0,Renewed,None,0,33,No,8%,44.8,No,55
+RNW-0269,ACC-0264,ProServ HVAC Technologies,Pro,Emma Solis,2024-12-05,15845.52,15845.52,0.0,Renewed,None,0,74,Yes,5%,41.0,No,41
+RNW-0270,ACC-0232,National Pest Control Services,Starter,Omar Castillo,2025-01-14,3702.12,3702.12,0.0,Renewed,None,0,18,No,None,74.0,No,45
+RNW-0271,ACC-0201,National HVAC Technologies,Starter,Ravi Mehta,2025-11-03,4237.68,4237.68,0.0,Renewed,None,0,23,No,None,66.2,No,46
+RNW-0272,ACC-0363,Reliable HVAC Professionals,Starter,Sadia Islam,2024-01-30,3339.84,3339.84,0.0,Renewed,None,0,59,No,None,83.6,No,70
+RNW-0273,ACC-0286,Pinnacle Facilities Management Professionals,Starter,Omar Castillo,2025-03-26,3456.96,3456.96,0.0,Renewed,None,0,30,No,10%,81.0,No,63
+RNW-0274,ACC-0045,Allied Plumbing Experts,Starter,Ravi Mehta,2025-05-11,4000.2,0,-4000.2,Churned,None,0,40,No,None,90.2,No,64
+RNW-0275,ACC-0336,ProServ Landscaping Solutions,Pro,Omar Castillo,2024-11-01,20294.28,20294.28,0.0,Renewed,None,0,21,No,8%,84.4,No,45
+RNW-0276,ACC-0557,Heritage HVAC Solutions,Growth,Sadia Islam,2025-04-12,8045.4,8045.4,0.0,Renewed,None,0,41,Yes,5%,73.8,No,64
+RNW-0277,ACC-0484,Dynamic Plumbing Solutions,Growth,Sadia Islam,2025-09-13,9765.0,10872.41,1107.41,Renewed with Upsell,Portal Pro,1107.41,48,No,10%,75.9,No,88
+RNW-0278,ACC-0457,SwiftLine Landscaping Services,Pro,Felix Brennan,2024-09-19,20034.36,22071.52,2037.16,Renewed with Upsell,Portal Pro,2037.16,22,No,8%,73.0,No,37
+RNW-0279,ACC-0455,Allied Electrical Technologies,Growth,Emma Solis,2024-01-16,8182.56,8182.56,0.0,Renewed,None,0,56,No,None,66.6,No,81
+RNW-0280,ACC-0329,Heritage Plumbing Systems,Pro,Emma Solis,2024-04-20,24783.72,24783.72,0.0,Renewed,None,0,45,No,10%,68.1,Yes,49
+RNW-0281,ACC-0046,Dynamic Facilities Management Partners,Growth,Ravi Mehta,2024-09-25,7195.2,7195.2,0.0,Renewed,None,0,20,Yes,10%,71.0,No,79
+RNW-0282,ACC-0305,Allied Pest Control Partners,Starter,Emma Solis,2024-04-21,3783.6,3783.6,0.0,Renewed,None,0,16,Yes,None,79.8,No,73
+RNW-0283,ACC-0054,ProServ Pest Control Technologies,Starter,Ravi Mehta,2025-08-04,4178.16,5126.36,948.2,Renewed with Upsell,Analytics Add-On,948.2,54,No,8%,91.0,No,62
+RNW-0284,ACC-0629,Premier Facilities Management Works,Starter,Lena Fischer,2024-11-16,3284.76,3678.93,394.17,Renewed with Upsell,None,394.17,30,No,8%,69.2,No,87
+RNW-0285,ACC-0004,Regional Electrical Services,Pro,Jordan Blake,2025-11-21,24421.92,24421.92,0.0,Renewed,None,0,20,No,5%,94.8,Yes,34
+RNW-0286,ACC-0083,Apex HVAC Experts,Growth,Lena Fischer,2025-03-29,8501.52,8501.52,0.0,Renewed,None,0,45,Yes,None,76.4,No,54
+RNW-0287,ACC-0142,OneCall Electrical Technologies,Starter,Omar Castillo,2024-12-12,4622.4,4622.4,0.0,Renewed,None,0,26,Yes,8%,92.0,No,36
+RNW-0288,ACC-0517,SwiftLine HVAC Technologies,Pro,Omar Castillo,2024-10-15,15888.12,15888.12,0.0,Renewed,None,0,31,No,8%,65.3,Yes,30
+RNW-0289,ACC-0126,Regional Plumbing Experts,Growth,Felix Brennan,2024-07-15,11179.8,12077.97,898.17,Renewed with Upsell,Analytics Add-On,898.17,64,No,None,86.0,No,66
+RNW-0290,ACC-0224,OneCall Electrical Group,Growth,Sadia Islam,2025-02-16,8095.8,8095.8,0.0,Renewed,None,0,30,Yes,8%,72.8,No,69
+RNW-0291,ACC-0128,Heritage Plumbing Partners,Starter,Felix Brennan,2024-10-29,3169.8,3598.94,429.14,Renewed with Upsell,Analytics Add-On,429.14,23,No,5%,83.0,No,56
+RNW-0292,ACC-0231,Allied HVAC Associates,Growth,Emma Solis,2024-05-09,9328.68,9328.68,0.0,Renewed,None,0,66,No,10%,67.2,No,50
+RNW-0293,ACC-0133,Metro Pest Control Technologies,Growth,Felix Brennan,2024-05-12,8394.12,8394.12,0.0,Renewed,None,0,47,Yes,None,79.6,No,45
+RNW-0294,ACC-0115,Dynamic HVAC Works,Pro,Tanya Oluoch,2025-01-29,18541.56,18541.56,0.0,Renewed,None,0,34,No,None,67.8,Yes,32
+RNW-0295,ACC-0438,SwiftLine Electrical Professionals,Growth,Tanya Oluoch,2025-07-21,8869.8,6208.86,-2660.94,Downgraded,None,0,14,No,8%,77.2,No,64
+RNW-0296,ACC-0132,Allied Plumbing Experts,Pro,Emma Solis,2024-05-03,16587.72,16587.72,0.0,Renewed,None,0,69,Yes,None,54.0,No,45
+RNW-0297,ACC-0279,Premier Plumbing Solutions,Growth,Felix Brennan,2024-12-06,9958.2,9958.2,0.0,Renewed,None,0,73,No,5%,78.4,No,64
+RNW-0298,ACC-0025,Metro Other Services,Growth,Sadia Islam,2025-02-10,7599.12,7599.12,0.0,Renewed,None,0,69,No,10%,57.4,No,40
+RNW-0299,ACC-0036,Apex Plumbing Services,Starter,Emma Solis,2025-10-04,4971.6,5923.46,951.86,Renewed with Upsell,Parts Inventory,951.86,17,No,None,77.8,No,59
+RNW-0300,ACC-0404,SwiftLine HVAC Services,Pro,Sadia Islam,2025-07-09,20434.32,20434.32,0.0,Renewed,None,0,18,No,8%,71.0,No,40
+RNW-0301,ACC-0040,Regional Plumbing Group,Enterprise,Ravi Mehta,2024-07-28,66651.6,0,-66651.6,Churned,None,0,69,No,5%,88.4,No,55
+RNW-0302,ACC-0489,Heritage HVAC Experts,Pro,Sadia Islam,2025-01-10,17775.36,17775.36,0.0,Renewed,None,0,31,Yes,None,72.3,No,34
+RNW-0303,ACC-0139,Apex Pest Control Solutions,Starter,Felix Brennan,2025-07-28,4928.52,3449.96,-1478.56,Downgraded,None,0,17,No,None,72.2,No,83
+RNW-0304,ACC-0595,National HVAC Services,Starter,Felix Brennan,2025-04-10,3923.64,4834.36,910.72,Renewed with Upsell,Parts Inventory,910.72,53,No,10%,84.2,No,68
+RNW-0305,ACC-0538,Regional HVAC Technologies,Enterprise,Lena Fischer,2024-06-07,48911.16,48911.16,0.0,Renewed,None,0,56,No,None,71.8,Yes,64
+RNW-0306,ACC-0433,Regional HVAC Works,Starter,Felix Brennan,2025-08-20,4443.24,4978.25,535.01,Renewed with Upsell,Parts Inventory,535.01,59,No,None,83.6,No,65
+RNW-0307,ACC-0101,ProServ Plumbing Technologies,Growth,Sadia Islam,2025-10-14,7663.08,7663.08,0.0,Renewed,None,0,66,No,10%,76.2,No,71
+RNW-0308,ACC-0181,Apex Plumbing Solutions,Pro,Felix Brennan,2024-11-27,18561.12,18561.12,0.0,Renewed,None,0,36,Yes,None,70.8,No,39
+RNW-0309,ACC-0251,TrustWorks HVAC Systems,Growth,Sadia Islam,2024-09-02,11739.24,14168.1,2428.86,Renewed with Upsell,Portal Pro,2428.86,37,No,5%,57.9,No,84
+RNW-0310,ACC-0063,TrustWorks Plumbing Solutions,Growth,Lena Fischer,2025-06-11,8043.96,0,-8043.96,Churned,None,0,55,No,None,54.7,No,55

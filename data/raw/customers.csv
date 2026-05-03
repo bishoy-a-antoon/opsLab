@@ -1,0 +1,641 @@
+account_id,company,industry,state,plan,tech_count,mrr,arr,contract_months,start_date,renewal_date,csm_owner,health_score,health_status,logins_last_30d,jobs_dispatched_30d,mobile_adoption_pct,nps_score,open_p1p2_tickets,last_login_date,last_qbr_date,analytics_addon,inventory_addon,portal_pro_addon,churn_risk_flag,expansion_potential
+ACC-0001,Allied HVAC Systems,HVAC,WI,Growth,12,957.4,11488.8,24,2020-05-04,2022-04-24,Jordan Blake,62.5,Yellow,5,47,46,8,3,2025-05-24,,No,No,Yes,No,High
+ACC-0002,Premier HVAC Associates,HVAC,MN,Starter,1,371.59,4459.08,24,2023-05-09,2025-04-28,Sadia Islam,80.5,Green,15,47,94,8,5,2025-05-22,,No,Yes,Yes,No,Medium
+ACC-0003,SwiftLine Plumbing Group,Plumbing,AZ,Pro,23,1622.66,19471.92,12,2021-07-16,2022-07-11,Sadia Islam,62.8,Yellow,7,21,96,3,6,2025-05-13,2024-12-30,No,No,No,No,None
+ACC-0004,Regional Electrical Services,Electrical,NV,Pro,33,2035.16,24421.92,36,2024-08-15,2027-07-31,Jordan Blake,94.8,Green,29,57,89,7,0,2025-05-03,2025-02-07,No,No,Yes,No,None
+ACC-0005,Dynamic Pest Control Group,Pest Control,IN,Starter,4,312.45,3749.4,24,2019-12-25,2021-12-14,Lena Fischer,65.4,Yellow,12,5,77,8,1,2025-06-01,,No,No,No,No,Low
+ACC-0006,Apex Plumbing Works,Plumbing,VA,Growth,16,758.83,9105.96,24,2020-06-08,2022-05-29,Felix Brennan,76.3,Green,6,28,94,7,1,2025-06-01,,No,No,No,No,None
+ACC-0007,Summit HVAC Systems,HVAC,IN,Starter,4,323.39,3880.68,12,2021-04-09,2022-04-04,Ravi Mehta,80.2,Green,12,60,71,10,2,2025-04-27,,No,No,No,No,Medium
+ACC-0008,Apex Facilities Management Works,Facilities Management,WI,Pro,45,1687.91,20254.92,36,2024-08-04,2027-07-20,Omar Castillo,43.2,Yellow,8,7,23,0,1,2025-06-01,2025-03-03,Yes,No,No,No,High
+ACC-0009,RapidFix Pest Control Solutions,Pest Control,GA,Enterprise,171,4679.25,56151.0,24,2020-12-29,2022-12-19,Emma Solis,71.8,Green,27,15,89,2,5,2025-05-15,2025-04-03,No,No,No,No,High
+ACC-0010,Apex Pest Control Technologies,Pest Control,NY,Starter,1,369.45,4433.4,24,2022-03-25,2024-03-14,Ravi Mehta,77.0,Green,12,54,85,10,5,2025-05-24,,No,Yes,No,No,Low
+ACC-0011,ProServ Plumbing Works,Plumbing,VA,Enterprise,111,3780.06,45360.72,24,2019-09-13,2021-09-02,Omar Castillo,93.0,Green,33,19,99,10,1,2025-05-02,2025-04-17,No,No,Yes,No,Medium
+ACC-0012,National Plumbing Technologies,Plumbing,AZ,Starter,3,371.17,4454.04,12,2020-10-18,2021-10-13,Jordan Blake,32.4,Red,11,2,10,0,5,2025-05-02,,No,No,Yes,Yes,High
+ACC-0013,Regional Landscaping Associates,Landscaping,WI,Starter,3,309.12,3709.44,12,2020-01-15,2021-01-09,Jordan Blake,76.2,Green,35,49,26,5,2,2025-04-24,,No,Yes,No,No,Low
+ACC-0014,TrustWorks HVAC Group,HVAC,FL,Growth,8,644.32,7731.84,24,2023-07-30,2025-07-19,Emma Solis,67.1,Yellow,2,37,93,3,1,2025-04-28,,No,No,No,No,Low
+ACC-0015,Summit HVAC Systems,HVAC,FL,Growth,9,667.85,8014.2,36,2022-07-02,2025-06-16,Felix Brennan,75.8,Green,35,22,56,7,5,2025-05-02,,No,No,Yes,No,Low
+ACC-0016,SwiftLine Pest Control Experts,Pest Control,FL,Growth,9,705.51,8466.12,24,2024-10-09,2026-09-29,Jordan Blake,69.0,Yellow,12,47,60,7,5,2025-05-22,,No,No,No,No,High
+ACC-0017,Elite HVAC Technologies,HVAC,AZ,Starter,2,254.74,3056.88,12,2022-08-15,2023-08-10,Jordan Blake,88.8,Green,32,29,74,8,2,2025-04-17,,No,No,Yes,No,Low
+ACC-0018,BlueStar Electrical Experts,Electrical,NY,Starter,3,260.58,3126.96,12,2020-03-30,2021-03-25,Ravi Mehta,77.5,Green,17,55,16,10,1,2025-06-01,,No,No,No,No,Medium
+ACC-0019,Regional Pest Control Technologies,Pest Control,NC,Starter,5,297.57,3570.84,24,2020-02-29,2022-02-18,Felix Brennan,60.4,Yellow,20,3,90,0,6,2025-05-21,,No,Yes,Yes,No,High
+ACC-0020,TrustWorks HVAC Technologies,HVAC,VA,Enterprise,112,5456.92,65483.04,12,2020-08-25,2021-08-20,Felix Brennan,83.2,Green,13,37,90,6,1,2025-05-09,2025-03-26,No,Yes,No,No,Low
+ACC-0021,Heritage Facilities Management Associates,Facilities Management,PA,Growth,10,666.76,8001.12,36,2022-03-01,2025-02-13,Ravi Mehta,58.1,Yellow,18,1,49,2,1,2025-05-28,,No,Yes,No,No,Low
+ACC-0022,Summit Electrical Services,Electrical,CA,Growth,17,632.68,7592.16,12,2022-05-14,2023-05-09,Jordan Blake,72.4,Green,38,6,58,6,0,2025-05-24,,No,Yes,No,No,Low
+ACC-0023,TrustWorks Electrical Solutions,Electrical,AZ,Enterprise,62,5782.1,69385.2,24,2020-01-04,2021-12-24,Sadia Islam,43.2,Yellow,5,12,27,7,6,2025-05-11,2024-12-31,No,Yes,Yes,No,Medium
+ACC-0024,Dynamic HVAC Systems,HVAC,OH,Growth,6,633.68,7604.16,12,2021-01-28,2022-01-23,Omar Castillo,41.9,Yellow,9,0,38,0,1,2025-05-10,,No,Yes,No,No,None
+ACC-0025,Metro Other Services,Other,NV,Growth,12,633.26,7599.12,12,2024-10-09,2025-10-04,Sadia Islam,57.4,Yellow,4,39,52,1,2,2025-05-23,,No,No,No,No,Low
+ACC-0026,Reliable HVAC Group,HVAC,TX,Growth,14,834.34,10012.08,12,2021-01-08,2022-01-03,Emma Solis,86.8,Green,17,58,73,10,2,2025-05-23,,No,No,No,No,High
+ACC-0027,Pinnacle Facilities Management Systems,Facilities Management,WA,Growth,20,907.34,10888.08,24,2020-01-18,2022-01-07,Omar Castillo,60.6,Yellow,17,9,21,5,1,2025-05-12,,No,No,No,No,High
+ACC-0028,OneCall Electrical Experts,Electrical,MO,Growth,9,902.53,10830.36,12,2023-01-30,2024-01-25,Omar Castillo,84.6,Green,26,35,73,8,4,2025-05-18,,No,Yes,No,No,Low
+ACC-0029,Regional HVAC Works,HVAC,OH,Growth,5,672.3,8067.6,12,2024-03-08,2025-03-03,Sadia Islam,76.4,Green,35,30,27,1,0,2025-05-14,,No,Yes,No,No,Low
+ACC-0030,Premier HVAC Group,HVAC,OR,Starter,2,273.43,3281.16,36,2023-04-25,2026-04-09,Ravi Mehta,74.6,Green,24,46,13,6,2,2025-05-28,,No,No,No,No,None
+ACC-0031,Elite HVAC Professionals,HVAC,VA,Starter,2,266.82,3201.84,24,2022-08-09,2024-07-29,Ravi Mehta,62.1,Yellow,11,30,27,8,5,2025-05-11,,No,No,Yes,No,Medium
+ACC-0032,SwiftLine HVAC Partners,HVAC,OR,Starter,1,353.51,4242.12,24,2020-05-21,2022-05-11,Ravi Mehta,61.8,Yellow,0,25,64,10,3,2025-04-30,,No,No,No,No,High
+ACC-0033,Pinnacle HVAC Experts,HVAC,NV,Enterprise,83,4774.67,57296.04,12,2024-11-23,2025-11-18,Tanya Oluoch,70.4,Green,25,39,17,3,3,2025-05-28,2025-01-03,No,No,No,No,High
+ACC-0034,Elite Facilities Management Solutions,Facilities Management,MO,Starter,4,286.17,3434.04,12,2020-01-09,2021-01-03,Emma Solis,78.4,Green,23,38,52,0,1,2025-05-26,,Yes,Yes,Yes,No,Medium
+ACC-0035,National HVAC Group,HVAC,AZ,Starter,1,293.67,3524.04,24,2019-11-22,2021-11-11,Jordan Blake,84.2,Green,36,50,71,0,0,2025-06-01,,No,No,No,No,Low
+ACC-0036,Apex Plumbing Services,Plumbing,OR,Starter,3,414.3,4971.6,36,2023-05-10,2026-04-24,Emma Solis,77.8,Green,21,26,74,1,4,2025-05-08,,No,No,Yes,No,Medium
+ACC-0037,Pinnacle Pest Control Experts,Pest Control,WI,Starter,1,399.72,4796.64,36,2019-12-09,2022-11-23,Tanya Oluoch,88.7,Green,13,51,97,10,1,2025-04-24,,No,No,No,No,Medium
+ACC-0038,Apex Electrical Associates,Electrical,IN,Starter,4,260.73,3128.76,36,2023-05-30,2026-05-14,Omar Castillo,80.8,Green,15,13,88,9,0,2025-05-26,,Yes,Yes,No,No,None
+ACC-0039,Pinnacle Plumbing Professionals,Plumbing,NC,Growth,10,953.25,11439.0,12,2020-04-26,2021-04-21,Felix Brennan,80.4,Green,36,23,55,1,0,2025-05-02,,No,No,No,No,None
+ACC-0040,Regional Plumbing Group,Plumbing,VA,Enterprise,153,5554.3,66651.6,24,2021-08-30,2023-08-20,Ravi Mehta,88.4,Green,28,23,75,9,2,2025-04-30,2025-01-07,No,No,Yes,No,None
+ACC-0041,Metro HVAC Technologies,HVAC,TN,Pro,55,1280.7,15368.4,12,2024-03-13,2025-03-08,Felix Brennan,70.4,Green,24,10,82,6,6,2025-05-03,2025-04-09,No,No,No,No,High
+ACC-0042,National HVAC Associates,HVAC,IN,Starter,1,405.03,4860.36,24,2024-08-02,2026-07-23,Omar Castillo,67.4,Yellow,12,25,52,1,2,2025-05-19,,No,Yes,No,No,High
+ACC-0043,Regional HVAC Systems,HVAC,IN,Starter,4,278.08,3336.96,12,2020-08-11,2021-08-06,Jordan Blake,71.6,Green,38,49,58,0,6,2025-05-19,,Yes,Yes,Yes,No,High
+ACC-0044,BlueStar Electrical Partners,Electrical,IL,Starter,1,277.46,3329.52,24,2020-12-12,2022-12-02,Emma Solis,80.1,Green,19,55,67,6,4,2025-05-29,,Yes,No,No,No,Medium
+ACC-0045,Allied Plumbing Experts,Plumbing,NV,Starter,4,333.35,4000.2,36,2022-06-01,2025-05-16,Ravi Mehta,90.2,Green,27,22,98,9,3,2025-05-20,,Yes,No,No,No,Medium
+ACC-0046,Dynamic Facilities Management Partners,Facilities Management,WI,Growth,15,599.6,7195.2,24,2024-06-10,2026-05-31,Ravi Mehta,71.0,Green,31,55,50,1,6,2025-06-01,,No,Yes,No,No,None
+ACC-0047,Allied Pest Control Works,Pest Control,WA,Starter,2,323.25,3879.0,12,2022-06-23,2023-06-18,Omar Castillo,59.0,Yellow,13,22,36,3,5,2025-05-31,,No,No,Yes,No,High
+ACC-0048,TrustWorks Plumbing Systems,Plumbing,WA,Growth,18,729.37,8752.44,24,2024-01-22,2026-01-11,Omar Castillo,79.4,Green,33,48,52,1,1,2025-05-21,,No,No,No,No,High
+ACC-0049,Allied Electrical Associates,Electrical,VA,Starter,4,358.43,4301.16,24,2023-05-08,2025-04-27,Emma Solis,46.9,Yellow,5,51,23,1,5,2025-05-26,,No,No,Yes,No,High
+ACC-0050,OneCall Facilities Management Group,Facilities Management,WA,Growth,14,921.59,11059.08,12,2020-08-07,2021-08-02,Lena Fischer,67.0,Yellow,35,24,24,3,6,2025-05-03,,No,No,No,No,None
+ACC-0051,Allied Facilities Management Systems,Facilities Management,CA,Enterprise,189,4225.13,50701.56,36,2024-05-06,2027-04-21,Felix Brennan,89.3,Green,19,53,63,10,1,2025-06-01,2025-04-26,No,No,No,No,Medium
+ACC-0052,Dynamic Electrical Solutions,Electrical,TN,Starter,4,293.92,3527.04,24,2024-11-14,2026-11-04,Tanya Oluoch,72.0,Green,39,41,60,0,6,2025-05-21,,No,No,No,No,High
+ACC-0053,National Pest Control Technologies,Pest Control,FL,Starter,2,337.08,4044.96,24,2022-12-15,2024-12-04,Omar Castillo,84.6,Green,40,58,43,8,1,2025-05-27,,Yes,No,Yes,No,Low
+ACC-0054,ProServ Pest Control Technologies,Pest Control,AZ,Starter,1,348.18,4178.16,36,2019-07-22,2022-07-06,Ravi Mehta,91.0,Green,29,40,90,5,1,2025-05-20,,No,No,No,No,Medium
+ACC-0055,Apex HVAC Partners,HVAC,NC,Growth,9,835.37,10024.44,24,2022-12-29,2024-12-18,Emma Solis,72.0,Green,7,29,86,1,0,2025-05-21,,Yes,Yes,No,No,Medium
+ACC-0056,Dynamic HVAC Systems,HVAC,CO,Pro,26,1678.99,20147.88,24,2019-07-15,2021-07-04,Emma Solis,66.8,Yellow,31,40,19,3,5,2025-04-22,2025-01-07,No,Yes,No,No,None
+ACC-0057,Allied Electrical Solutions,Electrical,WI,Pro,60,1774.31,21291.72,12,2019-08-04,2020-07-29,Sadia Islam,88.6,Green,22,30,88,9,4,2025-05-16,2025-04-01,No,No,Yes,No,None
+ACC-0058,Apex Pest Control Partners,Pest Control,NC,Growth,11,927.42,11129.04,12,2020-01-22,2021-01-16,Jordan Blake,55.0,Yellow,20,8,38,1,5,2025-05-02,,No,Yes,No,No,Medium
+ACC-0059,Summit Facilities Management Associates,Facilities Management,OR,Growth,18,791.24,9494.88,12,2021-08-28,2022-08-23,Felix Brennan,65.8,Yellow,11,12,97,4,3,2025-05-13,,No,Yes,No,No,High
+ACC-0060,Metro Plumbing Professionals,Plumbing,IL,Pro,37,1946.81,23361.72,12,2022-11-27,2023-11-22,Omar Castillo,77.0,Green,27,12,82,5,2,2025-05-30,2024-12-23,No,No,No,No,Medium
+ACC-0061,Metro Facilities Management Technologies,Facilities Management,WA,Growth,16,747.28,8967.36,12,2020-01-21,2021-01-15,Sadia Islam,79.6,Green,27,50,33,5,1,2025-05-09,,No,No,Yes,No,None
+ACC-0062,BlueStar HVAC Experts,HVAC,PA,Starter,3,289.3,3471.6,12,2022-08-06,2023-08-01,Tanya Oluoch,61.0,Yellow,35,4,59,4,4,2025-05-26,,No,No,Yes,No,High
+ACC-0063,TrustWorks Plumbing Solutions,Plumbing,NV,Growth,15,670.33,8043.96,24,2019-09-10,2021-08-30,Lena Fischer,54.7,Yellow,2,17,63,1,0,2025-05-12,,No,Yes,Yes,No,Medium
+ACC-0064,RapidFix Facilities Management Services,Facilities Management,CO,Starter,5,416.62,4999.44,24,2024-07-11,2026-07-01,Felix Brennan,59.2,Yellow,8,53,61,0,4,2025-04-21,,Yes,Yes,No,No,None
+ACC-0065,Premier Plumbing Systems,Plumbing,AZ,Pro,39,1500.6,18007.2,12,2023-08-22,2024-08-16,Omar Castillo,60.2,Yellow,5,35,50,7,4,2025-04-18,2025-01-06,No,No,Yes,No,Medium
+ACC-0066,Pinnacle HVAC Group,HVAC,PA,Enterprise,117,3680.5,44166.0,12,2019-06-22,2020-06-16,Emma Solis,93.6,Green,20,55,98,6,1,2025-05-09,2024-12-16,Yes,No,Yes,No,Medium
+ACC-0067,Pinnacle HVAC Solutions,HVAC,OR,Pro,23,2055.02,24660.24,12,2019-11-01,2020-10-26,Sadia Islam,75.6,Green,39,50,58,4,5,2025-05-03,2025-04-02,No,No,No,No,High
+ACC-0068,Reliable Pest Control Partners,Pest Control,FL,Growth,12,816.32,9795.84,24,2023-02-14,2025-02-03,Felix Brennan,87.2,Green,20,49,71,3,0,2025-05-10,,No,No,No,No,None
+ACC-0069,RapidFix Plumbing Experts,Plumbing,CO,Starter,2,256.31,3075.72,24,2020-08-16,2022-08-06,Omar Castillo,67.6,Yellow,12,31,23,5,1,2025-05-13,,No,No,No,No,None
+ACC-0070,Pinnacle HVAC Partners,HVAC,OR,Pro,43,1592.04,19104.48,24,2021-12-13,2023-12-03,Tanya Oluoch,61.2,Yellow,25,12,18,4,3,2025-04-21,2025-04-06,No,No,Yes,No,None
+ACC-0071,Regional Landscaping Systems,Landscaping,PA,Starter,2,298.02,3576.24,36,2022-01-31,2025-01-15,Lena Fischer,75.8,Green,22,16,25,8,0,2025-05-23,,No,No,No,No,Medium
+ACC-0072,Reliable HVAC Experts,HVAC,NV,Starter,1,262.23,3146.76,36,2021-07-23,2024-07-07,Omar Castillo,65.2,Yellow,12,18,34,6,1,2025-05-01,,No,Yes,Yes,No,Low
+ACC-0073,Heritage HVAC Systems,HVAC,TN,Enterprise,73,5637.59,67651.08,12,2022-08-22,2023-08-17,Tanya Oluoch,56.4,Yellow,4,34,22,4,1,2025-05-26,2025-03-07,No,No,No,No,Low
+ACC-0074,Elite Plumbing Technologies,Plumbing,IL,Pro,38,1856.09,22273.08,36,2021-01-10,2023-12-26,Jordan Blake,59.1,Yellow,6,11,74,9,3,2025-05-12,2025-04-15,No,Yes,No,No,High
+ACC-0075,Regional HVAC Professionals,HVAC,OR,Starter,4,324.52,3894.24,12,2019-07-13,2020-07-07,Felix Brennan,49.2,Yellow,4,10,96,0,4,2025-06-01,,No,Yes,No,No,None
+ACC-0076,National HVAC Professionals,HVAC,IN,Starter,3,391.52,4698.24,24,2022-05-11,2024-04-30,Ravi Mehta,57.6,Yellow,9,49,22,1,2,2025-05-10,,No,No,No,No,Medium
+ACC-0077,Allied HVAC Solutions,HVAC,VA,Starter,3,303.67,3644.04,24,2021-04-14,2023-04-04,Lena Fischer,64.8,Yellow,7,17,97,8,5,2025-05-18,,No,No,No,No,None
+ACC-0078,SwiftLine Pest Control Professionals,Pest Control,WI,Starter,4,313.26,3759.12,12,2023-08-03,2024-07-28,Tanya Oluoch,68.6,Yellow,24,40,23,4,5,2025-05-21,,No,No,No,No,Medium
+ACC-0079,Regional Plumbing Partners,Plumbing,NY,Starter,3,305.02,3660.24,24,2019-08-24,2021-08-13,Sadia Islam,67.6,Yellow,39,7,65,7,4,2025-06-01,,No,No,No,No,High
+ACC-0080,TrustWorks Electrical Services,Electrical,PA,Growth,14,833.97,10007.64,12,2023-02-20,2024-02-15,Felix Brennan,72.0,Green,31,18,18,4,0,2025-05-14,,Yes,Yes,No,No,Medium
+ACC-0081,Reliable Plumbing Solutions,Plumbing,PA,Starter,1,262.36,3148.32,12,2020-03-09,2021-03-04,Felix Brennan,88.2,Green,32,42,81,2,0,2025-05-05,,Yes,No,No,No,None
+ACC-0082,Dynamic Plumbing Works,Plumbing,OR,Growth,17,756.6,9079.2,12,2024-11-01,2025-10-27,Felix Brennan,72.5,Green,19,38,49,2,4,2025-05-24,,No,No,No,No,High
+ACC-0083,Apex HVAC Experts,HVAC,MN,Growth,7,708.46,8501.52,36,2024-08-11,2027-07-27,Lena Fischer,76.4,Green,34,11,58,6,0,2025-04-18,,No,No,No,No,High
+ACC-0084,ProServ Plumbing Associates,Plumbing,WI,Starter,4,330.01,3960.12,24,2024-07-12,2026-07-02,Jordan Blake,64.4,Yellow,26,5,27,9,2,2025-05-09,,No,No,No,No,None
+ACC-0085,Summit Plumbing Works,Plumbing,NV,Pro,45,1826.6,21919.2,24,2022-01-03,2023-12-24,Lena Fischer,30.1,Red,3,5,17,4,6,2025-05-26,2025-02-17,No,No,No,Yes,None
+ACC-0086,ProServ Electrical Solutions,Electrical,AZ,Starter,5,375.74,4508.88,36,2019-09-17,2022-09-01,Tanya Oluoch,78.4,Green,33,9,81,7,1,2025-04-22,,No,No,Yes,No,High
+ACC-0087,RapidFix HVAC Professionals,HVAC,TN,Growth,7,594.16,7129.92,12,2022-10-19,2023-10-14,Emma Solis,65.8,Yellow,15,13,23,7,0,2025-05-29,,Yes,No,No,No,High
+ACC-0088,Allied Facilities Management Solutions,Facilities Management,OH,Enterprise,199,4171.23,50054.76,36,2022-11-06,2025-10-21,Lena Fischer,60.6,Yellow,39,7,65,2,5,2025-04-20,2025-03-02,No,No,No,No,High
+ACC-0089,Dynamic HVAC Systems,HVAC,OH,Growth,8,962.87,11554.44,12,2022-03-06,2023-03-01,Felix Brennan,84.0,Green,25,24,99,1,3,2025-05-31,,No,No,Yes,No,High
+ACC-0090,Pinnacle HVAC Works,HVAC,WI,Starter,5,327.24,3926.88,12,2024-07-03,2025-06-28,Ravi Mehta,87.6,Green,29,56,68,4,0,2025-04-30,,No,No,No,No,None
+ACC-0091,OneCall HVAC Systems,HVAC,IN,Starter,5,309.95,3719.4,12,2023-06-04,2024-05-29,Felix Brennan,71.8,Green,19,59,60,1,6,2025-04-24,,No,No,No,No,Low
+ACC-0092,Summit Electrical Professionals,Electrical,IN,Growth,16,818.86,9826.32,24,2024-01-25,2026-01-14,Emma Solis,37.3,Red,2,1,30,3,0,2025-05-12,,No,No,No,Yes,None
+ACC-0093,Metro HVAC Professionals,HVAC,WA,Pro,44,1897.28,22767.36,12,2021-10-08,2022-10-03,Jordan Blake,57.6,Yellow,39,16,24,0,6,2025-04-24,2025-04-25,No,No,Yes,No,High
+ACC-0094,Pinnacle Other Systems,Other,WI,Starter,5,345.66,4147.92,12,2020-07-05,2021-06-30,Lena Fischer,80.2,Green,28,43,46,3,1,2025-05-20,,Yes,No,Yes,No,None
+ACC-0095,OneCall Facilities Management Technologies,Facilities Management,PA,Starter,1,313.28,3759.36,24,2021-09-13,2023-09-03,Emma Solis,80.2,Green,21,11,97,10,4,2025-04-26,,No,No,No,No,Medium
+ACC-0096,RapidFix Electrical Partners,Electrical,NY,Growth,9,902.32,10827.84,24,2021-11-15,2023-11-05,Omar Castillo,46.0,Yellow,4,36,20,2,6,2025-05-25,,No,Yes,Yes,No,Medium
+ACC-0097,SwiftLine Facilities Management Associates,Facilities Management,GA,Starter,3,405.82,4869.84,24,2020-10-27,2022-10-17,Sadia Islam,60.0,Yellow,4,55,30,4,0,2025-04-29,,No,No,Yes,No,None
+ACC-0098,BlueStar Landscaping Experts,Landscaping,CO,Growth,13,845.29,10143.48,12,2019-08-06,2020-07-31,Omar Castillo,63.0,Yellow,16,12,52,0,1,2025-04-20,,Yes,Yes,No,No,None
+ACC-0099,Metro Electrical Experts,Electrical,IN,Pro,59,1853.81,22245.72,12,2023-09-15,2024-09-09,Sadia Islam,61.6,Yellow,4,60,63,9,5,2025-05-24,2025-02-22,Yes,Yes,Yes,No,High
+ACC-0100,Heritage Electrical Services,Electrical,MO,Growth,18,777.76,9333.12,12,2023-10-18,2024-10-12,Jordan Blake,36.5,Red,3,1,35,8,4,2025-05-02,,Yes,No,No,Yes,Low
+ACC-0101,ProServ Plumbing Technologies,Plumbing,FL,Growth,9,638.59,7663.08,24,2020-01-28,2022-01-17,Sadia Islam,76.2,Green,22,12,53,6,0,2025-04-25,,Yes,Yes,No,No,None
+ACC-0102,Regional HVAC Associates,HVAC,GA,Enterprise,123,5447.16,65365.92,12,2019-11-04,2020-10-29,Ravi Mehta,64.0,Yellow,28,11,46,0,2,2025-05-14,2025-03-30,No,No,Yes,No,None
+ACC-0103,SwiftLine Landscaping Partners,Landscaping,GA,Starter,2,335.54,4026.48,12,2023-07-15,2024-07-09,Tanya Oluoch,74.6,Green,28,45,48,5,6,2025-04-29,,No,No,Yes,No,None
+ACC-0104,Summit Plumbing Works,Plumbing,OH,Starter,5,334.11,4009.32,12,2019-11-08,2020-11-02,Ravi Mehta,77.0,Green,33,14,49,8,1,2025-05-30,,No,No,No,No,High
+ACC-0105,OneCall HVAC Services,HVAC,TN,Enterprise,68,4194.39,50332.68,24,2022-09-17,2024-09-06,Felix Brennan,45.6,Yellow,5,3,45,9,3,2025-05-08,2025-01-09,Yes,Yes,No,No,High
+ACC-0106,Reliable Plumbing Associates,Plumbing,PA,Starter,1,362.75,4353.0,24,2019-08-04,2021-07-24,Sadia Islam,58.6,Yellow,1,58,87,5,6,2025-05-31,,No,No,No,No,High
+ACC-0107,RapidFix Landscaping Partners,Landscaping,IL,Pro,23,1939.81,23277.72,24,2022-07-08,2024-06-27,Felix Brennan,81.8,Green,34,29,64,9,5,2025-05-08,2025-01-03,No,Yes,Yes,No,Medium
+ACC-0108,Reliable Landscaping Works,Landscaping,NC,Pro,25,2097.62,25171.44,24,2023-09-27,2025-09-16,Felix Brennan,74.0,Green,21,36,60,0,4,2025-04-20,2025-02-27,Yes,Yes,No,No,Medium
+ACC-0109,SwiftLine Facilities Management Technologies,Facilities Management,VA,Pro,48,1655.64,19867.68,12,2021-11-17,2022-11-12,Lena Fischer,59.3,Yellow,2,22,71,10,6,2025-05-29,2024-12-05,Yes,No,No,No,None
+ACC-0110,Premier HVAC Technologies,HVAC,NY,Growth,13,693.93,8327.16,12,2022-03-10,2023-03-05,Tanya Oluoch,63.4,Yellow,40,11,28,9,5,2025-04-21,,Yes,Yes,No,No,Medium
+ACC-0111,Regional Pest Control Group,Pest Control,FL,Starter,1,410.66,4927.92,12,2020-11-12,2021-11-07,Jordan Blake,80.0,Green,22,34,15,9,1,2025-04-30,,No,Yes,Yes,No,Low
+ACC-0112,Dynamic Electrical Works,Electrical,IN,Starter,4,265.89,3190.68,12,2021-10-21,2022-10-16,Ravi Mehta,60.6,Yellow,1,20,87,5,2,2025-05-14,,Yes,Yes,No,No,None
+ACC-0113,Regional HVAC Technologies,HVAC,TN,Starter,5,258.35,3100.2,12,2022-10-30,2023-10-25,Sadia Islam,84.0,Green,32,45,75,9,5,2025-04-25,,Yes,No,No,No,High
+ACC-0114,Premier Electrical Associates,Electrical,IN,Pro,24,2064.49,24773.88,24,2020-09-02,2022-08-23,Omar Castillo,73.0,Green,34,46,25,8,6,2025-04-20,2024-12-19,No,No,No,No,Low
+ACC-0115,Dynamic HVAC Works,HVAC,FL,Pro,35,1545.13,18541.56,12,2023-11-23,2024-11-17,Tanya Oluoch,67.8,Yellow,29,20,24,3,3,2025-05-10,2024-12-10,Yes,No,No,No,Low
+ACC-0116,Summit Plumbing Group,Plumbing,VA,Growth,9,950.04,11400.48,24,2020-10-14,2022-10-04,Ravi Mehta,73.0,Green,38,16,46,5,2,2025-05-06,,No,No,No,No,Low
+ACC-0117,Pinnacle Facilities Management Group,Facilities Management,OH,Pro,20,1411.64,16939.68,12,2021-10-05,2022-09-30,Lena Fischer,47.7,Yellow,6,8,14,6,0,2025-04-30,2024-12-18,No,No,No,No,Low
+ACC-0118,TrustWorks Electrical Systems,Electrical,AZ,Starter,3,273.72,3284.64,12,2024-06-11,2025-06-06,Emma Solis,42.7,Yellow,2,4,55,7,3,2025-05-02,,No,No,No,No,None
+ACC-0119,Reliable HVAC Group,HVAC,GA,Starter,5,314.98,3779.76,24,2023-01-20,2025-01-09,Omar Castillo,74.4,Green,20,28,32,8,5,2025-05-13,,No,No,Yes,No,High
+ACC-0120,National Plumbing Group,Plumbing,WA,Starter,2,410.96,4931.52,36,2019-08-25,2022-08-09,Tanya Oluoch,80.0,Green,27,33,45,9,4,2025-05-14,,No,Yes,No,No,Medium
+ACC-0121,BlueStar HVAC Experts,HVAC,WI,Growth,10,705.06,8460.72,12,2024-07-23,2025-07-18,Emma Solis,73.5,Green,14,42,45,2,0,2025-05-22,,Yes,No,Yes,No,Low
+ACC-0122,Summit Facilities Management Group,Facilities Management,MN,Starter,1,314.92,3779.04,24,2020-12-29,2022-12-19,Omar Castillo,78.2,Green,28,33,26,7,2,2025-05-05,,No,No,Yes,No,Low
+ACC-0123,Reliable Pest Control Professionals,Pest Control,WI,Enterprise,89,5807.1,69685.2,12,2023-12-02,2024-11-26,Tanya Oluoch,56.0,Yellow,4,20,30,8,2,2025-04-19,2025-04-14,No,Yes,No,No,None
+ACC-0124,Heritage Facilities Management Technologies,Facilities Management,PA,Enterprise,141,4009.82,48117.84,36,2022-07-18,2025-07-02,Jordan Blake,73.2,Green,40,40,11,3,1,2025-05-16,2025-01-02,No,No,No,No,High
+ACC-0125,BlueStar HVAC Solutions,HVAC,CA,Starter,1,410.51,4926.12,36,2024-03-21,2027-03-06,Tanya Oluoch,47.6,Yellow,0,27,18,7,4,2025-05-06,,No,No,No,No,Low
+ACC-0126,Regional Plumbing Experts,Plumbing,IN,Growth,10,931.65,11179.8,12,2024-02-16,2025-02-10,Felix Brennan,86.0,Green,31,31,90,6,4,2025-05-14,,Yes,Yes,Yes,No,Medium
+ACC-0127,Heritage Plumbing Solutions,Plumbing,IN,Starter,2,363.08,4356.96,12,2020-01-24,2021-01-18,Lena Fischer,69.8,Yellow,20,42,24,5,5,2025-05-01,,No,No,No,No,None
+ACC-0128,Heritage Plumbing Partners,Plumbing,CA,Starter,4,264.15,3169.8,12,2023-09-28,2024-09-22,Felix Brennan,83.0,Green,20,26,60,7,3,2025-05-15,,No,No,No,No,Medium
+ACC-0129,Apex HVAC Associates,HVAC,MO,Growth,19,751.7,9020.4,12,2022-08-16,2023-08-11,Tanya Oluoch,78.2,Green,40,7,88,9,2,2025-05-31,,Yes,No,Yes,No,Medium
+ACC-0130,SwiftLine Pest Control Systems,Pest Control,GA,Pro,55,1326.47,15917.64,24,2019-09-09,2021-08-29,Tanya Oluoch,69.0,Yellow,23,34,35,2,6,2025-05-14,2025-03-22,No,No,No,No,Low
+ACC-0131,Elite HVAC Partners,HVAC,TX,Growth,5,608.02,7296.24,24,2019-07-12,2021-07-01,Emma Solis,82.4,Green,32,25,72,0,1,2025-05-18,,No,Yes,No,No,None
+ACC-0132,Allied Plumbing Experts,Plumbing,NV,Pro,45,1382.31,16587.72,12,2023-07-26,2024-07-20,Emma Solis,54.0,Yellow,4,4,74,6,0,2025-05-23,2025-04-08,No,Yes,No,No,Medium
+ACC-0133,Metro Pest Control Technologies,Pest Control,VA,Growth,14,699.51,8394.12,12,2020-07-20,2021-07-15,Felix Brennan,79.6,Green,36,30,58,4,3,2025-04-27,,No,No,No,No,Low
+ACC-0134,ProServ Other Professionals,Other,WA,Starter,4,410.62,4927.44,24,2023-09-10,2025-08-30,Emma Solis,71.8,Green,28,14,83,0,3,2025-05-02,,Yes,No,No,No,Medium
+ACC-0135,OneCall Electrical Experts,Electrical,OR,Starter,1,269.84,3238.08,12,2020-05-12,2021-05-07,Lena Fischer,62.0,Yellow,37,15,20,2,3,2025-05-18,,Yes,No,No,No,High
+ACC-0136,SwiftLine HVAC Professionals,HVAC,MO,Starter,2,260.15,3121.8,24,2023-04-12,2025-04-01,Omar Castillo,51.2,Yellow,0,17,98,3,6,2025-05-01,,No,No,No,No,Medium
+ACC-0137,Summit Plumbing Solutions,Plumbing,PA,Growth,7,948.32,11379.84,36,2021-10-19,2024-10-03,Emma Solis,52.6,Yellow,24,8,11,2,4,2025-05-04,,Yes,Yes,No,No,High
+ACC-0138,Elite Facilities Management Partners,Facilities Management,WI,Starter,4,277.15,3325.8,24,2024-04-25,2026-04-15,Omar Castillo,54.4,Yellow,25,0,47,1,3,2025-05-12,,No,No,No,No,Low
+ACC-0139,Apex Pest Control Solutions,Pest Control,WI,Starter,5,410.71,4928.52,24,2021-06-30,2023-06-20,Felix Brennan,72.2,Green,30,29,36,5,5,2025-04-17,,No,Yes,No,No,High
+ACC-0140,TrustWorks Plumbing Associates,Plumbing,IL,Starter,1,305.43,3665.16,12,2020-06-19,2021-06-14,Emma Solis,81.4,Green,34,29,52,1,0,2025-05-28,,No,No,No,No,Medium
+ACC-0141,SwiftLine Landscaping Technologies,Landscaping,FL,Growth,13,703.41,8440.92,24,2024-07-10,2026-06-30,Felix Brennan,78.2,Green,23,39,61,4,4,2025-04-25,,No,Yes,No,No,Medium
+ACC-0142,OneCall Electrical Technologies,Electrical,IL,Starter,2,385.2,4622.4,36,2022-09-15,2025-08-30,Omar Castillo,92.0,Green,21,36,85,9,2,2025-06-01,,No,Yes,Yes,No,Low
+ACC-0143,OneCall Plumbing Works,Plumbing,AZ,Starter,1,307.32,3687.84,12,2024-06-08,2025-06-03,Ravi Mehta,79.2,Green,32,51,66,6,5,2025-04-30,,Yes,Yes,No,No,High
+ACC-0144,Reliable Pest Control Solutions,Pest Control,VA,Pro,42,1531.18,18374.16,12,2022-05-05,2023-04-30,Emma Solis,69.4,Yellow,38,53,37,2,5,2025-04-27,2025-01-09,No,No,No,No,None
+ACC-0145,SwiftLine Plumbing Technologies,Plumbing,TN,Growth,16,662.59,7951.08,12,2024-04-08,2025-04-03,Lena Fischer,77.8,Green,22,46,64,3,4,2025-05-09,,No,No,Yes,No,Low
+ACC-0146,Premier Electrical Partners,Electrical,IN,Growth,5,819.51,9834.12,12,2021-04-03,2022-03-29,Sadia Islam,72.2,Green,16,32,11,9,2,2025-05-07,,Yes,No,No,No,Medium
+ACC-0147,SwiftLine Other Group,Other,CA,Growth,5,926.0,11112.0,24,2024-08-12,2026-08-02,Lena Fischer,72.8,Green,31,11,70,10,6,2025-05-09,,Yes,No,No,No,Low
+ACC-0148,SwiftLine HVAC Partners,HVAC,PA,Pro,46,1961.79,23541.48,12,2020-01-31,2021-01-25,Lena Fischer,78.4,Green,40,45,17,5,0,2025-04-21,2025-04-28,No,No,No,No,Low
+ACC-0149,Metro Electrical Technologies,Electrical,WI,Pro,43,1699.85,20398.2,36,2024-09-08,2027-08-24,Omar Castillo,99.0,Green,26,53,95,10,0,2025-05-23,2025-02-23,Yes,Yes,No,No,None
+ACC-0150,National HVAC Professionals,HVAC,OR,Starter,5,321.45,3857.4,36,2022-12-23,2025-12-07,Jordan Blake,83.6,Green,19,17,81,5,0,2025-04-18,,Yes,No,No,No,None
+ACC-0151,Regional HVAC Professionals,HVAC,FL,Starter,1,284.68,3416.16,36,2022-09-23,2025-09-07,Jordan Blake,52.7,Yellow,10,50,11,3,5,2025-05-17,,No,No,No,No,Low
+ACC-0152,Pinnacle Plumbing Partners,Plumbing,NC,Starter,3,283.42,3401.04,24,2020-03-14,2022-03-04,Sadia Islam,70.0,Green,26,14,34,4,1,2025-04-18,,No,No,Yes,No,High
+ACC-0153,SwiftLine Plumbing Associates,Plumbing,PA,Starter,5,328.1,3937.2,36,2022-12-14,2025-11-28,Ravi Mehta,68.3,Yellow,2,60,84,6,1,2025-04-18,,No,No,No,No,Low
+ACC-0154,TrustWorks Other Partners,Other,CA,Starter,5,390.62,4687.44,12,2023-11-13,2024-11-07,Emma Solis,79.2,Green,32,49,36,4,1,2025-05-25,,No,No,No,No,High
+ACC-0155,Dynamic Plumbing Professionals,Plumbing,CO,Growth,17,847.24,10166.88,12,2024-06-19,2025-06-14,Sadia Islam,61.5,Yellow,6,40,55,0,1,2025-05-11,,Yes,Yes,No,No,Medium
+ACC-0156,Regional Electrical Associates,Electrical,CO,Starter,1,326.34,3916.08,24,2022-11-14,2024-11-03,Omar Castillo,72.2,Green,25,30,41,4,5,2025-05-02,,No,No,Yes,No,Low
+ACC-0157,Elite Landscaping Associates,Landscaping,WI,Pro,52,1363.07,16356.84,12,2021-10-20,2022-10-15,Omar Castillo,62.8,Yellow,37,1,30,8,1,2025-05-20,2024-12-08,No,Yes,No,No,None
+ACC-0158,Pinnacle HVAC Partners,HVAC,AZ,Enterprise,96,5421.44,65057.28,24,2021-12-26,2023-12-16,Ravi Mehta,68.8,Yellow,29,0,94,2,1,2025-05-27,2025-03-16,No,Yes,No,No,None
+ACC-0159,BlueStar HVAC Professionals,HVAC,TN,Growth,16,596.05,7152.6,12,2020-04-22,2021-04-17,Emma Solis,85.4,Green,30,35,97,6,5,2025-05-03,,No,Yes,No,No,Low
+ACC-0160,OneCall Landscaping Associates,Landscaping,TX,Starter,4,381.31,4575.72,12,2024-06-13,2025-06-08,Omar Castillo,82.6,Green,38,25,78,1,2,2025-05-18,,No,Yes,No,No,Medium
+ACC-0161,Elite Facilities Management Systems,Facilities Management,FL,Starter,5,352.68,4232.16,12,2021-08-24,2022-08-19,Tanya Oluoch,59.8,Yellow,8,31,34,0,1,2025-05-11,,No,No,No,No,High
+ACC-0162,Summit HVAC Professionals,HVAC,FL,Starter,4,259.88,3118.56,24,2024-10-15,2026-10-05,Ravi Mehta,74.9,Green,10,25,97,8,6,2025-05-10,,Yes,No,No,No,None
+ACC-0163,Reliable HVAC Group,HVAC,NV,Starter,5,317.3,3807.6,12,2021-12-18,2022-12-13,Lena Fischer,71.2,Green,25,27,16,4,3,2025-05-04,,No,No,No,No,Medium
+ACC-0164,BlueStar HVAC Experts,HVAC,NV,Starter,4,341.59,4099.08,36,2021-07-25,2024-07-09,Emma Solis,51.9,Yellow,9,0,53,9,2,2025-05-03,,No,Yes,No,No,Medium
+ACC-0165,Allied Facilities Management Experts,Facilities Management,NC,Starter,4,314.52,3774.24,24,2024-05-26,2026-05-16,Sadia Islam,81.6,Green,16,27,53,10,2,2025-05-21,,No,No,No,No,None
+ACC-0166,Metro HVAC Experts,HVAC,NY,Growth,6,823.2,9878.4,36,2021-06-01,2024-05-16,Jordan Blake,83.0,Green,34,47,60,3,1,2025-05-24,,No,No,No,No,High
+ACC-0167,Apex Plumbing Associates,Plumbing,NY,Pro,49,1842.19,22106.28,36,2020-10-12,2023-09-27,Lena Fischer,45.9,Yellow,2,4,51,5,0,2025-05-08,2024-12-22,Yes,No,No,No,High
+ACC-0168,Elite HVAC Associates,HVAC,WI,Starter,3,372.82,4473.84,12,2023-07-31,2024-07-25,Omar Castillo,65.5,Yellow,7,50,34,9,2,2025-04-28,,No,No,Yes,No,Medium
+ACC-0169,Pinnacle HVAC Partners,HVAC,NC,Growth,18,699.79,8397.48,12,2023-04-11,2024-04-05,Felix Brennan,76.0,Green,32,42,15,9,3,2025-06-01,,No,Yes,Yes,No,High
+ACC-0170,National HVAC Technologies,HVAC,FL,Growth,19,824.47,9893.64,36,2024-11-19,2027-11-04,Sadia Islam,41.3,Yellow,6,14,38,0,5,2025-04-23,,No,No,No,No,High
+ACC-0171,TrustWorks HVAC Professionals,HVAC,PA,Growth,17,777.0,9324.0,12,2022-07-17,2023-07-12,Sadia Islam,81.8,Green,21,20,54,7,1,2025-04-28,,No,No,No,No,Medium
+ACC-0172,Elite Pest Control Works,Pest Control,MN,Starter,5,413.29,4959.48,24,2022-12-15,2024-12-04,Sadia Islam,58.0,Yellow,5,13,77,5,2,2025-04-19,,No,Yes,No,No,Low
+ACC-0173,Summit Electrical Group,Electrical,TN,Growth,18,977.0,11724.0,12,2019-07-18,2020-07-12,Lena Fischer,74.6,Green,15,24,78,2,3,2025-05-19,,No,Yes,No,No,Low
+ACC-0174,Summit Pest Control Works,Pest Control,WI,Pro,45,1727.66,20731.92,12,2021-05-21,2022-05-16,Omar Castillo,68.6,Yellow,38,17,50,5,5,2025-04-28,2024-12-17,No,Yes,No,No,High
+ACC-0175,TrustWorks HVAC Solutions,HVAC,NY,Pro,48,1403.56,16842.72,12,2024-04-23,2025-04-18,Omar Castillo,58.1,Yellow,18,0,78,5,6,2025-05-08,2024-12-05,No,No,No,No,Low
+ACC-0176,OneCall Electrical Group,Electrical,WA,Growth,9,828.55,9942.6,12,2022-03-27,2023-03-22,Omar Castillo,60.9,Yellow,1,20,88,3,1,2025-05-31,,No,No,No,No,Low
+ACC-0177,BlueStar Pest Control Associates,Pest Control,MN,Growth,12,661.51,7938.12,36,2024-09-01,2027-08-17,Tanya Oluoch,66.8,Yellow,20,8,47,1,0,2025-05-03,,No,No,No,No,Low
+ACC-0178,Premier Other Systems,Other,WI,Pro,52,1802.94,21635.28,24,2023-12-02,2025-11-21,Sadia Islam,64.3,Yellow,10,15,69,1,0,2025-05-02,2025-01-24,Yes,No,No,No,None
+ACC-0179,Heritage Electrical Experts,Electrical,MN,Growth,5,762.74,9152.88,36,2024-01-21,2027-01-05,Jordan Blake,75.5,Green,18,51,60,0,2,2025-05-05,,Yes,Yes,No,No,Medium
+ACC-0180,Reliable Electrical Group,Electrical,CO,Pro,27,1869.4,22432.8,24,2021-06-20,2023-06-10,Sadia Islam,69.5,Yellow,9,58,41,7,1,2025-04-21,2025-04-14,No,No,No,No,Low
+ACC-0181,Apex Plumbing Solutions,Plumbing,WI,Pro,48,1546.76,18561.12,36,2021-12-09,2024-11-23,Felix Brennan,70.8,Green,36,17,86,0,6,2025-05-14,2025-04-26,No,No,No,No,Medium
+ACC-0182,Elite Pest Control Systems,Pest Control,NC,Starter,5,358.39,4300.68,36,2022-01-29,2025-01-13,Lena Fischer,74.3,Green,18,9,98,2,1,2025-04-22,,No,Yes,No,No,Medium
+ACC-0183,Apex HVAC Associates,HVAC,WI,Starter,3,372.74,4472.88,24,2023-08-05,2025-07-25,Omar Castillo,71.2,Green,30,39,31,5,5,2025-05-12,,No,No,No,No,Low
+ACC-0184,Apex Plumbing Partners,Plumbing,NV,Pro,50,2013.79,24165.48,36,2019-06-30,2022-06-14,Emma Solis,72.0,Green,21,14,49,3,1,2025-05-25,2025-03-13,No,No,No,No,None
+ACC-0185,RapidFix Facilities Management Group,Facilities Management,NC,Pro,53,2014.62,24175.44,12,2023-07-28,2024-07-22,Sadia Islam,62.5,Yellow,2,25,90,1,2,2025-04-27,2024-12-17,Yes,Yes,No,No,Low
+ACC-0186,SwiftLine Facilities Management Partners,Facilities Management,FL,Starter,2,367.57,4410.84,12,2023-01-23,2024-01-18,Tanya Oluoch,66.8,Yellow,29,11,15,9,2,2025-05-20,,Yes,Yes,No,No,None
+ACC-0187,OneCall HVAC Group,HVAC,MN,Starter,5,332.64,3991.68,24,2019-12-19,2021-12-08,Jordan Blake,87.2,Green,20,50,91,1,1,2025-05-27,,No,Yes,Yes,No,Low
+ACC-0188,TrustWorks HVAC Services,HVAC,NC,Growth,5,817.79,9813.48,12,2024-03-29,2025-03-24,Lena Fischer,77.2,Green,12,37,91,9,6,2025-05-06,,No,No,No,No,Medium
+ACC-0189,TrustWorks Plumbing Group,Plumbing,IL,Growth,14,695.72,8348.64,12,2022-05-25,2023-05-20,Sadia Islam,86.5,Green,17,43,81,8,2,2025-05-01,,Yes,No,No,No,High
+ACC-0190,Summit HVAC Technologies,HVAC,PA,Starter,4,364.82,4377.84,24,2019-12-11,2021-11-30,Sadia Islam,85.6,Green,40,43,78,2,1,2025-05-13,,No,No,No,No,None
+ACC-0191,Pinnacle Landscaping Associates,Landscaping,IL,Growth,11,813.67,9764.04,12,2020-04-12,2021-04-07,Ravi Mehta,64.0,Yellow,12,49,60,2,6,2025-05-12,,No,No,No,No,Medium
+ACC-0192,Heritage HVAC Systems,HVAC,TX,Starter,3,315.13,3781.56,12,2021-02-17,2022-02-12,Sadia Islam,77.8,Green,20,28,49,6,4,2025-05-07,,Yes,No,No,No,Low
+ACC-0193,Dynamic Pest Control Systems,Pest Control,CO,Enterprise,64,5460.81,65529.72,12,2020-07-19,2021-07-14,Felix Brennan,74.9,Green,18,53,57,0,2,2025-04-27,2024-12-10,No,Yes,No,No,Medium
+ACC-0194,OneCall HVAC Technologies,HVAC,NC,Starter,3,373.02,4476.24,36,2024-09-10,2027-08-26,Lena Fischer,62.3,Yellow,2,49,94,6,5,2025-04-24,,No,Yes,Yes,No,None
+ACC-0195,Dynamic HVAC Solutions,HVAC,OH,Growth,16,762.59,9151.08,12,2021-01-03,2021-12-29,Lena Fischer,53.8,Yellow,8,56,19,5,6,2025-04-25,,No,No,No,No,None
+ACC-0196,Regional HVAC Professionals,HVAC,PA,Growth,13,808.16,9697.92,12,2023-12-30,2024-12-24,Jordan Blake,53.6,Yellow,8,49,18,5,6,2025-05-21,,No,No,No,No,High
+ACC-0197,OneCall HVAC Services,HVAC,WI,Starter,3,296.14,3553.68,12,2023-08-10,2024-08-04,Ravi Mehta,66.2,Yellow,7,41,62,6,3,2025-05-29,,No,Yes,No,No,None
+ACC-0198,SwiftLine Facilities Management Group,Facilities Management,MO,Enterprise,143,5395.22,64742.64,12,2022-03-04,2023-02-27,Sadia Islam,66.0,Yellow,40,4,19,9,0,2025-05-22,2024-12-22,Yes,No,No,No,Low
+ACC-0199,National Pest Control Professionals,Pest Control,WI,Pro,47,1948.35,23380.2,24,2022-01-09,2023-12-30,Ravi Mehta,61.8,Yellow,21,4,33,10,4,2025-04-18,2025-01-12,Yes,No,No,No,None
+ACC-0200,TrustWorks Plumbing Technologies,Plumbing,OR,Growth,5,680.74,8168.88,12,2021-10-22,2022-10-17,Felix Brennan,78.7,Green,14,37,96,5,4,2025-05-10,,No,Yes,No,No,Low
+ACC-0201,National HVAC Technologies,HVAC,PA,Starter,5,353.14,4237.68,12,2024-02-24,2025-02-18,Ravi Mehta,66.2,Yellow,34,22,18,5,6,2025-05-20,,No,Yes,No,No,Medium
+ACC-0202,Premier Landscaping Professionals,Landscaping,MN,Starter,3,258.64,3103.68,24,2024-05-02,2026-04-22,Emma Solis,61.0,Yellow,24,1,66,3,3,2025-05-07,,No,Yes,No,No,None
+ACC-0203,National HVAC Systems,HVAC,PA,Starter,5,373.3,4479.6,12,2020-02-05,2021-01-30,Tanya Oluoch,73.2,Green,7,60,72,9,2,2025-05-19,,Yes,No,No,No,High
+ACC-0204,Metro HVAC Systems,HVAC,AZ,Starter,4,256.81,3081.72,24,2021-07-18,2023-07-08,Omar Castillo,55.3,Yellow,6,22,56,4,6,2025-05-18,,Yes,No,No,No,High
+ACC-0205,Apex Other Professionals,Other,CA,Starter,3,261.61,3139.32,12,2024-03-01,2025-02-24,Ravi Mehta,61.2,Yellow,36,0,26,8,1,2025-05-29,,No,No,No,No,Medium
+ACC-0206,OneCall Facilities Management Technologies,Facilities Management,AZ,Growth,18,660.44,7925.28,24,2024-08-30,2026-08-20,Ravi Mehta,64.0,Yellow,11,23,24,2,0,2025-05-07,,No,No,No,No,None
+ACC-0207,RapidFix HVAC Solutions,HVAC,IL,Pro,50,1302.36,15628.32,12,2024-04-20,2025-04-15,Omar Castillo,58.1,Yellow,2,34,58,9,5,2025-05-26,2025-04-29,No,Yes,Yes,No,High
+ACC-0208,Elite HVAC Professionals,HVAC,IN,Enterprise,181,4642.84,55714.08,24,2021-09-28,2023-09-18,Lena Fischer,82.4,Green,8,54,87,10,0,2025-05-16,2025-03-31,No,No,No,No,None
+ACC-0209,Heritage Pest Control Partners,Pest Control,NV,Growth,11,642.53,7710.36,12,2022-04-20,2023-04-15,Ravi Mehta,57.5,Yellow,14,42,20,1,5,2025-05-26,,No,Yes,No,No,Low
+ACC-0210,Apex HVAC Associates,HVAC,CA,Pro,49,1825.18,21902.16,24,2022-04-30,2024-04-19,Felix Brennan,58.8,Yellow,8,20,64,5,5,2025-05-08,2025-04-20,No,Yes,Yes,No,Low
+ACC-0211,Heritage Facilities Management Professionals,Facilities Management,PA,Growth,12,656.39,7876.68,12,2021-03-22,2022-03-17,Lena Fischer,73.8,Green,30,54,54,3,5,2025-05-03,,No,No,No,No,None
+ACC-0212,Summit Electrical Works,Electrical,WI,Pro,52,2035.85,24430.2,12,2021-04-21,2022-04-16,Felix Brennan,86.4,Green,21,51,72,8,3,2025-05-16,2025-04-16,No,No,Yes,No,Low
+ACC-0213,Metro Other Experts,Other,IL,Starter,1,273.93,3287.16,12,2023-05-30,2024-05-24,Ravi Mehta,76.6,Green,22,19,67,6,4,2025-05-07,,No,Yes,No,No,None
+ACC-0214,RapidFix Pest Control Solutions,Pest Control,WA,Starter,5,352.97,4235.64,24,2020-04-06,2022-03-27,Jordan Blake,77.2,Green,34,23,79,3,5,2025-05-22,,Yes,No,No,No,Low
+ACC-0215,Heritage Pest Control Experts,Pest Control,VA,Pro,29,1720.03,20640.36,24,2024-10-08,2026-09-28,Omar Castillo,58.8,Yellow,12,17,16,6,2,2025-05-02,2025-01-03,No,Yes,No,No,None
+ACC-0216,OneCall Pest Control Solutions,Pest Control,GA,Starter,3,288.48,3461.76,24,2023-07-12,2025-07-01,Emma Solis,61.1,Yellow,3,48,62,2,1,2025-05-07,,No,No,No,No,High
+ACC-0217,BlueStar HVAC Professionals,HVAC,OH,Growth,16,621.27,7455.24,12,2024-10-24,2025-10-19,Ravi Mehta,80.4,Green,25,7,84,10,1,2025-04-19,,No,No,Yes,No,None
+ACC-0218,Metro Electrical Works,Electrical,NC,Growth,20,683.41,8200.92,12,2021-11-14,2022-11-09,Emma Solis,92.6,Green,34,47,88,7,1,2025-05-30,,No,No,Yes,No,High
+ACC-0219,Regional HVAC Technologies,HVAC,IN,Growth,20,885.74,10628.88,24,2020-09-03,2022-08-24,Emma Solis,67.7,Yellow,5,46,87,9,6,2025-04-18,,No,No,Yes,No,None
+ACC-0220,Allied HVAC Group,HVAC,IN,Pro,37,2020.06,24240.72,24,2023-01-02,2024-12-22,Sadia Islam,83.4,Green,26,42,42,5,0,2025-05-17,2024-12-04,No,Yes,No,No,Medium
+ACC-0221,Summit Facilities Management Associates,Facilities Management,NY,Starter,4,346.35,4156.2,24,2024-02-10,2026-01-30,Omar Castillo,95.0,Green,38,33,95,6,0,2025-04-26,,Yes,Yes,No,No,Medium
+ACC-0222,RapidFix Pest Control Services,Pest Control,TN,Growth,18,907.59,10891.08,36,2023-06-11,2026-05-26,Jordan Blake,82.2,Green,22,41,66,7,4,2025-04-22,,No,No,Yes,No,Low
+ACC-0223,Regional HVAC Works,HVAC,GA,Growth,15,632.14,7585.68,24,2024-07-29,2026-07-19,Jordan Blake,73.4,Green,29,54,42,5,6,2025-05-15,,No,Yes,No,No,High
+ACC-0224,OneCall Electrical Group,Electrical,CO,Growth,10,674.65,8095.8,24,2023-09-26,2025-09-15,Sadia Islam,72.8,Green,25,48,54,2,6,2025-05-10,,No,No,No,No,None
+ACC-0225,National HVAC Professionals,HVAC,WA,Pro,45,1532.14,18385.68,36,2022-03-15,2025-02-27,Ravi Mehta,71.2,Green,24,12,43,7,2,2025-05-22,2025-03-20,No,Yes,Yes,No,Low
+ACC-0226,Metro Landscaping Associates,Landscaping,TN,Growth,14,885.09,10621.08,12,2022-06-07,2023-06-02,Omar Castillo,76.8,Green,39,44,19,3,0,2025-05-16,,No,No,No,No,Medium
+ACC-0227,SwiftLine Landscaping Solutions,Landscaping,NC,Starter,1,393.11,4717.32,12,2023-07-17,2024-07-11,Emma Solis,72.4,Green,20,14,66,0,1,2025-05-31,,No,Yes,No,No,Low
+ACC-0228,SwiftLine Plumbing Associates,Plumbing,PA,Pro,33,1394.01,16728.12,12,2021-01-28,2022-01-23,Jordan Blake,81.2,Green,39,30,66,6,4,2025-05-06,2025-03-16,No,No,No,No,Medium
+ACC-0229,ProServ Other Experts,Other,OR,Growth,13,759.97,9119.64,12,2021-06-16,2022-06-11,Sadia Islam,69.4,Yellow,34,22,19,2,2,2025-05-24,,Yes,No,No,No,Medium
+ACC-0230,TrustWorks Facilities Management Professionals,Facilities Management,OR,Starter,2,372.57,4470.84,36,2023-06-09,2026-05-24,Tanya Oluoch,74.2,Green,29,17,83,0,3,2025-05-05,,Yes,Yes,Yes,No,High
+ACC-0231,Allied HVAC Associates,HVAC,IN,Growth,16,777.39,9328.68,12,2023-05-17,2024-05-11,Emma Solis,67.2,Yellow,22,4,45,9,2,2025-05-05,,No,No,No,No,High
+ACC-0232,National Pest Control Services,Pest Control,NV,Starter,3,308.51,3702.12,24,2022-08-11,2024-07-31,Omar Castillo,74.0,Green,9,49,79,10,4,2025-05-29,,No,No,Yes,No,None
+ACC-0233,Summit Electrical Works,Electrical,FL,Growth,10,875.78,10509.36,24,2020-10-22,2022-10-12,Ravi Mehta,55.2,Yellow,11,1,93,7,5,2025-05-26,,No,No,No,No,High
+ACC-0234,Pinnacle Plumbing Partners,Plumbing,TN,Starter,3,284.24,3410.88,12,2021-02-27,2022-02-22,Ravi Mehta,85.4,Green,27,56,42,7,0,2025-05-20,,No,No,Yes,No,Medium
+ACC-0235,Allied HVAC Services,HVAC,CO,Growth,13,601.99,7223.88,12,2022-10-24,2023-10-19,Jordan Blake,53.0,Yellow,23,6,31,0,4,2025-05-08,,No,Yes,No,No,None
+ACC-0236,TrustWorks HVAC Solutions,HVAC,WI,Enterprise,187,3989.93,47879.16,12,2020-08-21,2021-08-16,Emma Solis,74.7,Green,9,38,57,9,1,2025-05-23,2025-01-09,Yes,No,Yes,No,None
+ACC-0237,National HVAC Professionals,HVAC,MO,Pro,38,1363.01,16356.12,12,2023-03-30,2024-03-24,Ravi Mehta,66.3,Yellow,6,31,34,9,1,2025-05-08,2025-01-08,Yes,No,Yes,No,Medium
+ACC-0238,Summit HVAC Experts,HVAC,FL,Starter,4,285.12,3421.44,12,2021-09-05,2022-08-31,Sadia Islam,63.0,Yellow,3,58,71,10,5,2025-04-20,,No,No,No,No,Low
+ACC-0239,OneCall HVAC Group,HVAC,CO,Starter,2,302.33,3627.96,24,2022-12-04,2024-11-23,Omar Castillo,80.2,Green,27,24,20,7,0,2025-04-27,,No,No,No,No,Medium
+ACC-0240,SwiftLine Facilities Management Solutions,Facilities Management,CO,Growth,14,890.5,10686.0,12,2023-05-02,2024-04-26,Jordan Blake,60.2,Yellow,12,60,21,4,4,2025-05-29,,Yes,Yes,No,No,High
+ACC-0241,Summit Other Professionals,Other,IL,Starter,1,389.62,4675.44,24,2023-04-02,2025-03-22,Ravi Mehta,85.8,Green,32,23,97,0,1,2025-05-18,,No,Yes,No,No,High
+ACC-0242,National Electrical Solutions,Electrical,TN,Starter,1,261.59,3139.08,12,2021-07-21,2022-07-16,Emma Solis,55.5,Yellow,18,0,40,10,6,2025-05-18,,No,No,Yes,No,Low
+ACC-0243,Allied HVAC Systems,HVAC,VA,Starter,3,399.19,4790.28,36,2021-10-13,2024-09-27,Felix Brennan,77.8,Green,13,60,93,4,3,2025-05-08,,No,Yes,No,No,Medium
+ACC-0244,Pinnacle Electrical Professionals,Electrical,FL,Growth,17,610.22,7322.64,24,2023-09-19,2025-09-08,Ravi Mehta,64.9,Yellow,14,4,91,1,0,2025-05-21,,No,Yes,No,No,High
+ACC-0245,OneCall HVAC Technologies,HVAC,OH,Starter,5,297.15,3565.8,12,2023-09-06,2024-08-31,Omar Castillo,62.2,Yellow,12,60,21,8,6,2025-04-29,,Yes,No,No,No,None
+ACC-0246,Apex HVAC Professionals,HVAC,NV,Starter,4,284.49,3413.88,36,2023-09-09,2026-08-24,Emma Solis,80.3,Green,15,27,88,5,3,2025-05-30,,No,Yes,No,No,None
+ACC-0247,Heritage Landscaping Solutions,Landscaping,AZ,Growth,15,924.58,11094.96,12,2020-10-26,2021-10-21,Sadia Islam,72.0,Green,29,12,92,0,3,2025-04-30,,Yes,Yes,No,No,Low
+ACC-0248,Premier Pest Control Group,Pest Control,FL,Starter,1,397.44,4769.28,12,2019-10-21,2020-10-15,Felix Brennan,67.6,Yellow,35,10,28,8,2,2025-05-06,,Yes,No,No,No,Medium
+ACC-0249,ProServ HVAC Services,HVAC,OR,Starter,1,366.69,4400.28,24,2019-06-13,2021-06-02,Jordan Blake,73.2,Green,36,3,59,9,0,2025-04-28,,Yes,Yes,No,No,High
+ACC-0250,OneCall Electrical Solutions,Electrical,MN,Starter,4,403.84,4846.08,36,2020-09-29,2023-09-14,Lena Fischer,77.6,Green,39,16,54,10,3,2025-04-28,,No,Yes,No,No,Medium
+ACC-0251,TrustWorks HVAC Systems,HVAC,MO,Growth,17,978.27,11739.24,12,2024-05-11,2025-05-06,Sadia Islam,57.9,Yellow,1,27,48,2,0,2025-05-18,,No,Yes,No,No,Low
+ACC-0252,Heritage Plumbing Solutions,Plumbing,WI,Enterprise,166,4633.94,55607.28,24,2021-12-13,2023-12-03,Omar Castillo,74.0,Green,29,23,53,5,5,2025-05-19,2025-03-01,No,No,No,No,Low
+ACC-0253,Summit Pest Control Experts,Pest Control,MN,Enterprise,153,5649.82,67797.84,24,2022-06-27,2024-06-16,Sadia Islam,67.2,Yellow,19,13,60,2,3,2025-05-13,2025-01-17,Yes,Yes,No,No,Medium
+ACC-0254,Pinnacle HVAC Partners,HVAC,OR,Growth,17,954.43,11453.16,12,2021-11-01,2022-10-27,Lena Fischer,51.5,Yellow,1,44,36,6,4,2025-05-23,,No,No,No,No,Low
+ACC-0255,Allied Plumbing Services,Plumbing,CO,Starter,2,379.56,4554.72,12,2022-02-21,2023-02-16,Jordan Blake,57.1,Yellow,6,50,18,1,0,2025-05-27,,No,No,No,No,Low
+ACC-0256,Elite HVAC Group,HVAC,MO,Enterprise,76,4408.39,52900.68,12,2024-07-06,2025-07-01,Lena Fischer,84.8,Green,30,21,100,2,2,2025-05-22,2025-03-25,No,No,Yes,No,High
+ACC-0257,Premier Electrical Solutions,Electrical,TN,Starter,4,369.24,4430.88,36,2020-12-27,2023-12-12,Tanya Oluoch,66.3,Yellow,7,42,28,7,0,2025-05-02,,No,No,No,No,None
+ACC-0258,Regional Other Works,Other,FL,Growth,16,952.05,11424.6,24,2022-09-10,2024-08-30,Ravi Mehta,69.4,Yellow,28,57,12,7,5,2025-05-09,,Yes,Yes,No,No,Medium
+ACC-0259,OneCall Landscaping Services,Landscaping,NV,Growth,8,975.87,11710.44,36,2023-11-06,2026-10-21,Tanya Oluoch,72.4,Green,40,20,47,1,2,2025-04-25,,No,Yes,No,No,Medium
+ACC-0260,Elite HVAC Partners,HVAC,MN,Starter,5,402.86,4834.32,24,2019-07-19,2021-07-08,Sadia Islam,51.5,Yellow,10,3,93,3,5,2025-05-05,,No,Yes,No,No,High
+ACC-0261,OneCall HVAC Systems,HVAC,TN,Growth,6,644.38,7732.56,24,2024-11-24,2026-11-14,Jordan Blake,64.4,Yellow,36,1,48,6,1,2025-05-30,,No,No,No,No,Medium
+ACC-0262,Reliable Plumbing Group,Plumbing,MN,Starter,4,321.11,3853.32,12,2021-05-01,2022-04-26,Sadia Islam,74.8,Green,16,35,34,7,2,2025-04-20,,Yes,No,No,No,None
+ACC-0263,Metro HVAC Services,HVAC,TX,Starter,1,294.1,3529.2,12,2020-05-28,2021-05-23,Emma Solis,55.2,Yellow,9,36,40,1,6,2025-05-11,,Yes,Yes,No,No,Medium
+ACC-0264,ProServ HVAC Technologies,HVAC,CA,Pro,27,1320.46,15845.52,12,2020-03-11,2021-03-06,Emma Solis,41.0,Yellow,11,5,21,0,3,2025-04-17,2025-04-12,No,No,No,No,High
+ACC-0265,RapidFix Pest Control Services,Pest Control,FL,Pro,51,1773.32,21279.84,24,2020-06-16,2022-06-06,Felix Brennan,78.4,Green,37,55,17,7,1,2025-05-21,2025-03-13,No,Yes,No,No,None
+ACC-0266,Dynamic HVAC Experts,HVAC,AZ,Growth,10,920.4,11044.8,12,2023-08-27,2024-08-21,Ravi Mehta,83.0,Green,25,40,85,4,4,2025-05-19,,No,No,No,No,Low
+ACC-0267,Dynamic Electrical Group,Electrical,MN,Growth,13,702.35,8428.2,12,2020-04-26,2021-04-21,Jordan Blake,52.8,Yellow,4,31,54,0,4,2025-06-01,,Yes,No,No,No,None
+ACC-0268,BlueStar Pest Control Technologies,Pest Control,OR,Growth,15,767.46,9209.52,24,2023-07-30,2025-07-19,Sadia Islam,76.6,Green,31,19,72,5,4,2025-05-22,,Yes,No,No,No,High
+ACC-0269,Apex Plumbing Works,Plumbing,TN,Growth,17,772.39,9268.68,24,2024-06-15,2026-06-05,Lena Fischer,61.2,Yellow,9,9,59,6,0,2025-04-22,,No,No,No,No,None
+ACC-0270,Reliable Facilities Management Works,Facilities Management,PA,Growth,10,652.22,7826.64,12,2024-09-19,2025-09-14,Tanya Oluoch,50.3,Yellow,6,1,60,7,1,2025-05-31,,No,No,No,No,Medium
+ACC-0271,Premier Facilities Management Works,Facilities Management,NY,Pro,37,1461.91,17542.92,24,2022-02-21,2024-02-11,Lena Fischer,73.0,Green,27,27,30,7,5,2025-05-28,2025-02-09,No,No,No,No,Low
+ACC-0272,Dynamic Landscaping Associates,Landscaping,NY,Starter,2,322.62,3871.44,12,2019-06-27,2020-06-21,Ravi Mehta,81.8,Green,21,40,49,10,4,2025-04-24,,No,No,No,No,Medium
+ACC-0273,BlueStar Facilities Management Works,Facilities Management,GA,Growth,9,736.23,8834.76,24,2024-11-08,2026-10-29,Emma Solis,61.6,Yellow,1,28,57,6,1,2025-05-12,,No,No,No,No,Medium
+ACC-0274,National Landscaping Experts,Landscaping,NY,Growth,15,894.63,10735.56,12,2022-08-16,2023-08-11,Tanya Oluoch,87.2,Green,15,31,82,7,0,2025-05-08,,No,No,No,No,None
+ACC-0275,ProServ Plumbing Services,Plumbing,CO,Growth,13,619.88,7438.56,12,2021-08-06,2022-08-01,Felix Brennan,63.1,Yellow,9,23,17,7,1,2025-05-10,,No,No,No,No,Medium
+ACC-0276,Premier Plumbing Technologies,Plumbing,WI,Enterprise,140,4967.02,59604.24,12,2022-06-03,2023-05-29,Tanya Oluoch,69.0,Yellow,38,38,25,4,5,2025-04-30,2025-02-19,No,No,No,No,None
+ACC-0277,Heritage HVAC Experts,HVAC,IL,Starter,3,258.31,3099.72,36,2023-01-25,2026-01-09,Omar Castillo,59.5,Yellow,5,23,69,2,3,2025-04-24,,No,No,Yes,No,Medium
+ACC-0278,OneCall HVAC Works,HVAC,OH,Growth,19,703.63,8443.56,12,2022-09-14,2023-09-09,Sadia Islam,32.0,Red,1,7,16,5,4,2025-05-12,,No,No,Yes,Yes,High
+ACC-0279,Premier Plumbing Solutions,Plumbing,IN,Growth,15,829.85,9958.2,12,2023-09-05,2024-08-30,Felix Brennan,78.4,Green,20,36,82,0,4,2025-05-28,,Yes,Yes,No,No,None
+ACC-0280,Heritage Landscaping Experts,Landscaping,CA,Growth,12,629.47,7553.64,12,2021-06-07,2022-06-02,Sadia Islam,56.9,Yellow,5,26,53,1,3,2025-04-29,,No,No,No,No,Low
+ACC-0281,Allied HVAC Services,HVAC,GA,Growth,11,766.58,9198.96,12,2020-01-23,2021-01-17,Tanya Oluoch,66.5,Yellow,15,3,92,10,4,2025-05-02,,Yes,Yes,No,No,Low
+ACC-0282,Dynamic Landscaping Experts,Landscaping,FL,Enterprise,95,4726.35,56716.2,24,2021-03-23,2023-03-13,Omar Castillo,62.6,Yellow,1,32,47,7,0,2025-05-30,2025-03-12,Yes,Yes,No,No,High
+ACC-0283,Elite Pest Control Partners,Pest Control,MO,Starter,5,399.14,4789.68,12,2022-04-08,2023-04-03,Omar Castillo,54.0,Yellow,13,9,78,0,5,2025-05-09,,No,Yes,No,No,Medium
+ACC-0284,RapidFix HVAC Systems,HVAC,PA,Starter,3,318.72,3824.64,12,2023-01-23,2024-01-18,Lena Fischer,63.6,Yellow,1,28,87,10,5,2025-05-21,,Yes,Yes,No,No,None
+ACC-0285,TrustWorks Facilities Management Services,Facilities Management,GA,Pro,32,1900.53,22806.36,36,2023-07-16,2026-06-30,Felix Brennan,78.2,Green,13,56,85,4,2,2025-04-26,2025-02-27,No,No,Yes,No,Medium
+ACC-0286,Pinnacle Facilities Management Professionals,Facilities Management,IN,Starter,3,288.08,3456.96,36,2024-09-21,2027-09-06,Omar Castillo,81.0,Green,20,29,60,9,6,2025-04-27,,No,No,No,No,None
+ACC-0287,Pinnacle Facilities Management Group,Facilities Management,CA,Growth,5,832.23,9986.76,12,2024-03-21,2025-03-16,Felix Brennan,49.4,Yellow,0,19,66,6,5,2025-05-09,,No,No,No,No,High
+ACC-0288,BlueStar Plumbing Group,Plumbing,TX,Pro,37,1618.35,19420.2,12,2019-07-16,2020-07-10,Jordan Blake,52.5,Yellow,7,19,28,4,3,2025-05-02,2025-03-19,Yes,Yes,Yes,No,Low
+ACC-0289,Metro Facilities Management Systems,Facilities Management,TN,Growth,13,697.98,8375.76,24,2023-05-10,2025-04-29,Lena Fischer,69.6,Yellow,4,46,98,2,1,2025-05-31,,Yes,No,No,No,High
+ACC-0290,Reliable Other Services,Other,NC,Starter,5,401.73,4820.76,12,2023-02-04,2024-01-30,Felix Brennan,74.7,Green,18,46,71,3,6,2025-05-20,,No,No,No,No,None
+ACC-0291,Regional HVAC Professionals,HVAC,IN,Enterprise,171,4861.16,58333.92,24,2023-05-10,2025-04-29,Tanya Oluoch,47.4,Yellow,3,18,56,1,4,2025-04-28,2025-03-22,No,No,No,No,Low
+ACC-0292,OneCall Electrical Experts,Electrical,VA,Starter,4,282.76,3393.12,12,2021-08-31,2022-08-26,Lena Fischer,71.4,Green,22,49,47,2,6,2025-05-09,,No,Yes,No,No,Low
+ACC-0293,National Plumbing Experts,Plumbing,IL,Starter,4,328.28,3939.36,36,2022-06-09,2025-05-24,Ravi Mehta,67.1,Yellow,2,21,74,10,1,2025-04-26,,No,Yes,No,No,None
+ACC-0294,ProServ Facilities Management Works,Facilities Management,IN,Pro,52,1722.65,20671.8,12,2022-04-30,2023-04-25,Jordan Blake,89.0,Green,16,59,80,10,1,2025-05-25,2025-02-08,No,No,No,No,High
+ACC-0295,Allied Plumbing Experts,Plumbing,NY,Starter,4,367.26,4407.12,12,2020-01-04,2020-12-29,Lena Fischer,68.8,Yellow,9,53,98,3,5,2025-05-01,,No,Yes,No,No,Low
+ACC-0296,Pinnacle HVAC Group,HVAC,FL,Pro,33,1720.97,20651.64,12,2019-12-15,2020-12-09,Jordan Blake,35.5,Red,1,1,47,1,1,2025-05-16,2025-01-07,Yes,No,No,Yes,High
+ACC-0297,Premier Electrical Professionals,Electrical,CA,Starter,3,317.92,3815.04,12,2020-07-31,2021-07-26,Omar Castillo,86.2,Green,39,37,71,10,4,2025-05-01,,No,No,Yes,No,Medium
+ACC-0298,Allied Facilities Management Systems,Facilities Management,CA,Growth,17,883.61,10603.32,12,2023-09-24,2024-09-18,Omar Castillo,84.8,Green,37,39,54,10,3,2025-05-01,,Yes,No,No,No,None
+ACC-0299,SwiftLine Pest Control Professionals,Pest Control,PA,Starter,1,328.92,3947.04,12,2023-08-13,2024-08-07,Tanya Oluoch,73.8,Green,38,30,14,5,2,2025-04-23,,No,Yes,Yes,No,Low
+ACC-0300,SwiftLine Pest Control Services,Pest Control,NC,Growth,5,953.82,11445.84,12,2021-11-27,2022-11-22,Ravi Mehta,86.4,Green,29,17,99,9,3,2025-04-25,,Yes,No,No,No,Low
+ACC-0301,OneCall HVAC Professionals,HVAC,GA,Pro,30,1306.98,15683.76,12,2022-10-14,2023-10-09,Omar Castillo,58.5,Yellow,7,43,29,1,1,2025-06-01,2025-01-23,No,No,Yes,No,Medium
+ACC-0302,Allied Plumbing Professionals,Plumbing,IN,Starter,5,393.2,4718.4,36,2020-09-11,2023-08-27,Lena Fischer,44.8,Yellow,7,6,31,2,1,2025-05-09,,No,Yes,No,No,None
+ACC-0303,Heritage HVAC Experts,HVAC,GA,Starter,4,345.79,4149.48,12,2021-10-12,2022-10-07,Emma Solis,62.0,Yellow,5,16,95,5,3,2025-05-24,,Yes,Yes,No,No,None
+ACC-0304,Dynamic Pest Control Group,Pest Control,MO,Growth,19,847.83,10173.96,12,2022-06-23,2023-06-18,Felix Brennan,66.0,Yellow,30,4,94,2,4,2025-05-30,,No,Yes,No,No,Medium
+ACC-0305,Allied Pest Control Partners,Pest Control,OH,Starter,1,315.3,3783.6,12,2022-04-10,2023-04-05,Emma Solis,79.8,Green,33,42,44,9,4,2025-05-12,,No,No,No,No,Low
+ACC-0306,Metro Plumbing Professionals,Plumbing,WI,Growth,11,632.23,7586.76,24,2021-08-03,2023-07-24,Emma Solis,67.5,Yellow,9,42,26,8,1,2025-05-28,,No,Yes,No,No,Medium
+ACC-0307,Regional Facilities Management Systems,Facilities Management,MN,Enterprise,164,3707.84,44494.08,12,2021-11-01,2022-10-27,Sadia Islam,57.6,Yellow,25,1,34,10,5,2025-04-24,2025-03-06,No,No,No,No,Low
+ACC-0308,Apex Electrical Services,Electrical,WA,Starter,4,381.29,4575.48,24,2021-11-03,2023-10-24,Jordan Blake,60.4,Yellow,26,4,81,1,5,2025-05-15,,No,No,No,No,Medium
+ACC-0309,SwiftLine Electrical Associates,Electrical,NV,Starter,3,405.33,4863.96,24,2024-03-17,2026-03-07,Lena Fischer,88.6,Green,24,48,98,9,5,2025-04-20,,No,No,No,No,None
+ACC-0310,ProServ Other Associates,Other,PA,Growth,7,690.87,8290.44,12,2020-12-01,2021-11-26,Felix Brennan,78.8,Green,38,32,39,5,2,2025-05-10,,No,Yes,No,No,High
+ACC-0311,SwiftLine Electrical Experts,Electrical,CO,Starter,2,380.5,4566.0,12,2024-05-28,2025-05-23,Felix Brennan,74.4,Green,12,43,97,5,5,2025-05-19,,No,No,No,No,None
+ACC-0312,ProServ Facilities Management Systems,Facilities Management,IN,Growth,12,673.24,8078.88,36,2023-11-04,2026-10-19,Sadia Islam,80.2,Green,11,56,92,7,2,2025-04-17,,No,No,No,No,Medium
+ACC-0313,TrustWorks Electrical Experts,Electrical,OR,Starter,3,274.61,3295.32,24,2021-07-11,2023-07-01,Omar Castillo,33.0,Red,0,4,34,4,3,2025-05-15,,No,Yes,No,Yes,None
+ACC-0314,Regional Electrical Services,Electrical,CA,Enterprise,185,4945.08,59340.96,24,2022-01-31,2024-01-21,Omar Castillo,63.0,Yellow,20,7,27,2,0,2025-05-28,2025-02-20,Yes,No,No,No,Low
+ACC-0315,Reliable Landscaping Partners,Landscaping,VA,Pro,47,1443.07,17316.84,36,2024-05-30,2027-05-15,Jordan Blake,40.2,Yellow,0,7,53,9,5,2025-05-17,2025-03-04,No,No,No,No,Medium
+ACC-0316,Pinnacle HVAC Group,HVAC,OR,Pro,55,1755.73,21068.76,12,2023-09-09,2024-09-03,Ravi Mehta,85.2,Green,24,13,79,9,0,2025-04-23,2025-02-22,No,Yes,Yes,No,Low
+ACC-0317,Elite HVAC Systems,HVAC,OR,Pro,49,1776.74,21320.88,12,2024-05-31,2025-05-26,Tanya Oluoch,46.0,Yellow,17,6,10,3,5,2025-04-24,2025-01-24,No,Yes,No,No,None
+ACC-0318,OneCall Plumbing Systems,Plumbing,WI,Pro,48,1638.99,19667.88,24,2023-07-23,2025-07-12,Omar Castillo,48.0,Yellow,1,34,44,3,5,2025-05-11,2025-02-09,Yes,No,No,No,High
+ACC-0319,National Plumbing Works,Plumbing,TN,Growth,7,825.19,9902.28,36,2023-05-02,2026-04-16,Omar Castillo,70.7,Green,10,50,61,3,1,2025-05-15,,No,No,No,No,Low
+ACC-0320,Regional Facilities Management Works,Facilities Management,TN,Starter,1,367.04,4404.48,12,2022-07-28,2023-07-23,Emma Solis,70.4,Green,28,45,12,6,4,2025-05-31,,No,No,No,No,High
+ACC-0321,RapidFix HVAC Associates,HVAC,WI,Starter,2,298.41,3580.92,12,2024-07-10,2025-07-05,Lena Fischer,52.1,Yellow,10,10,38,9,5,2025-05-20,,Yes,No,No,No,None
+ACC-0322,Apex HVAC Partners,HVAC,OH,Pro,30,1350.31,16203.72,24,2023-04-25,2025-04-14,Jordan Blake,62.4,Yellow,16,5,77,4,3,2025-05-05,2025-02-20,No,Yes,No,No,Medium
+ACC-0323,ProServ HVAC Services,HVAC,PA,Starter,1,356.26,4275.12,36,2022-08-16,2025-07-31,Ravi Mehta,85.5,Green,18,35,70,6,1,2025-04-24,,Yes,Yes,Yes,No,Medium
+ACC-0324,Allied HVAC Works,HVAC,IL,Pro,27,1916.45,22997.4,12,2022-07-08,2023-07-03,Ravi Mehta,55.9,Yellow,9,34,33,3,6,2025-05-15,2024-12-22,Yes,No,Yes,No,High
+ACC-0325,TrustWorks HVAC Solutions,HVAC,NY,Starter,2,393.36,4720.32,24,2020-10-08,2022-09-28,Sadia Islam,84.0,Green,36,50,45,7,1,2025-04-17,,No,Yes,Yes,No,None
+ACC-0326,RapidFix HVAC Works,HVAC,NV,Enterprise,133,4634.38,55612.56,24,2023-11-23,2025-11-12,Omar Castillo,84.2,Green,35,34,61,8,3,2025-04-26,2025-01-19,No,No,No,No,Low
+ACC-0327,Elite Plumbing Works,Plumbing,TX,Growth,6,673.69,8084.28,12,2022-10-11,2023-10-06,Felix Brennan,66.2,Yellow,7,38,62,6,3,2025-05-12,,No,Yes,Yes,No,Low
+ACC-0328,ProServ Electrical Professionals,Electrical,NC,Growth,9,767.13,9205.56,36,2022-09-22,2025-09-06,Ravi Mehta,79.0,Green,19,25,41,2,0,2025-05-01,,No,No,No,No,Medium
+ACC-0329,Heritage Plumbing Systems,Plumbing,FL,Pro,46,2065.31,24783.72,12,2020-10-15,2021-10-10,Emma Solis,68.1,Yellow,18,23,16,5,3,2025-04-24,2025-02-16,No,No,No,No,None
+ACC-0330,SwiftLine Facilities Management Partners,Facilities Management,CA,Enterprise,182,3726.52,44718.24,12,2021-04-09,2022-04-04,Felix Brennan,59.2,Yellow,32,10,11,1,1,2025-05-31,2024-12-23,No,No,No,No,None
+ACC-0331,TrustWorks HVAC Professionals,HVAC,VA,Growth,19,727.53,8730.36,12,2021-03-30,2022-03-25,Sadia Islam,73.0,Green,3,51,76,9,0,2025-04-30,,Yes,No,Yes,No,Low
+ACC-0332,Heritage Plumbing Partners,Plumbing,TN,Enterprise,172,5259.65,63115.8,12,2022-12-22,2023-12-17,Ravi Mehta,56.2,Yellow,9,48,35,1,4,2025-05-18,2025-04-22,Yes,No,Yes,No,Low
+ACC-0333,Metro Electrical Solutions,Electrical,CA,Starter,4,385.62,4627.44,12,2024-05-13,2025-05-08,Omar Castillo,81.4,Green,35,36,42,3,0,2025-05-16,,No,Yes,No,No,High
+ACC-0334,SwiftLine HVAC Experts,HVAC,CO,Pro,51,1368.33,16419.96,24,2023-03-02,2025-02-19,Sadia Islam,84.4,Green,39,46,57,7,2,2025-04-22,2025-02-08,No,No,No,No,Low
+ACC-0335,Elite HVAC Partners,HVAC,NY,Starter,4,298.91,3586.92,24,2024-09-06,2026-08-27,Felix Brennan,74.2,Green,31,46,61,0,4,2025-05-23,,No,Yes,No,No,High
+ACC-0336,ProServ Landscaping Solutions,Landscaping,NV,Pro,54,1691.19,20294.28,36,2021-09-23,2024-09-07,Omar Castillo,84.4,Green,26,36,52,4,0,2025-05-02,2025-04-16,No,Yes,No,No,High
+ACC-0337,BlueStar HVAC Systems,HVAC,VA,Pro,50,2080.76,24969.12,12,2021-04-14,2022-04-09,Emma Solis,76.2,Green,19,15,72,7,3,2025-05-17,2025-02-18,No,No,No,No,Medium
+ACC-0338,Metro HVAC Solutions,HVAC,CA,Starter,4,394.46,4733.52,12,2019-12-24,2020-12-18,Emma Solis,48.0,Yellow,0,9,79,6,3,2025-06-01,,No,Yes,Yes,No,Low
+ACC-0339,Metro Facilities Management Services,Facilities Management,NV,Starter,3,363.68,4364.16,12,2019-11-27,2020-11-21,Ravi Mehta,61.9,Yellow,19,21,22,0,4,2025-06-01,,No,Yes,No,No,High
+ACC-0340,Reliable Electrical Solutions,Electrical,WI,Starter,5,391.77,4701.24,24,2019-10-25,2021-10-14,Felix Brennan,51.0,Yellow,8,4,69,9,6,2025-05-26,,No,No,No,No,Medium
+ACC-0341,Heritage Facilities Management Systems,Facilities Management,GA,Starter,2,368.43,4421.16,24,2023-12-16,2025-12-05,Sadia Islam,74.6,Green,32,19,47,10,5,2025-05-13,,No,Yes,No,No,High
+ACC-0342,Metro HVAC Partners,HVAC,CO,Starter,1,263.81,3165.72,12,2024-04-27,2025-04-22,Ravi Mehta,49.7,Yellow,6,28,26,2,5,2025-04-18,,No,No,No,No,High
+ACC-0343,Metro HVAC Services,HVAC,CA,Growth,14,954.55,11454.6,24,2020-08-03,2022-07-24,Jordan Blake,69.0,Yellow,23,10,60,3,2,2025-05-16,,No,Yes,No,No,High
+ACC-0344,Pinnacle Plumbing Partners,Plumbing,VA,Growth,15,767.0,9204.0,12,2023-12-27,2024-12-21,Omar Castillo,88.4,Green,20,58,82,2,0,2025-05-27,,No,No,No,No,None
+ACC-0345,National HVAC Associates,HVAC,WA,Pro,58,1682.55,20190.6,12,2020-12-21,2021-12-16,Ravi Mehta,59.8,Yellow,26,2,11,10,2,2025-05-11,2025-05-02,Yes,No,No,No,Low
+ACC-0346,SwiftLine Pest Control Partners,Pest Control,MO,Starter,5,299.12,3589.44,24,2021-08-09,2023-07-30,Tanya Oluoch,70.0,Green,27,49,15,7,5,2025-05-03,,Yes,No,No,No,None
+ACC-0347,ProServ Electrical Professionals,Electrical,NC,Starter,1,332.18,3986.16,24,2024-05-03,2026-04-23,Lena Fischer,72.8,Green,38,36,39,5,6,2025-05-13,,Yes,Yes,No,No,High
+ACC-0348,Reliable Electrical Experts,Electrical,MO,Starter,1,290.63,3487.56,24,2024-01-08,2025-12-28,Tanya Oluoch,63.0,Yellow,25,0,65,0,0,2025-05-06,,Yes,No,No,No,None
+ACC-0349,BlueStar Electrical Services,Electrical,VA,Growth,14,893.9,10726.8,12,2024-03-17,2025-03-12,Omar Castillo,74.4,Green,35,46,52,2,4,2025-05-27,,No,No,No,No,High
+ACC-0350,Pinnacle HVAC Works,HVAC,NY,Starter,3,281.95,3383.4,36,2021-01-19,2024-01-04,Felix Brennan,63.8,Yellow,26,10,64,3,5,2025-05-14,,No,No,Yes,No,None
+ACC-0351,RapidFix Facilities Management Experts,Facilities Management,MN,Enterprise,60,5772.78,69273.36,12,2019-10-14,2020-10-08,Ravi Mehta,72.2,Green,7,48,67,5,0,2025-04-30,2025-04-01,No,No,No,No,None
+ACC-0352,Pinnacle HVAC Solutions,HVAC,CO,Starter,2,317.94,3815.28,24,2020-06-22,2022-06-12,Felix Brennan,65.0,Yellow,1,58,89,1,0,2025-05-22,,No,No,No,No,None
+ACC-0353,Metro Plumbing Technologies,Plumbing,IN,Starter,4,271.18,3254.16,24,2022-04-15,2024-04-04,Tanya Oluoch,68.9,Yellow,10,12,89,10,3,2025-04-27,,No,No,No,No,Medium
+ACC-0354,Allied HVAC Works,HVAC,MN,Starter,4,285.08,3420.96,12,2022-08-13,2023-08-08,Jordan Blake,76.6,Green,23,41,53,6,5,2025-05-27,,No,Yes,Yes,No,Low
+ACC-0355,Premier Electrical Group,Electrical,CA,Growth,15,640.19,7682.28,12,2023-12-17,2024-12-11,Sadia Islam,76.6,Green,15,19,78,6,2,2025-05-13,,No,No,No,No,High
+ACC-0356,Allied HVAC Services,HVAC,AZ,Enterprise,165,5836.83,70041.96,24,2024-11-18,2026-11-08,Sadia Islam,57.8,Yellow,4,31,49,4,3,2025-05-12,2025-03-16,Yes,Yes,Yes,No,Medium
+ACC-0357,Reliable Other Partners,Other,MO,Starter,3,306.5,3678.0,12,2020-02-09,2021-02-03,Tanya Oluoch,77.0,Green,37,51,20,3,0,2025-04-28,,Yes,No,No,No,Medium
+ACC-0358,Summit Plumbing Associates,Plumbing,TX,Starter,1,305.44,3665.28,24,2024-05-03,2026-04-23,Emma Solis,68.8,Yellow,21,17,16,2,0,2025-05-26,,No,Yes,No,No,Medium
+ACC-0359,Summit HVAC Services,HVAC,IN,Starter,2,351.32,4215.84,12,2022-07-24,2023-07-19,Emma Solis,66.6,Yellow,21,10,33,10,4,2025-05-19,,No,Yes,No,No,High
+ACC-0360,Heritage Electrical Technologies,Electrical,WI,Starter,3,348.99,4187.88,12,2023-07-04,2024-06-28,Lena Fischer,69.4,Yellow,35,15,17,6,1,2025-05-14,,No,Yes,No,No,High
+ACC-0361,Summit HVAC Systems,HVAC,OR,Pro,35,1782.33,21387.96,12,2024-05-26,2025-05-21,Omar Castillo,89.4,Green,16,41,87,7,0,2025-05-20,2025-02-27,No,No,No,No,None
+ACC-0362,Reliable HVAC Group,HVAC,OR,Enterprise,70,4103.28,49239.36,36,2020-10-24,2023-10-09,Jordan Blake,62.0,Yellow,4,43,60,2,1,2025-06-01,2025-03-10,Yes,No,Yes,No,High
+ACC-0363,Reliable HVAC Professionals,HVAC,PA,Starter,2,278.32,3339.84,12,2023-01-18,2024-01-13,Sadia Islam,83.6,Green,20,26,58,10,4,2025-04-22,,No,Yes,No,No,Medium
+ACC-0364,Pinnacle Pest Control Services,Pest Control,CA,Starter,2,334.72,4016.64,12,2024-09-25,2025-09-20,Omar Castillo,43.5,Yellow,3,16,10,6,3,2025-05-03,,No,Yes,No,No,None
+ACC-0365,Elite HVAC Technologies,HVAC,MN,Pro,37,1420.13,17041.56,12,2023-09-23,2024-09-17,Lena Fischer,73.2,Green,33,4,85,7,2,2025-05-20,2025-02-21,No,No,No,No,Low
+ACC-0366,Apex Plumbing Group,Plumbing,NC,Growth,9,600.74,7208.88,36,2020-09-23,2023-09-08,Lena Fischer,75.2,Green,24,14,80,8,5,2025-05-09,,No,No,Yes,No,Medium
+ACC-0367,ProServ Plumbing Experts,Plumbing,NV,Pro,39,1889.52,22674.24,12,2019-07-12,2020-07-06,Emma Solis,67.0,Yellow,15,57,46,4,6,2025-04-26,2024-12-18,No,No,No,No,None
+ACC-0368,Dynamic HVAC Partners,HVAC,NC,Starter,5,323.17,3878.04,12,2021-04-29,2022-04-24,Lena Fischer,47.4,Yellow,12,11,23,4,5,2025-04-25,,No,No,No,No,Medium
+ACC-0369,OneCall Plumbing Technologies,Plumbing,VA,Starter,2,400.55,4806.6,12,2021-03-27,2022-03-22,Sadia Islam,82.0,Green,22,30,40,8,2,2025-04-27,,Yes,No,Yes,No,None
+ACC-0370,SwiftLine HVAC Professionals,HVAC,OH,Growth,18,927.3,11127.6,24,2020-07-24,2022-07-14,Omar Castillo,64.8,Yellow,34,47,19,1,5,2025-05-18,,No,Yes,No,No,None
+ACC-0371,Summit HVAC Group,HVAC,NC,Starter,5,321.43,3857.16,36,2020-12-26,2023-12-11,Lena Fischer,50.9,Yellow,13,5,53,3,4,2025-04-24,,No,Yes,No,No,Medium
+ACC-0372,ProServ Electrical Associates,Electrical,NC,Growth,5,950.24,11402.88,12,2022-02-27,2023-02-22,Omar Castillo,59.0,Yellow,21,6,21,8,4,2025-06-01,,No,No,No,No,Medium
+ACC-0373,Premier Electrical Solutions,Electrical,PA,Pro,30,1296.33,15555.96,36,2019-12-17,2022-12-01,Jordan Blake,62.2,Yellow,17,12,32,2,1,2025-05-19,2025-03-13,No,No,No,No,None
+ACC-0374,Apex HVAC Group,HVAC,IL,Growth,9,606.26,7275.12,36,2023-06-26,2026-06-10,Tanya Oluoch,83.6,Green,23,40,48,10,3,2025-05-02,,No,Yes,No,No,Medium
+ACC-0375,ProServ HVAC Solutions,HVAC,NC,Starter,4,272.0,3264.0,12,2023-09-13,2024-09-07,Tanya Oluoch,44.8,Yellow,4,9,63,1,3,2025-04-17,,No,No,No,No,Low
+ACC-0376,SwiftLine Plumbing Professionals,Plumbing,FL,Enterprise,173,4214.9,50578.8,24,2020-11-14,2022-11-04,Tanya Oluoch,46.0,Yellow,1,12,61,4,3,2025-04-25,2025-04-03,No,Yes,No,No,None
+ACC-0377,SwiftLine Plumbing Group,Plumbing,GA,Growth,9,614.46,7373.52,24,2020-06-03,2022-05-24,Tanya Oluoch,48.2,Yellow,8,15,16,8,6,2025-04-28,,Yes,No,Yes,No,Medium
+ACC-0378,Apex Electrical Associates,Electrical,MN,Starter,2,261.39,3136.68,12,2022-03-01,2023-02-24,Ravi Mehta,73.7,Green,14,44,91,1,4,2025-05-28,,No,No,Yes,No,Medium
+ACC-0379,Pinnacle Pest Control Associates,Pest Control,FL,Growth,15,605.67,7268.04,12,2023-09-15,2024-09-09,Jordan Blake,45.9,Yellow,1,55,13,1,2,2025-05-27,,No,No,Yes,No,High
+ACC-0380,Summit Electrical Experts,Electrical,AZ,Pro,43,1321.35,15856.2,36,2022-12-13,2025-11-27,Jordan Blake,59.9,Yellow,9,22,50,6,5,2025-05-14,2025-02-25,No,Yes,No,No,High
+ACC-0381,Dynamic Electrical Professionals,Electrical,TX,Starter,1,278.91,3346.92,12,2024-01-14,2025-01-08,Jordan Blake,75.2,Green,20,24,70,0,4,2025-05-30,,Yes,Yes,No,No,Low
+ACC-0382,Dynamic Electrical Solutions,Electrical,NC,Starter,1,313.59,3763.08,12,2022-04-22,2023-04-17,Ravi Mehta,84.6,Green,25,24,82,1,1,2025-04-30,,No,No,No,No,None
+ACC-0383,ProServ Facilities Management Systems,Facilities Management,NV,Starter,5,315.87,3790.44,24,2019-08-25,2021-08-14,Jordan Blake,77.2,Green,40,30,16,6,1,2025-04-23,,No,No,No,No,None
+ACC-0384,RapidFix Pest Control Group,Pest Control,MO,Pro,53,1426.48,17117.76,12,2019-10-11,2020-10-05,Felix Brennan,55.8,Yellow,3,59,25,6,2,2025-04-29,2025-05-01,No,No,No,No,Low
+ACC-0385,ProServ Plumbing Solutions,Plumbing,FL,Growth,12,792.4,9508.8,36,2021-07-14,2024-06-28,Tanya Oluoch,75.6,Green,33,41,18,6,2,2025-05-23,,No,No,No,No,Low
+ACC-0386,RapidFix Electrical Systems,Electrical,PA,Growth,14,750.87,9010.44,12,2020-04-20,2021-04-15,Tanya Oluoch,70.2,Green,26,48,26,5,5,2025-05-26,,No,No,Yes,No,High
+ACC-0387,Premier Facilities Management Solutions,Facilities Management,TN,Pro,38,2053.63,24643.56,24,2022-12-15,2024-12-04,Ravi Mehta,75.4,Green,22,60,57,4,6,2025-05-18,2025-01-28,No,No,No,No,Medium
+ACC-0388,RapidFix Facilities Management Experts,Facilities Management,TX,Starter,1,364.11,4369.32,24,2022-01-18,2024-01-08,Felix Brennan,75.0,Green,26,50,45,4,4,2025-05-18,,Yes,No,No,No,Low
+ACC-0389,Premier HVAC Partners,HVAC,GA,Pro,28,1658.08,19896.96,36,2024-01-29,2027-01-13,Jordan Blake,61.0,Yellow,21,2,47,10,5,2025-05-19,2025-03-08,No,No,No,No,Medium
+ACC-0390,TrustWorks Facilities Management Group,Facilities Management,MO,Growth,8,745.9,8950.8,12,2020-08-28,2021-08-23,Emma Solis,52.2,Yellow,5,6,86,7,4,2025-05-29,,No,Yes,Yes,No,Low
+ACC-0391,National HVAC Systems,HVAC,NY,Growth,15,978.39,11740.68,24,2019-08-20,2021-08-09,Jordan Blake,53.6,Yellow,4,5,88,8,3,2025-05-03,,No,No,Yes,No,None
+ACC-0392,Apex HVAC Associates,HVAC,WI,Pro,21,2096.34,25156.08,24,2019-07-31,2021-07-20,Emma Solis,75.6,Green,21,49,63,1,4,2025-06-01,2025-03-01,No,No,No,No,High
+ACC-0393,Regional HVAC Solutions,HVAC,CA,Starter,5,273.83,3285.96,24,2023-06-24,2025-06-13,Jordan Blake,79.4,Green,39,43,37,6,2,2025-05-28,,No,No,Yes,No,None
+ACC-0394,Allied Electrical Associates,Electrical,OH,Pro,56,1510.63,18127.56,12,2022-06-09,2023-06-04,Tanya Oluoch,80.9,Green,14,25,77,7,2,2025-05-06,2025-03-14,No,No,No,No,Low
+ACC-0395,Elite Plumbing Solutions,Plumbing,WI,Growth,7,686.47,8237.64,12,2020-12-15,2021-12-10,Sadia Islam,61.4,Yellow,26,4,21,4,0,2025-04-28,,No,No,Yes,No,Medium
+ACC-0396,Summit Pest Control Group,Pest Control,OH,Growth,15,685.51,8226.12,24,2024-08-29,2026-08-19,Omar Castillo,71.0,Green,27,50,15,8,5,2025-05-05,,Yes,Yes,No,No,None
+ACC-0397,National HVAC Technologies,HVAC,NY,Growth,17,747.1,8965.2,12,2022-10-27,2023-10-22,Jordan Blake,83.6,Green,24,9,97,7,0,2025-05-21,,No,No,No,No,Medium
+ACC-0398,SwiftLine Plumbing Solutions,Plumbing,NV,Starter,5,284.31,3411.72,12,2022-08-15,2023-08-10,Lena Fischer,80.4,Green,40,54,72,6,6,2025-05-19,,No,No,Yes,No,None
+ACC-0399,RapidFix Landscaping Solutions,Landscaping,VA,Starter,1,384.69,4616.28,12,2021-12-03,2022-11-28,Sadia Islam,77.0,Green,19,15,71,10,4,2025-05-30,,No,Yes,No,No,None
+ACC-0400,Metro Pest Control Partners,Pest Control,AZ,Starter,4,367.8,4413.6,24,2019-07-07,2021-06-26,Jordan Blake,83.8,Green,32,23,82,9,5,2025-04-26,,No,Yes,No,No,Medium
+ACC-0401,TrustWorks HVAC Group,HVAC,WI,Growth,18,888.88,10666.56,24,2022-08-16,2024-08-05,Felix Brennan,86.4,Green,35,41,87,9,5,2025-05-14,,No,No,No,No,High
+ACC-0402,BlueStar Electrical Solutions,Electrical,PA,Growth,9,721.15,8653.8,12,2019-12-28,2020-12-22,Jordan Blake,80.8,Green,32,56,49,9,4,2025-05-26,,No,Yes,No,No,Low
+ACC-0403,Apex Plumbing Systems,Plumbing,NY,Pro,56,1735.72,20828.64,12,2024-09-02,2025-08-28,Omar Castillo,74.4,Green,39,44,12,8,3,2025-05-03,2025-01-16,Yes,No,No,No,Low
+ACC-0404,SwiftLine HVAC Services,HVAC,AZ,Pro,34,1702.86,20434.32,12,2020-08-25,2021-08-20,Sadia Islam,71.0,Green,15,57,76,2,5,2025-06-01,2025-02-03,No,No,Yes,No,Low
+ACC-0405,Apex Electrical Systems,Electrical,NC,Pro,47,1555.57,18666.84,12,2022-06-29,2023-06-24,Omar Castillo,79.0,Green,37,48,55,8,5,2025-05-27,2024-12-13,No,No,No,No,Medium
+ACC-0406,National HVAC Group,HVAC,NC,Starter,2,256.61,3079.32,24,2022-02-11,2024-02-01,Emma Solis,67.0,Yellow,9,49,34,8,2,2025-05-20,,No,No,No,No,Low
+ACC-0407,RapidFix Pest Control Systems,Pest Control,NV,Growth,13,834.83,10017.96,12,2019-08-23,2020-08-17,Ravi Mehta,77.6,Green,30,48,38,0,0,2025-05-07,,No,Yes,Yes,No,None
+ACC-0408,Heritage Pest Control Experts,Pest Control,CA,Pro,52,1440.74,17288.88,36,2019-11-14,2022-10-29,Tanya Oluoch,69.4,Yellow,39,21,13,0,0,2025-04-23,2025-02-20,Yes,No,Yes,No,Medium
+ACC-0409,Regional Plumbing Technologies,Plumbing,NC,Starter,2,396.05,4752.6,12,2022-05-04,2023-04-29,Lena Fischer,65.6,Yellow,26,40,28,0,5,2025-05-15,,Yes,No,No,No,High
+ACC-0410,Regional Plumbing Services,Plumbing,MO,Growth,6,868.77,10425.24,12,2021-12-06,2022-12-01,Omar Castillo,82.2,Green,26,42,26,9,1,2025-05-27,,No,No,No,No,High
+ACC-0411,BlueStar Other Technologies,Other,PA,Enterprise,77,5346.65,64159.8,12,2020-11-21,2021-11-16,Omar Castillo,89.6,Green,33,43,78,4,0,2025-05-03,2025-03-04,Yes,Yes,No,No,Medium
+ACC-0412,BlueStar HVAC Solutions,HVAC,NY,Growth,16,946.24,11354.88,12,2021-08-30,2022-08-25,Lena Fischer,81.0,Green,34,59,20,7,0,2025-05-27,,No,Yes,No,No,None
+ACC-0413,Summit Plumbing Technologies,Plumbing,PA,Starter,5,415.24,4982.88,12,2021-03-12,2022-03-07,Lena Fischer,85.6,Green,31,34,83,5,3,2025-05-04,,Yes,No,No,No,Medium
+ACC-0414,Summit HVAC Systems,HVAC,NC,Starter,2,396.33,4755.96,12,2021-03-23,2022-03-18,Ravi Mehta,69.4,Yellow,25,18,75,0,6,2025-05-14,,Yes,Yes,No,No,Low
+ACC-0415,Metro Facilities Management Services,Facilities Management,IL,Growth,17,774.99,9299.88,12,2020-01-08,2021-01-02,Lena Fischer,85.0,Green,31,42,75,2,1,2025-04-22,,Yes,No,No,No,None
+ACC-0416,ProServ HVAC Experts,HVAC,GA,Growth,18,660.13,7921.56,12,2022-06-23,2023-06-18,Lena Fischer,73.8,Green,38,28,39,6,6,2025-05-25,,No,No,No,No,High
+ACC-0417,Premier HVAC Systems,HVAC,IN,Starter,4,411.98,4943.76,24,2019-07-17,2021-07-06,Omar Castillo,76.0,Green,25,43,25,7,3,2025-05-17,,No,No,No,No,None
+ACC-0418,Pinnacle HVAC Group,HVAC,TN,Starter,5,277.77,3333.24,12,2023-02-09,2024-02-04,Ravi Mehta,68.3,Yellow,14,40,54,5,5,2025-04-19,,No,Yes,No,No,High
+ACC-0419,Heritage Pest Control Professionals,Pest Control,NV,Enterprise,163,4885.39,58624.68,12,2023-07-10,2024-07-04,Ravi Mehta,52.4,Yellow,4,36,27,5,4,2025-05-30,2024-12-11,No,Yes,No,No,Medium
+ACC-0420,SwiftLine Facilities Management Systems,Facilities Management,NV,Pro,30,1378.75,16545.0,12,2024-07-25,2025-07-20,Sadia Islam,57.9,Yellow,2,60,87,3,5,2025-04-17,2025-02-27,No,No,No,No,Medium
+ACC-0421,RapidFix HVAC Professionals,HVAC,CA,Pro,59,1696.44,20357.28,12,2022-12-11,2023-12-06,Emma Solis,80.5,Green,18,22,67,10,4,2025-04-18,2025-01-10,Yes,No,No,No,Low
+ACC-0422,Heritage Plumbing Group,Plumbing,NV,Pro,44,1667.91,20014.92,36,2022-06-09,2025-05-24,Ravi Mehta,66.8,Yellow,1,59,88,7,2,2025-05-28,2025-01-04,No,No,No,No,High
+ACC-0423,Premier Facilities Management Experts,Facilities Management,CO,Growth,18,788.61,9463.32,12,2023-06-11,2024-06-05,Ravi Mehta,83.6,Green,20,33,83,3,3,2025-04-19,,Yes,No,No,No,Low
+ACC-0424,TrustWorks Pest Control Associates,Pest Control,CA,Starter,1,363.27,4359.24,12,2024-04-12,2025-04-07,Omar Castillo,82.8,Green,24,46,89,5,5,2025-05-31,,Yes,Yes,No,No,Low
+ACC-0425,Regional Plumbing Associates,Plumbing,AZ,Pro,43,1495.37,17944.44,24,2020-06-08,2022-05-29,Omar Castillo,83.0,Green,29,37,60,3,1,2025-05-21,2025-02-28,No,No,No,No,High
+ACC-0426,National HVAC Solutions,HVAC,MO,Pro,32,1724.45,20693.4,24,2024-06-20,2026-06-10,Emma Solis,80.2,Green,21,25,31,4,0,2025-05-11,2024-12-30,No,No,No,No,Low
+ACC-0427,Heritage HVAC Works,HVAC,WA,Enterprise,116,5575.85,66910.2,12,2020-08-29,2021-08-24,Sadia Islam,51.5,Yellow,6,14,74,1,4,2025-05-31,2024-12-28,No,No,No,No,None
+ACC-0428,RapidFix Pest Control Associates,Pest Control,FL,Growth,14,911.27,10935.24,12,2020-09-02,2021-08-28,Tanya Oluoch,77.5,Green,19,40,89,1,5,2025-05-25,,No,No,No,No,Low
+ACC-0429,National Electrical Partners,Electrical,MN,Starter,3,349.86,4198.32,12,2020-12-03,2021-11-28,Emma Solis,76.4,Green,23,13,60,4,0,2025-05-26,,No,No,No,No,None
+ACC-0430,National HVAC Services,HVAC,TX,Starter,5,399.87,4798.44,24,2023-12-31,2025-12-20,Lena Fischer,62.8,Yellow,33,6,40,6,3,2025-04-23,,No,Yes,Yes,No,Medium
+ACC-0431,OneCall Facilities Management Experts,Facilities Management,CA,Enterprise,69,5363.33,64359.96,24,2020-05-29,2022-05-19,Omar Castillo,76.0,Green,39,33,25,9,4,2025-04-24,2025-03-30,No,Yes,No,No,Medium
+ACC-0432,Dynamic Facilities Management Systems,Facilities Management,CA,Starter,5,345.88,4150.56,12,2023-09-18,2024-09-12,Omar Castillo,59.9,Yellow,10,56,27,5,4,2025-05-12,,No,No,No,No,Medium
+ACC-0433,Regional HVAC Works,HVAC,NV,Starter,4,370.27,4443.24,12,2022-04-10,2023-04-05,Felix Brennan,83.6,Green,34,40,53,9,3,2025-05-14,,No,No,No,No,Medium
+ACC-0434,Apex Landscaping Partners,Landscaping,WA,Enterprise,81,5446.69,65360.28,12,2021-10-24,2022-10-19,Jordan Blake,57.0,Yellow,8,59,10,0,0,2025-04-22,2025-03-05,No,Yes,No,No,Low
+ACC-0435,Premier Facilities Management Experts,Facilities Management,PA,Growth,8,901.45,10817.4,12,2024-04-13,2025-04-08,Emma Solis,50.5,Yellow,13,0,51,5,3,2025-04-22,,No,No,No,No,None
+ACC-0436,TrustWorks HVAC Professionals,HVAC,AZ,Starter,5,340.45,4085.4,24,2021-07-24,2023-07-14,Lena Fischer,72.8,Green,9,31,98,3,3,2025-04-21,,No,Yes,Yes,No,Low
+ACC-0437,Summit Plumbing Solutions,Plumbing,PA,Starter,2,405.32,4863.84,12,2021-01-10,2022-01-05,Emma Solis,64.8,Yellow,33,13,32,8,6,2025-05-28,,No,Yes,No,No,None
+ACC-0438,SwiftLine Electrical Professionals,Electrical,WA,Growth,6,739.15,8869.8,12,2019-06-17,2020-06-11,Tanya Oluoch,77.2,Green,26,16,72,2,1,2025-05-31,,No,No,No,No,None
+ACC-0439,Reliable HVAC Professionals,HVAC,OH,Growth,10,940.1,11281.2,24,2022-02-08,2024-01-29,Sadia Islam,74.2,Green,16,47,56,8,5,2025-05-08,,No,No,Yes,No,Medium
+ACC-0440,Pinnacle HVAC Professionals,HVAC,NY,Starter,4,317.04,3804.48,24,2023-02-06,2025-01-26,Tanya Oluoch,53.7,Yellow,6,25,16,8,6,2025-04-21,,No,Yes,Yes,No,High
+ACC-0441,BlueStar HVAC Systems,HVAC,IL,Growth,11,950.07,11400.84,24,2023-02-02,2025-01-22,Ravi Mehta,48.9,Yellow,1,20,33,2,1,2025-05-26,,No,No,Yes,No,Medium
+ACC-0442,National Electrical Experts,Electrical,AZ,Starter,2,401.61,4819.32,36,2021-03-27,2024-03-11,Sadia Islam,86.3,Green,15,50,83,8,1,2025-05-15,,No,Yes,No,No,High
+ACC-0443,Reliable Facilities Management Associates,Facilities Management,IN,Pro,34,1407.35,16888.2,12,2021-08-14,2022-08-09,Tanya Oluoch,50.6,Yellow,1,36,52,4,6,2025-04-23,2025-04-03,No,No,No,No,None
+ACC-0444,OneCall HVAC Works,HVAC,OH,Starter,1,280.81,3369.72,12,2021-04-09,2022-04-04,Lena Fischer,83.6,Green,33,58,73,1,1,2025-04-25,,No,Yes,No,No,None
+ACC-0445,Reliable Pest Control Experts,Pest Control,IN,Pro,26,1385.22,16622.64,24,2021-06-16,2023-06-06,Jordan Blake,66.0,Yellow,35,12,32,0,0,2025-04-24,2025-01-03,No,No,No,No,Medium
+ACC-0446,Heritage Plumbing Group,Plumbing,OR,Growth,12,839.21,10070.52,12,2021-08-16,2022-08-11,Jordan Blake,51.8,Yellow,12,1,45,4,1,2025-04-26,,No,Yes,No,No,None
+ACC-0447,Regional Facilities Management Services,Facilities Management,FL,Starter,2,397.55,4770.6,12,2022-08-12,2023-08-07,Jordan Blake,64.8,Yellow,9,41,83,2,6,2025-05-13,,No,No,No,No,Low
+ACC-0448,Apex Facilities Management Systems,Facilities Management,CA,Starter,1,348.96,4187.52,12,2022-01-18,2023-01-13,Tanya Oluoch,83.2,Green,37,31,21,9,0,2025-04-22,,No,No,No,No,None
+ACC-0449,Summit HVAC Group,HVAC,TN,Starter,4,321.59,3859.08,36,2023-08-20,2026-08-04,Ravi Mehta,61.8,Yellow,3,7,87,10,0,2025-05-07,,Yes,Yes,No,No,None
+ACC-0450,Elite Pest Control Associates,Pest Control,PA,Starter,4,276.51,3318.12,36,2021-05-03,2024-04-17,Lena Fischer,74.2,Green,15,12,89,3,0,2025-05-05,,No,No,No,No,None
+ACC-0451,SwiftLine Plumbing Systems,Plumbing,WI,Growth,14,892.73,10712.76,12,2019-12-30,2020-12-24,Felix Brennan,51.8,Yellow,11,6,21,4,0,2025-05-24,,No,Yes,No,No,Low
+ACC-0452,Allied HVAC Technologies,HVAC,OR,Starter,2,256.96,3083.52,24,2024-01-11,2025-12-31,Tanya Oluoch,70.2,Green,23,22,58,1,6,2025-04-24,,No,Yes,No,No,None
+ACC-0453,Heritage HVAC Partners,HVAC,OH,Pro,49,1371.97,16463.64,12,2020-12-16,2021-12-11,Omar Castillo,84.2,Green,22,35,51,8,2,2025-05-19,2025-04-26,No,Yes,No,No,None
+ACC-0454,Premier Plumbing Solutions,Plumbing,NV,Starter,1,323.62,3883.44,24,2021-06-11,2023-06-01,Ravi Mehta,80.4,Green,30,14,81,7,2,2025-04-23,,Yes,No,Yes,No,High
+ACC-0455,Allied Electrical Technologies,Electrical,AZ,Growth,18,681.88,8182.56,12,2020-02-15,2021-02-09,Emma Solis,66.6,Yellow,21,20,43,2,6,2025-05-30,,No,Yes,Yes,No,None
+ACC-0456,Regional Landscaping Professionals,Landscaping,OR,Growth,17,961.91,11542.92,36,2022-07-30,2025-07-14,Lena Fischer,88.8,Green,23,27,49,9,0,2025-04-19,,No,No,No,No,High
+ACC-0457,SwiftLine Landscaping Services,Landscaping,NY,Pro,36,1669.53,20034.36,12,2020-01-04,2020-12-29,Felix Brennan,73.0,Green,29,27,10,1,0,2025-04-30,2025-04-01,Yes,Yes,Yes,No,High
+ACC-0458,Allied HVAC Experts,HVAC,NY,Growth,17,700.32,8403.84,12,2024-09-13,2025-09-08,Lena Fischer,64.7,Yellow,10,27,76,0,4,2025-04-20,,No,No,Yes,No,Low
+ACC-0459,TrustWorks Facilities Management Group,Facilities Management,GA,Growth,8,968.68,11624.16,12,2023-05-13,2024-05-07,Lena Fischer,49.9,Yellow,5,12,75,0,3,2025-05-29,,No,No,No,No,Medium
+ACC-0460,BlueStar HVAC Services,HVAC,TX,Starter,3,313.54,3762.48,12,2022-05-22,2023-05-17,Lena Fischer,72.5,Green,19,12,61,2,0,2025-04-26,,No,Yes,No,No,Medium
+ACC-0461,Heritage Pest Control Solutions,Pest Control,MN,Growth,13,784.9,9418.8,12,2020-07-23,2021-07-18,Jordan Blake,73.6,Green,21,12,95,3,4,2025-05-16,,No,No,No,No,Low
+ACC-0462,Dynamic Electrical Systems,Electrical,NY,Starter,5,293.71,3524.52,36,2020-03-10,2023-02-23,Lena Fischer,29.2,Red,1,2,17,4,3,2025-05-13,,No,No,Yes,Yes,None
+ACC-0463,ProServ HVAC Experts,HVAC,MO,Pro,57,1674.55,20094.6,12,2022-01-13,2023-01-08,Felix Brennan,42.9,Yellow,2,1,93,4,4,2025-05-28,2024-12-09,No,No,Yes,No,Medium
+ACC-0464,Elite Other Associates,Other,IN,Starter,1,306.23,3674.76,12,2020-05-18,2021-05-13,Felix Brennan,74.8,Green,39,38,74,0,6,2025-05-07,,No,No,No,No,None
+ACC-0465,BlueStar Electrical Professionals,Electrical,AZ,Starter,1,387.96,4655.52,24,2021-07-22,2023-07-12,Felix Brennan,63.1,Yellow,6,26,58,1,1,2025-05-29,,No,No,No,No,Low
+ACC-0466,Allied HVAC Group,HVAC,NC,Starter,3,326.0,3912.0,36,2020-08-05,2023-07-21,Felix Brennan,77.8,Green,37,36,24,9,3,2025-05-22,,No,No,No,No,None
+ACC-0467,Allied HVAC Partners,HVAC,NY,Starter,4,388.97,4667.64,12,2022-06-12,2023-06-07,Emma Solis,46.6,Yellow,5,26,17,2,5,2025-04-28,,Yes,Yes,No,No,High
+ACC-0468,Reliable Landscaping Partners,Landscaping,MO,Pro,25,2078.82,24945.84,12,2024-10-23,2025-10-18,Felix Brennan,56.6,Yellow,32,1,19,8,3,2025-05-24,2025-03-22,Yes,No,No,No,Low
+ACC-0469,Premier Plumbing Systems,Plumbing,IN,Growth,16,762.41,9148.92,24,2019-06-24,2021-06-13,Ravi Mehta,47.4,Yellow,3,51,13,4,4,2025-05-12,,No,No,Yes,No,Low
+ACC-0470,Reliable Plumbing Solutions,Plumbing,NV,Pro,25,1521.12,18253.44,12,2021-09-03,2022-08-29,Emma Solis,72.1,Green,10,32,73,10,6,2025-04-20,2025-01-14,No,No,No,No,High
+ACC-0471,Summit HVAC Works,HVAC,VA,Growth,6,820.53,9846.36,36,2020-09-12,2023-08-28,Emma Solis,72.2,Green,16,57,21,9,3,2025-05-30,,No,No,No,No,Low
+ACC-0472,Heritage Pest Control Solutions,Pest Control,AZ,Growth,12,722.29,8667.48,12,2021-07-12,2022-07-07,Emma Solis,88.8,Green,29,37,94,10,5,2025-04-22,,Yes,No,No,No,Medium
+ACC-0473,Apex Plumbing Group,Plumbing,MN,Pro,54,1479.15,17749.8,24,2020-11-24,2022-11-14,Omar Castillo,57.2,Yellow,1,17,67,8,2,2025-06-01,2025-03-24,No,Yes,No,No,Low
+ACC-0474,RapidFix Landscaping Associates,Landscaping,GA,Starter,5,379.14,4549.68,36,2024-01-16,2026-12-31,Omar Castillo,84.0,Green,17,34,79,2,0,2025-05-15,,No,No,No,No,None
+ACC-0475,Metro HVAC Group,HVAC,AZ,Pro,36,1599.96,19199.52,24,2020-04-05,2022-03-26,Lena Fischer,79.6,Green,38,36,18,6,0,2025-05-28,2025-03-09,Yes,No,No,No,Medium
+ACC-0476,Dynamic Other Services,Other,CO,Growth,10,978.05,11736.6,12,2024-04-23,2025-04-18,Omar Castillo,48.1,Yellow,6,14,37,7,5,2025-05-21,,No,Yes,No,No,Medium
+ACC-0477,Apex HVAC Partners,HVAC,NY,Growth,15,893.93,10727.16,12,2023-05-05,2024-04-29,Ravi Mehta,77.0,Green,23,58,45,4,3,2025-04-23,,Yes,No,No,No,None
+ACC-0478,RapidFix Pest Control Solutions,Pest Control,NC,Pro,37,1297.44,15569.28,24,2022-08-05,2024-07-25,Omar Castillo,55.2,Yellow,4,30,71,1,6,2025-04-24,2024-12-16,Yes,No,Yes,No,High
+ACC-0479,National Electrical Associates,Electrical,IL,Growth,8,698.53,8382.36,12,2021-11-23,2022-11-18,Omar Castillo,67.6,Yellow,33,54,23,3,6,2025-05-07,,No,No,No,No,Low
+ACC-0480,National Electrical Services,Electrical,NY,Growth,19,713.95,8567.4,24,2022-04-03,2024-03-23,Felix Brennan,62.9,Yellow,5,20,53,9,2,2025-05-25,,No,No,No,No,None
+ACC-0481,Dynamic Facilities Management Services,Facilities Management,GA,Pro,43,1477.29,17727.48,24,2024-08-15,2026-08-05,Jordan Blake,66.4,Yellow,22,7,19,7,0,2025-04-24,2024-12-16,No,Yes,No,No,Medium
+ACC-0482,Allied Other Services,Other,TX,Starter,2,270.6,3247.2,12,2022-08-30,2023-08-25,Sadia Islam,73.4,Green,23,38,17,6,3,2025-04-24,,No,Yes,No,No,Medium
+ACC-0483,Dynamic HVAC Partners,HVAC,IL,Starter,4,418.38,5020.56,12,2023-03-29,2024-03-23,Omar Castillo,78.4,Green,27,31,62,0,2,2025-06-01,,No,No,No,No,Medium
+ACC-0484,Dynamic Plumbing Solutions,Plumbing,GA,Growth,5,813.75,9765.0,12,2023-10-20,2024-10-14,Sadia Islam,75.9,Green,14,12,74,9,0,2025-05-09,,No,No,No,No,Low
+ACC-0485,Regional HVAC Technologies,HVAC,CA,Pro,46,1551.58,18618.96,12,2021-01-13,2022-01-08,Emma Solis,81.4,Green,25,40,52,9,4,2025-06-01,2025-01-14,No,Yes,Yes,No,Low
+ACC-0486,Metro HVAC Systems,HVAC,TX,Starter,4,324.56,3894.72,24,2024-05-10,2026-04-30,Lena Fischer,71.2,Green,19,25,27,5,4,2025-05-26,,Yes,Yes,No,No,None
+ACC-0487,OneCall Landscaping Associates,Landscaping,WI,Starter,5,388.22,4658.64,24,2020-10-27,2022-10-17,Omar Castillo,44.4,Yellow,3,0,78,0,0,2025-05-07,,No,No,No,No,Low
+ACC-0488,Dynamic HVAC Partners,HVAC,IL,Starter,5,352.08,4224.96,12,2024-09-10,2025-09-05,Lena Fischer,58.8,Yellow,0,59,44,7,1,2025-04-22,,No,Yes,No,No,None
+ACC-0489,Heritage HVAC Experts,HVAC,CA,Pro,53,1481.28,17775.36,24,2023-07-16,2025-07-05,Sadia Islam,72.3,Green,14,27,54,9,5,2025-05-03,2024-12-12,No,No,No,No,Medium
+ACC-0490,Reliable Landscaping Services,Landscaping,CA,Enterprise,104,4285.55,51426.6,36,2020-02-08,2023-01-23,Tanya Oluoch,69.4,Yellow,32,20,42,5,6,2025-04-19,2025-01-13,No,No,No,No,Medium
+ACC-0491,TrustWorks HVAC Partners,HVAC,MO,Growth,9,928.57,11142.84,12,2024-02-26,2025-02-20,Emma Solis,53.8,Yellow,8,60,34,2,5,2025-04-23,,No,No,Yes,No,High
+ACC-0492,SwiftLine Pest Control Experts,Pest Control,TN,Growth,11,687.53,8250.36,36,2021-01-22,2024-01-07,Ravi Mehta,53.6,Yellow,31,10,13,3,6,2025-04-19,,No,Yes,No,No,Medium
+ACC-0493,BlueStar Electrical Services,Electrical,TN,Growth,6,902.17,10826.04,24,2019-10-16,2021-10-05,Omar Castillo,66.8,Yellow,15,52,15,4,2,2025-04-24,,No,No,No,No,Medium
+ACC-0494,RapidFix HVAC Partners,HVAC,WI,Growth,12,932.89,11194.68,12,2019-06-25,2020-06-19,Emma Solis,66.2,Yellow,32,4,60,7,3,2025-05-28,,No,No,No,No,Medium
+ACC-0495,BlueStar Landscaping Professionals,Landscaping,MO,Starter,3,297.18,3566.16,12,2021-10-23,2022-10-18,Tanya Oluoch,76.2,Green,34,56,56,1,3,2025-05-26,,Yes,No,No,No,Low
+ACC-0496,Dynamic HVAC Associates,HVAC,WI,Growth,19,963.35,11560.2,36,2022-04-15,2025-03-30,Felix Brennan,82.8,Green,34,47,59,9,4,2025-04-30,,No,No,Yes,No,Medium
+ACC-0497,Metro HVAC Associates,HVAC,MO,Enterprise,94,5504.65,66055.8,12,2020-01-01,2020-12-26,Lena Fischer,62.4,Yellow,8,16,58,3,0,2025-05-08,2025-02-27,No,No,No,No,Low
+ACC-0498,SwiftLine Electrical Professionals,Electrical,TX,Pro,57,1644.77,19737.24,12,2022-05-03,2023-04-28,Tanya Oluoch,76.6,Green,36,50,23,2,0,2025-05-07,2025-03-23,No,Yes,Yes,No,Low
+ACC-0499,TrustWorks HVAC Systems,HVAC,TN,Starter,1,256.6,3079.2,12,2020-09-14,2021-09-09,Jordan Blake,51.0,Yellow,1,4,98,8,3,2025-05-25,,Yes,Yes,No,No,High
+ACC-0500,National Electrical Technologies,Electrical,FL,Starter,3,285.29,3423.48,12,2021-07-25,2022-07-20,Felix Brennan,60.8,Yellow,3,58,40,8,2,2025-04-25,,Yes,No,No,No,High
+ACC-0501,Summit Pest Control Services,Pest Control,TX,Pro,55,1803.05,21636.6,12,2020-07-04,2021-06-29,Felix Brennan,82.0,Green,26,55,85,5,6,2025-05-20,2025-04-28,No,No,No,No,None
+ACC-0502,Dynamic Facilities Management Systems,Facilities Management,VA,Starter,3,410.79,4929.48,24,2022-09-17,2024-09-06,Lena Fischer,43.2,Yellow,4,21,12,0,3,2025-05-15,,Yes,Yes,Yes,No,High
+ACC-0503,Summit HVAC Systems,HVAC,NV,Pro,25,1858.65,22303.8,12,2023-05-12,2024-05-06,Felix Brennan,62.4,Yellow,0,51,67,8,2,2025-04-25,2025-02-23,No,Yes,Yes,No,Medium
+ACC-0504,Heritage Pest Control Solutions,Pest Control,TN,Pro,47,1620.16,19441.92,12,2020-07-19,2021-07-14,Ravi Mehta,87.4,Green,24,34,82,9,4,2025-04-24,2025-01-05,Yes,No,No,No,High
+ACC-0505,Dynamic Electrical Solutions,Electrical,WA,Growth,8,775.79,9309.48,36,2023-03-28,2026-03-12,Lena Fischer,60.4,Yellow,39,4,56,0,2,2025-05-03,,Yes,No,No,No,High
+ACC-0506,SwiftLine Electrical Solutions,Electrical,TN,Starter,2,257.81,3093.72,12,2019-11-26,2020-11-20,Omar Castillo,88.0,Green,22,29,90,8,4,2025-06-01,,No,Yes,Yes,No,Medium
+ACC-0507,Metro Landscaping Solutions,Landscaping,IN,Enterprise,178,4404.39,52852.68,12,2022-04-11,2023-04-06,Emma Solis,77.6,Green,29,31,68,4,5,2025-05-14,2025-01-24,No,Yes,Yes,No,Low
+ACC-0508,National Electrical Experts,Electrical,OR,Starter,5,320.39,3844.68,24,2020-03-09,2022-02-27,Felix Brennan,55.4,Yellow,11,10,28,9,3,2025-05-28,,No,Yes,No,No,Medium
+ACC-0509,Allied HVAC Associates,HVAC,OH,Starter,5,311.15,3733.8,12,2021-01-22,2022-01-17,Lena Fischer,62.5,Yellow,2,20,65,8,1,2025-05-24,,No,No,Yes,No,None
+ACC-0510,BlueStar HVAC Solutions,HVAC,NC,Enterprise,162,4077.18,48926.16,12,2023-05-13,2024-05-07,Omar Castillo,74.5,Green,17,60,16,7,1,2025-05-02,2025-03-18,No,No,No,No,Medium
+ACC-0511,Metro HVAC Solutions,HVAC,VA,Starter,5,361.36,4336.32,24,2024-07-12,2026-07-02,Ravi Mehta,71.1,Green,10,44,43,7,1,2025-05-28,,No,No,No,No,None
+ACC-0512,Pinnacle HVAC Professionals,HVAC,NY,Growth,16,956.68,11480.16,36,2023-01-04,2025-12-19,Jordan Blake,58.5,Yellow,5,7,83,5,0,2025-04-20,,Yes,No,No,No,High
+ACC-0513,TrustWorks Facilities Management Group,Facilities Management,VA,Starter,3,291.55,3498.6,24,2023-12-30,2025-12-19,Jordan Blake,63.4,Yellow,36,8,35,0,0,2025-04-25,,No,No,Yes,No,None
+ACC-0514,RapidFix HVAC Professionals,HVAC,VA,Enterprise,82,5596.46,67157.52,12,2022-08-19,2023-08-14,Sadia Islam,69.1,Yellow,18,14,92,2,6,2025-04-25,2024-12-11,No,No,No,No,Low
+ACC-0515,BlueStar HVAC Partners,HVAC,MO,Growth,20,888.64,10663.68,36,2021-09-24,2024-09-08,Emma Solis,81.0,Green,39,50,75,2,3,2025-05-27,,No,No,Yes,No,None
+ACC-0516,Elite HVAC Technologies,HVAC,WA,Starter,3,381.55,4578.6,24,2023-02-19,2025-02-08,Omar Castillo,64.1,Yellow,14,43,33,1,3,2025-05-04,,No,No,No,No,Medium
+ACC-0517,SwiftLine HVAC Technologies,HVAC,NC,Pro,53,1324.01,15888.12,12,2024-03-31,2025-03-26,Omar Castillo,65.3,Yellow,2,47,64,7,1,2025-05-13,2024-12-15,No,No,No,No,Low
+ACC-0518,TrustWorks HVAC Partners,HVAC,CA,Starter,3,320.9,3850.8,24,2020-03-09,2022-02-27,Jordan Blake,67.0,Yellow,21,21,16,7,6,2025-05-07,,No,No,No,No,Medium
+ACC-0519,National Other Group,Other,CA,Starter,2,288.03,3456.36,36,2020-06-09,2023-05-25,Jordan Blake,62.4,Yellow,38,2,79,5,6,2025-05-01,,No,No,Yes,No,None
+ACC-0520,National HVAC Partners,HVAC,MN,Pro,25,2095.95,25151.4,24,2022-01-03,2023-12-24,Omar Castillo,69.9,Yellow,6,38,97,0,1,2025-04-19,2025-01-23,Yes,No,No,No,Low
+ACC-0521,Pinnacle Plumbing Professionals,Plumbing,CO,Growth,16,947.6,11371.2,12,2021-03-07,2022-03-02,Emma Solis,50.8,Yellow,11,0,20,10,1,2025-04-26,,No,Yes,Yes,No,Low
+ACC-0522,Reliable Pest Control Professionals,Pest Control,NV,Pro,23,1339.23,16070.76,12,2020-01-14,2021-01-08,Tanya Oluoch,69.5,Yellow,11,58,54,10,5,2025-05-11,2025-04-24,No,No,Yes,No,High
+ACC-0523,Allied Plumbing Technologies,Plumbing,FL,Starter,2,393.03,4716.36,24,2022-01-05,2023-12-26,Jordan Blake,93.0,Green,22,45,85,10,2,2025-05-29,,Yes,No,No,No,Low
+ACC-0524,BlueStar Pest Control Systems,Pest Control,CA,Enterprise,63,4039.54,48474.48,24,2024-06-11,2026-06-01,Emma Solis,51.4,Yellow,0,17,54,2,0,2025-04-30,2025-02-19,Yes,Yes,No,No,None
+ACC-0525,National Other Solutions,Other,CA,Enterprise,146,5603.96,67247.52,12,2022-11-14,2023-11-09,Sadia Islam,73.2,Green,22,48,41,5,5,2025-05-09,2025-01-23,Yes,Yes,Yes,No,High
+ACC-0526,TrustWorks Electrical Professionals,Electrical,NC,Enterprise,63,5057.93,60695.16,24,2021-08-23,2023-08-13,Omar Castillo,58.2,Yellow,35,3,19,8,3,2025-05-30,2025-03-02,No,No,No,No,Low
+ACC-0527,TrustWorks Landscaping Systems,Landscaping,IL,Growth,11,813.39,9760.68,12,2021-01-12,2022-01-07,Sadia Islam,45.3,Yellow,14,1,10,6,3,2025-05-11,,No,Yes,No,No,Low
+ACC-0528,Summit Facilities Management Professionals,Facilities Management,MO,Growth,7,783.77,9405.24,12,2021-07-17,2022-07-12,Felix Brennan,65.0,Yellow,8,57,60,2,2,2025-05-16,,No,No,Yes,No,Low
+ACC-0529,Premier Electrical Systems,Electrical,CA,Growth,9,678.28,8139.36,12,2020-08-27,2021-08-22,Sadia Islam,29.9,Red,6,4,11,0,4,2025-05-10,,No,Yes,No,Yes,Medium
+ACC-0530,National HVAC Professionals,HVAC,CO,Starter,1,268.69,3224.28,24,2021-08-13,2023-08-03,Tanya Oluoch,51.0,Yellow,8,39,10,4,5,2025-04-26,,No,No,No,No,None
+ACC-0531,Allied Pest Control Solutions,Pest Control,MN,Starter,4,305.41,3664.92,12,2021-08-18,2022-08-13,Tanya Oluoch,74.8,Green,15,26,95,2,6,2025-05-09,,No,No,No,No,None
+ACC-0532,SwiftLine Other Services,Other,IL,Starter,1,368.43,4421.16,12,2020-02-14,2021-02-08,Lena Fischer,48.5,Yellow,7,5,54,2,1,2025-05-20,,No,No,No,No,None
+ACC-0533,Regional Electrical Associates,Electrical,NY,Growth,10,620.11,7441.32,24,2024-07-01,2026-06-21,Emma Solis,74.4,Green,33,36,72,0,5,2025-05-05,,Yes,Yes,No,No,Low
+ACC-0534,SwiftLine HVAC Experts,HVAC,CA,Growth,7,874.93,10499.16,12,2024-05-08,2025-05-03,Lena Fischer,73.0,Green,30,10,100,1,3,2025-04-17,,Yes,No,No,No,High
+ACC-0535,RapidFix Facilities Management Partners,Facilities Management,CO,Growth,11,619.97,7439.64,24,2024-11-26,2026-11-16,Ravi Mehta,91.8,Green,32,58,84,7,1,2025-05-13,,Yes,No,Yes,No,Low
+ACC-0536,ProServ Pest Control Solutions,Pest Control,OH,Starter,2,254.35,3052.2,24,2020-05-29,2022-05-19,Tanya Oluoch,72.0,Green,39,18,78,2,5,2025-05-29,,No,Yes,No,No,Medium
+ACC-0537,BlueStar HVAC Services,HVAC,OH,Growth,11,875.24,10502.88,36,2024-08-06,2027-07-22,Emma Solis,62.2,Yellow,4,26,56,9,4,2025-04-22,,Yes,Yes,Yes,No,Low
+ACC-0538,Regional HVAC Technologies,HVAC,CA,Enterprise,98,4075.93,48911.16,12,2020-02-24,2021-02-18,Lena Fischer,71.8,Green,31,22,26,1,1,2025-05-24,2024-12-25,Yes,No,No,No,None
+ACC-0539,Regional Plumbing Systems,Plumbing,OR,Starter,1,366.33,4395.96,12,2024-01-15,2025-01-09,Sadia Islam,75.4,Green,38,14,66,7,3,2025-05-26,,No,Yes,Yes,No,None
+ACC-0540,Pinnacle Other Associates,Other,WI,Growth,7,753.97,9047.64,36,2024-05-14,2027-04-29,Emma Solis,85.8,Green,30,19,58,9,0,2025-05-19,,Yes,Yes,No,No,Low
+ACC-0541,Dynamic Pest Control Professionals,Pest Control,TX,Pro,37,1329.29,15951.48,24,2021-08-01,2023-07-22,Ravi Mehta,63.2,Yellow,9,36,20,3,0,2025-04-30,2025-04-18,No,No,No,No,High
+ACC-0542,RapidFix Landscaping Systems,Landscaping,WA,Pro,49,2060.71,24728.52,12,2024-05-01,2025-04-26,Omar Castillo,76.5,Green,14,44,60,2,0,2025-05-09,2025-04-17,No,No,No,No,Medium
+ACC-0543,Dynamic HVAC Works,HVAC,TX,Starter,4,318.53,3822.36,36,2020-07-07,2023-06-22,Felix Brennan,71.8,Green,38,49,34,3,4,2025-05-13,,No,Yes,No,No,Low
+ACC-0544,Dynamic HVAC Solutions,HVAC,CO,Starter,2,325.49,3905.88,12,2024-02-03,2025-01-28,Emma Solis,56.1,Yellow,18,9,42,3,6,2025-04-21,,No,No,No,No,None
+ACC-0545,ProServ Facilities Management Partners,Facilities Management,FL,Growth,6,799.37,9592.44,24,2022-03-06,2024-02-24,Emma Solis,74.4,Green,39,59,62,2,5,2025-04-20,,No,No,No,No,Low
+ACC-0546,Regional Facilities Management Experts,Facilities Management,GA,Growth,9,871.02,10452.24,12,2024-10-23,2025-10-18,Lena Fischer,80.0,Green,11,56,56,10,0,2025-05-18,,No,No,No,No,None
+ACC-0547,TrustWorks HVAC Systems,HVAC,OR,Pro,25,1856.55,22278.6,36,2021-06-19,2024-06-03,Lena Fischer,62.2,Yellow,25,1,57,4,2,2025-04-19,2025-02-23,No,No,No,No,High
+ACC-0548,OneCall Landscaping Partners,Landscaping,TN,Growth,13,871.63,10459.56,36,2024-09-12,2027-08-28,Sadia Islam,68.4,Yellow,12,23,40,6,2,2025-05-08,,No,Yes,No,No,Low
+ACC-0549,Metro HVAC Works,HVAC,IL,Pro,31,1557.15,18685.8,12,2021-06-27,2022-06-22,Jordan Blake,80.6,Green,36,21,89,4,4,2025-05-07,2025-03-27,No,No,No,No,High
+ACC-0550,Summit Plumbing Partners,Plumbing,IL,Starter,1,394.5,4734.0,12,2020-10-03,2021-09-28,Lena Fischer,55.6,Yellow,17,8,40,5,6,2025-05-08,,Yes,No,Yes,No,Medium
+ACC-0551,Premier Electrical Professionals,Electrical,OR,Growth,12,898.88,10786.56,24,2020-04-18,2022-04-08,Emma Solis,80.8,Green,19,49,50,4,1,2025-05-06,,No,No,No,No,Low
+ACC-0552,Apex Landscaping Group,Landscaping,FL,Starter,1,259.08,3108.96,36,2023-01-13,2025-12-28,Emma Solis,88.4,Green,31,60,77,5,1,2025-05-09,,No,Yes,No,No,Medium
+ACC-0553,OneCall Plumbing Services,Plumbing,NY,Starter,3,375.7,4508.4,24,2020-05-26,2022-05-16,Lena Fischer,78.0,Green,16,17,97,10,5,2025-05-01,,No,No,No,No,None
+ACC-0554,Dynamic Plumbing Systems,Plumbing,CO,Growth,15,930.66,11167.92,12,2024-01-06,2024-12-31,Tanya Oluoch,77.4,Green,28,29,67,2,4,2025-05-06,,No,Yes,No,No,None
+ACC-0555,Allied Landscaping Works,Landscaping,CO,Starter,1,406.27,4875.24,36,2022-12-10,2025-11-24,Sadia Islam,77.5,Green,9,52,66,8,0,2025-04-21,,Yes,Yes,Yes,No,Low
+ACC-0556,Elite Pest Control Technologies,Pest Control,OR,Growth,9,619.41,7432.92,12,2020-06-16,2021-06-11,Lena Fischer,50.4,Yellow,12,7,64,0,4,2025-04-18,,Yes,Yes,No,No,None
+ACC-0557,Heritage HVAC Solutions,HVAC,TX,Growth,6,670.45,8045.4,24,2020-07-10,2022-06-30,Sadia Islam,73.8,Green,22,45,29,8,6,2025-04-24,,No,No,No,No,Low
+ACC-0558,TrustWorks Pest Control Technologies,Pest Control,NV,Starter,5,312.08,3744.96,36,2024-06-03,2027-05-19,Tanya Oluoch,49.1,Yellow,15,9,31,2,5,2025-05-20,,No,Yes,No,No,Medium
+ACC-0559,Premier Pest Control Professionals,Pest Control,TN,Pro,34,1918.75,23025.0,12,2020-09-04,2021-08-30,Tanya Oluoch,78.2,Green,27,27,21,8,2,2025-05-27,2025-04-20,No,Yes,No,No,High
+ACC-0560,Summit Facilities Management Solutions,Facilities Management,TN,Growth,8,888.06,10656.72,12,2023-12-09,2024-12-03,Tanya Oluoch,50.0,Yellow,24,2,22,0,3,2025-05-26,,No,No,No,No,Low
+ACC-0561,BlueStar Other Works,Other,MN,Growth,20,850.28,10203.36,36,2024-02-19,2027-02-03,Omar Castillo,73.6,Green,16,34,43,6,3,2025-05-16,,No,Yes,No,No,Low
+ACC-0562,Apex Other Works,Other,MO,Enterprise,96,5769.78,69237.36,36,2024-07-27,2027-07-12,Jordan Blake,72.2,Green,40,6,87,4,2,2025-04-20,2024-12-09,No,No,No,No,Low
+ACC-0563,ProServ Plumbing Professionals,Plumbing,GA,Pro,23,1584.99,19019.88,24,2024-01-07,2025-12-27,Sadia Islam,72.2,Green,13,23,93,0,3,2025-05-28,2025-04-03,Yes,No,No,No,High
+ACC-0564,Allied Facilities Management Group,Facilities Management,GA,Starter,1,334.0,4008.0,12,2021-03-07,2022-03-02,Felix Brennan,73.0,Green,7,41,81,5,1,2025-05-08,,No,No,Yes,No,Medium
+ACC-0565,National HVAC Partners,HVAC,OR,Growth,20,846.68,10160.16,12,2021-07-30,2022-07-25,Sadia Islam,76.2,Green,17,50,70,0,2,2025-05-28,,No,No,Yes,No,Medium
+ACC-0566,Metro Other Associates,Other,TN,Starter,3,265.99,3191.88,36,2022-08-03,2025-07-18,Sadia Islam,70.8,Green,21,27,44,0,4,2025-04-25,,No,No,No,No,High
+ACC-0567,Allied Plumbing Group,Plumbing,NV,Growth,10,617.29,7407.48,12,2023-12-02,2024-11-26,Ravi Mehta,49.2,Yellow,1,16,31,6,1,2025-04-21,,No,Yes,No,No,None
+ACC-0568,TrustWorks HVAC Systems,HVAC,CA,Starter,2,348.15,4177.8,36,2023-08-18,2026-08-02,Omar Castillo,83.8,Green,39,25,69,8,4,2025-04-26,,No,Yes,Yes,No,Low
+ACC-0569,Allied Landscaping Professionals,Landscaping,CO,Growth,12,624.87,7498.44,12,2022-10-15,2023-10-10,Ravi Mehta,81.8,Green,28,41,59,10,6,2025-04-18,,No,No,No,No,Medium
+ACC-0570,Heritage Electrical Works,Electrical,AZ,Starter,2,408.85,4906.2,24,2023-04-03,2025-03-23,Felix Brennan,54.0,Yellow,12,7,87,1,5,2025-05-20,,Yes,No,No,No,Low
+ACC-0571,TrustWorks HVAC Partners,HVAC,IN,Starter,2,274.06,3288.72,12,2019-10-20,2020-10-14,Jordan Blake,81.6,Green,22,31,58,4,2,2025-06-01,,Yes,Yes,No,No,High
+ACC-0572,TrustWorks Plumbing Partners,Plumbing,FL,Enterprise,138,4284.22,51410.64,24,2023-02-22,2025-02-11,Lena Fischer,80.8,Green,25,19,83,7,4,2025-05-06,2025-03-12,No,No,No,No,None
+ACC-0573,Heritage HVAC Partners,HVAC,OR,Starter,1,321.03,3852.36,12,2021-05-23,2022-05-18,Tanya Oluoch,61.4,Yellow,30,12,14,9,5,2025-05-05,,No,No,No,No,None
+ACC-0574,TrustWorks Electrical Services,Electrical,IL,Starter,3,276.74,3320.88,24,2023-04-26,2025-04-15,Tanya Oluoch,60.6,Yellow,20,13,16,5,4,2025-05-09,,No,Yes,No,No,Low
+ACC-0575,National Pest Control Associates,Pest Control,TN,Growth,18,709.37,8512.44,12,2019-11-08,2020-11-02,Felix Brennan,85.2,Green,33,39,81,9,6,2025-05-10,,No,No,No,No,Low
+ACC-0576,Elite HVAC Associates,HVAC,NY,Starter,3,397.99,4775.88,12,2024-09-11,2025-09-06,Tanya Oluoch,68.2,Yellow,19,45,42,1,6,2025-05-07,,No,No,No,No,Medium
+ACC-0577,SwiftLine Plumbing Solutions,Plumbing,OH,Starter,2,348.7,4184.4,24,2020-12-04,2022-11-24,Felix Brennan,65.5,Yellow,1,33,96,10,5,2025-05-18,,Yes,No,No,No,High
+ACC-0578,TrustWorks Pest Control Solutions,Pest Control,CA,Starter,2,416.68,5000.16,24,2023-03-02,2025-02-19,Felix Brennan,51.5,Yellow,6,15,30,1,0,2025-04-18,,No,Yes,No,No,None
+ACC-0579,Apex HVAC Services,HVAC,GA,Growth,16,668.24,8018.88,36,2022-12-12,2025-11-26,Omar Castillo,87.8,Green,23,21,70,9,1,2025-06-01,,Yes,No,No,No,High
+ACC-0580,Summit Plumbing Technologies,Plumbing,MN,Pro,24,1396.48,16757.76,12,2022-11-03,2023-10-29,Jordan Blake,43.5,Yellow,1,9,55,1,1,2025-05-11,2025-01-22,No,No,No,No,Low
+ACC-0581,Regional HVAC Experts,HVAC,AZ,Starter,4,412.65,4951.8,24,2022-07-12,2024-07-01,Emma Solis,74.4,Green,36,39,37,1,2,2025-05-20,,No,No,No,No,High
+ACC-0582,Dynamic HVAC Solutions,HVAC,OH,Starter,2,407.84,4894.08,12,2022-07-02,2023-06-27,Jordan Blake,55.2,Yellow,13,18,33,3,6,2025-05-30,,No,Yes,No,No,High
+ACC-0583,Heritage HVAC Experts,HVAC,TX,Starter,2,362.03,4344.36,12,2019-07-09,2020-07-03,Tanya Oluoch,84.8,Green,28,45,84,6,4,2025-05-30,,No,No,No,No,Medium
+ACC-0584,Reliable Electrical Technologies,Electrical,CA,Starter,1,279.31,3351.72,36,2023-12-05,2026-11-19,Emma Solis,74.2,Green,31,28,46,1,3,2025-05-13,,No,No,Yes,No,Low
+ACC-0585,National Facilities Management Solutions,Facilities Management,PA,Starter,3,409.93,4919.16,12,2020-04-30,2021-04-25,Felix Brennan,76.6,Green,27,25,53,2,3,2025-05-20,,No,No,No,No,Low
+ACC-0586,Reliable HVAC Systems,HVAC,MN,Starter,3,320.14,3841.68,12,2020-01-07,2021-01-01,Tanya Oluoch,39.6,Red,0,14,12,3,1,2025-05-04,,Yes,No,Yes,Yes,High
+ACC-0587,Premier Plumbing Solutions,Plumbing,NC,Pro,20,1634.88,19618.56,12,2021-10-22,2022-10-17,Lena Fischer,83.8,Green,39,39,54,5,1,2025-04-21,2025-01-28,No,Yes,Yes,No,Low
+ACC-0588,Apex Pest Control Services,Pest Control,OH,Pro,55,1908.63,22903.56,24,2023-12-28,2025-12-17,Ravi Mehta,46.0,Yellow,15,1,37,4,5,2025-04-28,2025-02-16,No,Yes,Yes,No,None
+ACC-0589,Reliable HVAC Experts,HVAC,MN,Growth,10,848.62,10183.44,12,2020-02-27,2021-02-21,Jordan Blake,61.6,Yellow,23,3,66,6,6,2025-05-26,,No,No,No,No,Medium
+ACC-0590,ProServ Plumbing Experts,Plumbing,MN,Pro,59,1922.71,23072.52,12,2022-10-13,2023-10-08,Felix Brennan,61.1,Yellow,3,24,56,10,4,2025-05-23,2025-01-02,No,No,Yes,No,Low
+ACC-0591,Apex Electrical Technologies,Electrical,IN,Starter,5,382.74,4592.88,24,2021-05-03,2023-04-23,Omar Castillo,70.8,Green,34,18,42,8,5,2025-05-17,,No,No,Yes,No,Low
+ACC-0592,Premier HVAC Group,HVAC,MN,Starter,1,273.76,3285.12,24,2021-12-24,2023-12-14,Jordan Blake,76.5,Green,15,44,54,8,3,2025-05-29,,No,No,Yes,No,Low
+ACC-0593,Apex Plumbing Professionals,Plumbing,TN,Growth,13,861.13,10333.56,24,2020-05-30,2022-05-20,Sadia Islam,58.4,Yellow,7,31,23,2,1,2025-05-16,,No,Yes,No,No,Low
+ACC-0594,Reliable Plumbing Associates,Plumbing,TN,Starter,3,278.76,3345.12,24,2020-01-18,2022-01-07,Ravi Mehta,80.2,Green,24,43,51,10,6,2025-05-20,,No,No,Yes,No,Low
+ACC-0595,National HVAC Services,HVAC,NC,Starter,3,326.97,3923.64,12,2024-06-27,2025-06-22,Felix Brennan,84.2,Green,32,53,76,7,4,2025-05-03,,Yes,Yes,Yes,No,Medium
+ACC-0596,Pinnacle Plumbing Systems,Plumbing,VA,Growth,16,621.59,7459.08,12,2023-09-16,2024-09-10,Tanya Oluoch,77.4,Green,28,31,42,9,5,2025-04-22,,No,Yes,No,No,High
+ACC-0597,Metro HVAC Systems,HVAC,WA,Starter,4,332.13,3985.56,12,2023-11-14,2024-11-08,Ravi Mehta,69.8,Yellow,22,36,29,0,3,2025-04-28,,Yes,Yes,No,No,None
+ACC-0598,Apex Electrical Associates,Electrical,CO,Growth,10,652.17,7826.04,12,2021-01-06,2022-01-01,Emma Solis,85.4,Green,20,59,62,3,0,2025-05-12,,No,Yes,No,No,Low
+ACC-0599,National Pest Control Partners,Pest Control,NV,Growth,9,842.41,10108.92,24,2020-05-18,2022-05-08,Felix Brennan,59.4,Yellow,11,2,65,6,0,2025-04-30,,Yes,No,No,No,None
+ACC-0600,Pinnacle Pest Control Group,Pest Control,FL,Starter,2,361.82,4341.84,12,2023-09-05,2024-08-30,Jordan Blake,74.8,Green,17,36,78,3,5,2025-05-21,,No,Yes,No,No,None
+ACC-0601,Elite HVAC Services,HVAC,NY,Starter,1,371.11,4453.32,12,2022-06-07,2023-06-02,Omar Castillo,86.6,Green,34,26,78,7,3,2025-04-25,,Yes,No,No,No,Medium
+ACC-0602,RapidFix HVAC Professionals,HVAC,MN,Growth,14,974.3,11691.6,12,2023-08-15,2024-08-09,Jordan Blake,53.3,Yellow,2,50,59,2,4,2025-04-22,,No,Yes,No,No,Medium
+ACC-0603,Elite Landscaping Solutions,Landscaping,NY,Pro,60,1605.35,19264.2,24,2024-09-18,2026-09-08,Felix Brennan,66.8,Yellow,7,38,65,2,1,2025-04-23,2025-03-27,No,Yes,No,No,None
+ACC-0604,OneCall HVAC Experts,HVAC,OR,Starter,1,261.63,3139.56,24,2020-04-30,2022-04-20,Felix Brennan,59.2,Yellow,34,13,24,4,5,2025-04-18,,Yes,Yes,No,No,High
+ACC-0605,Pinnacle Pest Control Experts,Pest Control,PA,Starter,5,354.37,4252.44,24,2024-11-21,2026-11-11,Felix Brennan,76.4,Green,36,44,77,1,5,2025-05-25,,Yes,Yes,No,No,High
+ACC-0606,BlueStar HVAC Experts,HVAC,TN,Growth,10,865.66,10387.92,12,2019-10-06,2020-09-30,Sadia Islam,70.0,Green,12,47,30,8,2,2025-05-20,,Yes,Yes,No,No,None
+ACC-0607,Pinnacle HVAC Associates,HVAC,NV,Starter,2,399.9,4798.8,12,2024-06-15,2025-06-10,Jordan Blake,85.6,Green,22,35,98,2,3,2025-05-29,,Yes,No,No,No,High
+ACC-0608,Heritage Plumbing Technologies,Plumbing,PA,Starter,4,407.67,4892.04,12,2024-03-22,2025-03-17,Ravi Mehta,77.2,Green,35,56,36,8,4,2025-05-02,,No,No,Yes,No,Medium
+ACC-0609,Metro Facilities Management Technologies,Facilities Management,OH,Growth,17,662.21,7946.52,12,2021-12-18,2022-12-13,Tanya Oluoch,80.8,Green,27,35,49,1,0,2025-04-20,,No,Yes,No,No,Low
+ACC-0610,OneCall Electrical Works,Electrical,TX,Starter,5,374.38,4492.56,12,2020-09-01,2021-08-27,Ravi Mehta,80.2,Green,29,47,86,1,4,2025-05-07,,No,No,No,No,None
+ACC-0611,TrustWorks Plumbing Associates,Plumbing,MN,Growth,16,911.52,10938.24,12,2020-05-08,2021-05-03,Emma Solis,69.0,Yellow,17,15,19,9,1,2025-05-06,,Yes,No,Yes,No,Medium
+ACC-0612,Allied Plumbing Solutions,Plumbing,TN,Enterprise,196,5055.91,60670.92,36,2022-06-13,2025-05-28,Felix Brennan,76.6,Green,22,42,73,2,5,2025-05-08,2025-01-28,No,No,No,No,Low
+ACC-0613,National Plumbing Works,Plumbing,GA,Growth,8,647.34,7768.08,12,2021-12-04,2022-11-29,Felix Brennan,94.0,Green,39,32,85,9,1,2025-04-24,,No,No,No,No,None
+ACC-0614,Dynamic Pest Control Systems,Pest Control,OR,Pro,28,1751.78,21021.36,12,2022-10-27,2023-10-22,Lena Fischer,72.2,Green,17,40,70,2,6,2025-05-13,2025-04-16,No,No,No,No,High
+ACC-0615,Elite HVAC Systems,HVAC,NC,Starter,5,329.35,3952.2,36,2023-04-05,2026-03-20,Lena Fischer,78.0,Green,16,35,55,10,4,2025-05-28,,No,No,No,No,None
+ACC-0616,SwiftLine HVAC Group,HVAC,TN,Starter,4,339.5,4074.0,12,2022-12-12,2023-12-07,Tanya Oluoch,84.8,Green,25,46,84,8,6,2025-05-14,,Yes,No,No,No,Medium
+ACC-0617,Apex Electrical Professionals,Electrical,CA,Starter,5,386.73,4640.76,12,2024-04-28,2025-04-23,Sadia Islam,41.9,Yellow,10,7,14,2,3,2025-05-07,,No,No,Yes,No,None
+ACC-0618,SwiftLine HVAC Technologies,HVAC,CA,Pro,54,1961.38,23536.56,24,2021-06-04,2023-05-25,Emma Solis,58.7,Yellow,14,0,81,8,4,2025-05-11,2024-12-30,No,No,No,No,High
+ACC-0619,Premier Facilities Management Services,Facilities Management,PA,Starter,1,345.15,4141.8,12,2021-09-29,2022-09-24,Jordan Blake,74.7,Green,9,59,67,5,0,2025-05-30,,No,No,No,No,High
+ACC-0620,BlueStar Facilities Management Professionals,Facilities Management,MO,Starter,5,312.68,3752.16,12,2020-07-21,2021-07-16,Sadia Islam,72.8,Green,24,18,22,8,2,2025-04-20,,No,No,No,No,None
+ACC-0621,Summit Plumbing Technologies,Plumbing,VA,Growth,5,845.44,10145.28,24,2022-05-23,2024-05-12,Ravi Mehta,88.4,Green,26,56,92,0,0,2025-05-09,,Yes,Yes,No,No,Medium
+ACC-0622,SwiftLine HVAC Systems,HVAC,WA,Pro,36,1382.59,16591.08,12,2022-10-02,2023-09-27,Omar Castillo,81.6,Green,30,17,95,5,3,2025-05-22,2025-02-14,Yes,No,No,No,Low
+ACC-0623,Pinnacle Landscaping Group,Landscaping,NV,Starter,5,352.39,4228.68,24,2024-04-21,2026-04-11,Ravi Mehta,82.8,Green,20,59,64,2,1,2025-06-01,,No,Yes,No,No,Medium
+ACC-0624,ProServ HVAC Associates,HVAC,VA,Growth,20,712.29,8547.48,24,2024-06-18,2026-06-08,Felix Brennan,84.8,Green,34,18,97,5,2,2025-05-12,,No,Yes,No,No,Low
+ACC-0625,Allied Plumbing Technologies,Plumbing,TN,Starter,1,413.58,4962.96,12,2021-01-09,2022-01-04,Sadia Islam,61.2,Yellow,13,6,31,9,0,2025-05-24,,No,Yes,Yes,No,High
+ACC-0626,SwiftLine Pest Control Technologies,Pest Control,NV,Starter,2,358.3,4299.6,24,2022-01-04,2023-12-25,Ravi Mehta,76.8,Green,27,49,44,8,5,2025-05-10,,No,No,No,No,Medium
+ACC-0627,National Electrical Professionals,Electrical,WA,Starter,3,282.16,3385.92,12,2024-02-18,2025-02-12,Ravi Mehta,60.0,Yellow,20,6,61,1,4,2025-04-23,,Yes,No,Yes,No,None
+ACC-0628,ProServ HVAC Works,HVAC,PA,Starter,1,313.89,3766.68,12,2022-10-10,2023-10-05,Felix Brennan,77.8,Green,28,29,49,4,3,2025-05-10,,No,No,No,No,Medium
+ACC-0629,Premier Facilities Management Works,Facilities Management,GA,Starter,4,273.73,3284.76,12,2022-09-02,2023-08-28,Lena Fischer,69.2,Yellow,12,16,47,9,1,2025-05-01,,Yes,Yes,No,No,None
+ACC-0630,RapidFix Plumbing Experts,Plumbing,IL,Growth,7,858.8,10305.6,36,2020-10-03,2023-09-18,Ravi Mehta,74.8,Green,27,59,14,8,3,2025-04-27,,Yes,No,No,No,High
+ACC-0631,Elite HVAC Systems,HVAC,CO,Growth,14,912.17,10946.04,12,2021-11-07,2022-11-02,Sadia Islam,47.6,Yellow,4,20,33,1,3,2025-04-20,,No,No,No,No,High
+ACC-0632,Reliable Facilities Management Systems,Facilities Management,IN,Pro,23,1357.85,16294.2,12,2022-07-31,2023-07-26,Sadia Islam,83.2,Green,27,43,71,3,2,2025-05-27,2024-12-31,No,No,No,No,Low
+ACC-0633,Heritage Plumbing Systems,Plumbing,NC,Growth,7,973.58,11682.96,12,2020-09-02,2021-08-28,Omar Castillo,77.4,Green,8,37,87,9,2,2025-05-11,,Yes,No,Yes,No,None
+ACC-0634,National Electrical Solutions,Electrical,NY,Starter,5,310.11,3721.32,24,2020-09-09,2022-08-30,Jordan Blake,77.8,Green,34,57,39,10,5,2025-04-17,,Yes,No,No,No,Medium
+ACC-0635,TrustWorks HVAC Associates,HVAC,WA,Pro,38,1595.57,19146.84,24,2023-07-17,2025-07-06,Felix Brennan,88.0,Green,39,48,95,9,5,2025-05-04,2025-03-20,No,No,No,No,Medium
+ACC-0636,TrustWorks HVAC Experts,HVAC,NV,Pro,53,1885.81,22629.72,24,2024-02-20,2026-02-09,Jordan Blake,46.8,Yellow,11,9,19,7,5,2025-04-20,2025-04-14,No,No,No,No,High
+ACC-0637,BlueStar Plumbing Systems,Plumbing,IN,Pro,41,1892.99,22715.88,12,2022-05-19,2023-05-14,Felix Brennan,68.4,Yellow,21,51,22,4,6,2025-05-22,2024-12-20,No,No,Yes,No,None
+ACC-0638,OneCall HVAC Experts,HVAC,FL,Starter,1,288.67,3464.04,12,2022-03-26,2023-03-21,Omar Castillo,66.6,Yellow,34,7,20,9,1,2025-05-15,,No,No,Yes,No,None
+ACC-0639,Apex Electrical Experts,Electrical,VA,Pro,56,1793.78,21525.36,12,2020-05-07,2021-05-02,Lena Fischer,74.2,Green,29,36,16,5,2,2025-05-05,2024-12-04,No,Yes,No,No,None
+ACC-0640,Allied Electrical Group,Electrical,NY,Growth,5,884.23,10610.76,36,2022-01-07,2024-12-22,Jordan Blake,68.8,Yellow,20,12,26,10,3,2025-04-26,,No,No,Yes,No,None
